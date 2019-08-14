@@ -724,17 +724,7 @@ Source: WeAreNetflix on YouTube</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>My name is Javier Orraca and I drive business value for corporations and privately held businesses through data analytics, predictive modeling, and empowering stakeholders with robust decision analytics.
-Background My career includes over a decade of consulting, data analysis, and fixed asset valuation modeling for Ernst &amp;amp; Young (EY), Pacific Gas &amp;amp; Electric (PG&amp;amp;E), and KPMG. My work supported M&amp;amp;A financial reporting requirements and strategic finance initiatives. I had a vision of providing more value to business organizations than what my M&amp;amp;A and valuation work allowed for, so I began to explore and learn how to apply regressions and machine learning for advanced, data-driven decision making.</description>
-    </item>
-    
-    <item>
-      <title>Consulting &amp; Collaborations</title>
+      <title>consulting</title>
       <link>/consulting/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
@@ -744,13 +734,23 @@ yo.AI As a Partner and Co-Founder of yoAI, we deploy secure, encrypted, artifici
     </item>
     
     <item>
-      <title>Contact &amp; Social Media</title>
+      <title>contact &#43; social</title>
       <link>/contact/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/contact/</guid>
       <description>Email &amp;amp; Phone Personal Email: orraca.javier@gmail.com Scatter Podcast: scatter.podcast@gmail.com Phone: +1-714-794-5668
 Social Media LinkedIn: https://www.linkedin.com/in/orraca/ Tableau Public: https://public.tableau.com/profile/javier.orraca Scatter Podcast on SoundCloud: https://soundcloud.com/scatterpodcast GitHub: https://github.com/JavOrraca Twitter: https://twitter.com/Scatter_Podcast Instagram: https://www.instagram.com/iwantmorejavier/</description>
+    </item>
+    
+    <item>
+      <title>who is javier?</title>
+      <link>/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Javier Orraca and I drive business value for corporations and privately held businesses through data analytics, predictive modeling, and empowering stakeholders with robust decision analytics.
+Background My career includes over a decade of consulting, data analysis, and fixed asset valuation modeling for Ernst &amp;amp; Young (EY), Pacific Gas &amp;amp; Electric (PG&amp;amp;E), and KPMG. My work supported M&amp;amp;A financial reporting requirements and strategic finance initiatives. I had a vision of providing more value to business organizations than what my M&amp;amp;A and valuation work allowed for, so I began to explore and learn how to apply regressions and machine learning for advanced, data-driven decision making.</description>
     </item>
     
   </channel>

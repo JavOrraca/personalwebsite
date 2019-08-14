@@ -1,6 +1,6 @@
 ---
 date: "2018-02-13T12:21:57-05:00"
-title: Scatter Podcast
+title: scatter podcast
 ---
 
 As the host of Scatter Podcast, I interview analytics and data science professionals and discuss trends in data analytics, machine learning, modeling techniques, artificial intelligence, and data science use cases in business. Below, listen to some individual episodes and subscribe if you like what you hear!
