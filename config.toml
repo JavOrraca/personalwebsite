@@ -16,9 +16,9 @@ googleAnalytics          = "UA-127790709-3"                               # Trac
     footerText           = "Javier Orraca. Data Scientist."
 
 # Metadata for Open Graph and Twitter
-    description          = "Javier Orraca's analytics and data science hub."               # Max 160 characters show in search results
+    description          = "Javier Orraca's personal site for sharing analytics and data science resources through his blog and Scatter Podcast."               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Hi, I'm Javier."
+    title                = "Javier Orraca. Data Scientist."
 
 [[params.mainMenu]]
     link = "/blog"
