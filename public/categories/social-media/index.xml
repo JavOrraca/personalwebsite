@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media on Javier&#39;s Data Site</title>
+    <link>/categories/social-media/</link>
+    <description>Recent content in Social Media on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/social-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fake News &amp; Social Media</title>
+      <link>/blog/2018-08-10-fake-news/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-08-10-fake-news/</guid>
+      <description>The dissemination of fake news on social media is widespread, often fueled by bots and reinforced through user sharing. On the most recent episode of the Data Skeptic, host Kyle Polich interviews Filippo Menczer to discuss how bots influence the spread of fake news. For anyone interested in data analytics, this is a great listen and the link below also references several tools for studying the spread of information on social media.</description>
+    </item>
+    
+  </channel>
+</rss>

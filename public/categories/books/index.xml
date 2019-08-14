@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Javier&#39;s Data Site</title>
+    <link>/categories/books/</link>
+    <description>Recent content in Books on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Book Recommendations on Analytics &amp; Data Science</title>
+      <link>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</guid>
+      <description>Back to school, back to reading! Looking forward to these reads&amp;hellip; I’m finding Naomi Ceder’s The Quick Python Book really helpful for learning Python 3&amp;hellip; definitely a learn-by-doing style that I like. Links to these books below:
+Amazon Book Links: * The Quick Python Book * Superforecasting: The Art and Science of Prediction * Feature Engineering for Machine Learning * AMPL: A Modeling Language for Mathematical Programming * The Signal and The Noise * Python for Data Analysis * Applied Predictive Analytics * Learning Tableau 10 * Data Smart: Using Data Science to Transform Information into Insight</description>
+    </item>
+    
+  </channel>
+</rss>

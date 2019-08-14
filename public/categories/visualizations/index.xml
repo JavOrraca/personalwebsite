@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualizations on Javier&#39;s Data Site</title>
+    <link>/categories/visualizations/</link>
+    <description>Recent content in Visualizations on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/visualizations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ask Data by Tableau</title>
+      <link>/blog/2019-02-21-ask-data-by-tableau/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-02-21-ask-data-by-tableau/</guid>
+      <description>Tableau&amp;rsquo;s latest upgrade has a native natural language processing capability called Ask Data - Ask it a question in plain English (&amp;ldquo;What is the profit over time, by business line?&amp;rdquo;) and Tableau &amp;ldquo;determines the most appropriate visualization to satisfy the user’s intent.&amp;rdquo; Super neat, and I&amp;rsquo;m excited to give the upgrade a spin!
+On the surface, Ask Data seems gimmicky&amp;hellip; But as a starting point for visualizations, or for near-instant data investigation during a meeting, this is an awesome feature.</description>
+    </item>
+    
+    <item>
+      <title>Wes Anderson Color Palettes for R</title>
+      <link>/blog/2018-11-08-wes-anderson-movie-color-palettes/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11-08-wes-anderson-movie-color-palettes/</guid>
+      <description>Are you a Wes Anderson fan and regular R user? If you want a color scheme makeover for your R visualizations, check out this fun Wes Anderson color palette package by Karthik Ram. Great stuff&amp;hellip; I just tried out The Grand Budapest Hotel palette for a correlation matrix (see above)!
+Source: Karthik&amp;rsquo;s Wes Anderson project (on GitHub)</description>
+    </item>
+    
+    <item>
+      <title>Network Visualizations via R &#43; iGraph</title>
+      <link>/blog/2018-11-06-network-visualizations/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11-06-network-visualizations/</guid>
+      <description>Network visualizations can be useful for understanding entity and large data interdependencies. I&amp;rsquo;ve been using R and the iGraph package to explore network analysis and found this tutorial to be EXCELLENT by Katherine Ognyanova. It takes a lot of time to build these network graphs and more time to interpret, but definitely rewarding when it provides insights you may have otherwise overlooked. The screenshot above is a network diagram that I made to represent Amazon product copurchases.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Javier&#39;s Data Site</title>
+    <link>/categories/python/</link>
+    <description>Recent content in Python on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud-based Jupyter Notebook via Google Colab</title>
+      <link>/blog/2019-03-06-google-colab/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-03-06-google-colab/</guid>
+      <description>I only started learning Python in January but regularly use Jupyter Notebooks for all of my R-based projects. Last week, I discovered Google Colab&amp;hellip; After spending 24-32 hours on it, I might be in love!
+Colab is free, Google cloud-based Jupyter notebook environment for team collaboration. No installs required. Just send your teammates a URL and you&amp;rsquo;re set! Give it a shot with uploading your own Jupyter ipynb files (or see link below).</description>
+    </item>
+    
+    <item>
+      <title>Python for Business FREE In-Person Training</title>
+      <link>/blog/2019-01-10-python-for-business/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-01-10-python-for-business/</guid>
+      <description>Interested in an instructor led Python crash course? I&amp;rsquo;m a board member for UCI&amp;rsquo;s Merage Analytics Club and we&amp;rsquo;re hosting a 1.5 hour Python for Business training led by my classmate and extremely talented programmer and data storyteller, Samira Kumar Varadharajan.
+We&amp;rsquo;ll be walking through Jupyter Notebook and providing an introduction to the following: 1. Basic Python libraries 2. Better visualizations in Python 3. Machine learning via Scikit-Learn
+This event is open to all (students and non-students), is free for MSA members, and only costs 5 bucks for nonmembers.</description>
+    </item>
+    
+  </channel>
+</rss>

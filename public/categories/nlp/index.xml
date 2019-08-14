@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Javier&#39;s Data Site</title>
+    <link>/categories/nlp/</link>
+    <description>Recent content in NLP on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ask Data by Tableau</title>
+      <link>/blog/2019-02-21-ask-data-by-tableau/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-02-21-ask-data-by-tableau/</guid>
+      <description>Tableau&amp;rsquo;s latest upgrade has a native natural language processing capability called Ask Data - Ask it a question in plain English (&amp;ldquo;What is the profit over time, by business line?&amp;rdquo;) and Tableau &amp;ldquo;determines the most appropriate visualization to satisfy the user’s intent.&amp;rdquo; Super neat, and I&amp;rsquo;m excited to give the upgrade a spin!
+On the surface, Ask Data seems gimmicky&amp;hellip; But as a starting point for visualizations, or for near-instant data investigation during a meeting, this is an awesome feature.</description>
+    </item>
+    
+  </channel>
+</rss>

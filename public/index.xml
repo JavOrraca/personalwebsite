@@ -6,18 +6,263 @@
     <description>Recent content on Javier&#39;s Data Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Mar 2018 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 20:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Video post</title>
-      <link>/blog/video-post/</link>
-      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
+      <title>March Madness Prediction Competition</title>
+      <link>/blog/2019-03-13-march-madness-prediction-competition/</link>
+      <pubDate>Wed, 13 Mar 2019 20:18:53 -0500</pubDate>
       
-      <guid>/blog/video-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+      <guid>/blog/2019-03-13-march-madness-prediction-competition/</guid>
+      <description>The UCI Merage Analytics Association is hosting a March Madness prediction competition event on April 4th, come join us! Everybody is invited and we&amp;rsquo;ll be giving prizes to the best forecasters and bracket-pickers. Scan one (or both) of the QR codes in the flyer below or let me know if you have any questions. Hope to see you there!
+Source: March Madness Event at UCI&amp;rsquo;s Paul Merage School of Business</description>
+    </item>
+    
+    <item>
+      <title>Analytics Presentations at UC Irvine</title>
+      <link>/blog/2019-03-12-analytics-presentations-at-uc-irvine/</link>
+      <pubDate>Tue, 12 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-12-analytics-presentations-at-uc-irvine/</guid>
+      <description>For my University of California, Irvine, MSBA classmates&amp;hellip; I’ve been blown away by the presentations you’ve given the last few days and humbled by your aptitude for data analytics! Just one more week (of finals! 😅)&amp;hellip; we got this!
+My team used Python to web-scrape Marvel Cinematic Universe movie rating and financial data since the release of Iron Man (2008). The goal was to predict the US Box Office revenues for Avengers: End Game given ratings, budget, and revenue patterns of all the recent Marvel movies.</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook via Google Colab</title>
+      <link>/blog/2019-03-06-google-colab/</link>
+      <pubDate>Wed, 06 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-06-google-colab/</guid>
+      <description>I only started learning Python in January but regularly use Jupyter Notebooks for all of my R-based projects. Last week, I discovered Google Colab&amp;hellip; After spending 24-32 hours on it, I might be in love!
+Colab is free, Google cloud-based Jupyter notebook environment for team collaboration. No installs required. Just send your teammates a URL and you&amp;rsquo;re set! Give it a shot with uploading your own Jupyter ipynb files (or see link below).</description>
+    </item>
+    
+    <item>
+      <title>Robots and Modern Art Installations</title>
+      <link>/blog/2019-03-02-robots-and-modern-art-installations/</link>
+      <pubDate>Sat, 02 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-02-robots-and-modern-art-installations/</guid>
+      <description>If you’re based in SoCal, I highly recommend a visit to the Telestron installation (Feb 23 - March 28). This is an immersive, futuristic light show put on by VTProDesign and GMUNK. I love the intersection of art+technology and these robots do not disappoint!
+“A pair of robot arms project light patterns onto each other and all surfaces of the room during a seven-minute show.”
+Source: Telestron</description>
+    </item>
+    
+    <item>
+      <title>Ask Data by Tableau</title>
+      <link>/blog/2019-02-21-ask-data-by-tableau/</link>
+      <pubDate>Thu, 21 Feb 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-02-21-ask-data-by-tableau/</guid>
+      <description>Tableau&amp;rsquo;s latest upgrade has a native natural language processing capability called Ask Data - Ask it a question in plain English (&amp;ldquo;What is the profit over time, by business line?&amp;rdquo;) and Tableau &amp;ldquo;determines the most appropriate visualization to satisfy the user’s intent.&amp;rdquo; Super neat, and I&amp;rsquo;m excited to give the upgrade a spin!
+On the surface, Ask Data seems gimmicky&amp;hellip; But as a starting point for visualizations, or for near-instant data investigation during a meeting, this is an awesome feature.</description>
+    </item>
+    
+    <item>
+      <title>AI and Generative Adversarial Networks (GANs)</title>
+      <link>/blog/2019-02-13-ai-and-gans/</link>
+      <pubDate>Wed, 13 Feb 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-02-13-ai-and-gans/</guid>
+      <description>I saw Ben Taylor present a few months back and was blown away. He&amp;rsquo;s continuously researching and educating himself, pushing the limits of deep learning, and he&amp;rsquo;s an advocate of side projects as a vehicle for growth (as am I!). Ben is super passionate about data science, harnessing computational power from GPU/CUDA systems, and his work with generative adversarial networks (GANs) is next level&amp;hellip;
+The image above is an AI-produced synthetic face made possible through GANs.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast Preview</title>
+      <link>/blog/2019-02-04-scatter-podcast-preview/</link>
+      <pubDate>Mon, 04 Feb 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-02-04-scatter-podcast-preview/</guid>
+      <description>Super excited with the interviews I&amp;rsquo;ve been recording recently for Scatter Podcast (LAUNCHING SOON)! There are so many great data science podcasts that I regularly enjoy, I&amp;rsquo;m just hoping to offer a slightly different angle. I want to explore and share what &amp;ldquo;data science&amp;rdquo; means at different companies, what day-to-day life is like within those teams, and better understand what experiences and skills certain companies value for potential candidates in their analytics, insights, and data science roles.</description>
+    </item>
+    
+    <item>
+      <title>Super Bowl Predictive Modeling Event</title>
+      <link>/blog/2019-01-29-analytics-speaking-event/</link>
+      <pubDate>Tue, 29 Jan 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-01-29-analytics-speaking-event/</guid>
+      <description>Two weeks ago, I knew nothing about the NFL (despite my passion for fútbol!). I teamed up with my classmate and knowledgeable NFL fan, Kaitlyn Drake, and developed a model and game simulation via R to predict the Super Bowl winner and final scores. We predicted the Rams winning 15-14… it’ll be a close game. We relied on Poisson regression, game simulation, and C4.5 / J48 decision tree to derive our results.</description>
+    </item>
+    
+    <item>
+      <title>Python FREE In-Person Training</title>
+      <link>/blog/2019-01-10-python-for-business/</link>
+      <pubDate>Thu, 10 Jan 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-01-10-python-for-business/</guid>
+      <description>Interested in an instructor led Python crash course? I&amp;rsquo;m a board member for UCI&amp;rsquo;s Merage Analytics Club and we&amp;rsquo;re hosting a 1.5 hour Python for Business training led by my classmate and extremely talented programmer and data storyteller, Samira Kumar Varadharajan.
+We&amp;rsquo;ll be walking through Jupyter Notebook and providing an introduction to the following: 1. Basic Python libraries 2. Better visualizations in Python 3. Machine learning via Scikit-Learn
+This event is open to all (students and non-students), is free for MSA members, and only costs 5 bucks for nonmembers.</description>
+    </item>
+    
+    <item>
+      <title>New Book Recommendations on Analytics &amp; Data Science</title>
+      <link>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</link>
+      <pubDate>Fri, 28 Dec 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</guid>
+      <description>Back to school, back to reading! Looking forward to these reads&amp;hellip; I’m finding Naomi Ceder’s The Quick Python Book really helpful for learning Python 3&amp;hellip; definitely a learn-by-doing style that I like. Links to these books below:
+Amazon Book Links: * The Quick Python Book * Superforecasting: The Art and Science of Prediction * Feature Engineering for Machine Learning * AMPL: A Modeling Language for Mathematical Programming * The Signal and The Noise * Python for Data Analysis * Applied Predictive Analytics * Learning Tableau 10 * Data Smart: Using Data Science to Transform Information into Insight</description>
+    </item>
+    
+    <item>
+      <title>Interview Tips for Students &amp; Job Seekers</title>
+      <link>/blog/2018-11-27-interview-tips-for-students-job-seekers/</link>
+      <pubDate>Tue, 27 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-27-interview-tips-for-students-job-seekers/</guid>
+      <description>I joined LinkedIn&amp;rsquo;s Career Advice beta program and have been providing career and interview tips to students and professionals wanting a career change since 2017. Since several students have found my feedback helpful, I hope you&amp;rsquo;ll welcome this unsolicited feedback. Now that I&amp;rsquo;m back in graduate school, it&amp;rsquo;s also a nice reminder for myself as we approach &amp;ldquo;interview season.&amp;rdquo; For some context, I&amp;rsquo;ve never had HR or Recruiter titles, but I&amp;rsquo;ve been fortunate to have had many opportunities to interview college students and experienced professionals at EY, PG&amp;amp;E, and KPMG.</description>
+    </item>
+    
+    <item>
+      <title>UC Irvine&#39;s MS in Business Analytics</title>
+      <link>/blog/2018-11-21-uc-irvine-ms-in-business-analytics/</link>
+      <pubDate>Wed, 21 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-21-uc-irvine-ms-in-business-analytics/</guid>
+      <description>If you&amp;rsquo;re interested in data science, machine learning, and adding business value through data-driven decision making, I&amp;rsquo;d be happy to chat about my experiences so far at the University of California, Irvine. The Paul Merage School of Business did a student profile on me about why I chose the MS in Business Analytics program. UCI placed my profile alongside an overview of the program&amp;rsquo;s curriculum and capstone projects (both of which were key factors for selecting UCI over other universities).</description>
+    </item>
+    
+    <item>
+      <title>Wes Anderson Color Palettes for R</title>
+      <link>/blog/2018-11-08-wes-anderson-movie-color-palettes/</link>
+      <pubDate>Thu, 08 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-08-wes-anderson-movie-color-palettes/</guid>
+      <description>Are you a Wes Anderson fan and regular R user? If you want a color scheme makeover for your R visualizations, check out this fun Wes Anderson color palette package by Karthik Ram. Great stuff&amp;hellip; I just tried out The Grand Budapest Hotel palette for a correlation matrix (see above)!
+Props to my classmate Kaitlyn Drake for finding this gem!
+Source: Karthik&amp;rsquo;s Wes Anderson project (on GitHub)</description>
+    </item>
+    
+    <item>
+      <title>Network Visualizations via R &#43; iGraph</title>
+      <link>/blog/2018-11-06-network-visualizations/</link>
+      <pubDate>Tue, 06 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-06-network-visualizations/</guid>
+      <description>Network visualizations can be useful for understanding entity and large data interdependencies. I&amp;rsquo;ve been using R and the iGraph package to explore network analysis and found this tutorial to be EXCELLENT by Katherine Ognyanova. It takes a lot of time to build these network graphs and more time to interpret, but definitely rewarding when it provides insights you may have otherwise overlooked. The screenshot above is a network diagram that I made to represent Amazon product copurchases.</description>
+    </item>
+    
+    <item>
+      <title>DataScienceGO 2018 (Part 2/2 - Tips &amp; Resources)</title>
+      <link>/blog/2018-10-31-datasciencego-2018-part-2-of-2/</link>
+      <pubDate>Wed, 31 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-31-datasciencego-2018-part-2-of-2/</guid>
+      <description>Now that I&amp;rsquo;ve had a few weeks to digest my experience at DataScienceGO 2018, definitely one for the books. I especially enjoyed making so many connections and absorbing (or rather, writing-a-million-miles-an-hour) so much knowledge over a short weekend. As promised, I wanted to share useful resources that I learned of at DSGO. Below I&amp;rsquo;m presenting my favorites, by presenter.
+Send me a note here or on LinkedIn if you have any questions or check out my Resources page now updated with some of the items below:</description>
+    </item>
+    
+    <item>
+      <title>Learning Machine Learning by Hand</title>
+      <link>/blog/2018-10-26-really-learning-machine-learning/</link>
+      <pubDate>Fri, 26 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-26-really-learning-machine-learning/</guid>
+      <description>Machine learning via R, Python, (enter your tool of choice here)&amp;hellip; Not bad. But doing machine learning by hand, wow&amp;hellip; This is a true study of patience!
+For a school assignment, we had to deconstruct a supervised machine learning model (Naive Bayes) using one data set for training and another for testing, all by hand. This was definitely rewarding being able to understand the depth of conditional probabilities in this classifier model.</description>
+    </item>
+    
+    <item>
+      <title>DataScienceGO 2018 (Part 1/2 - Recap)</title>
+      <link>/blog/2018-10-15-datasciencego-2018-conference/</link>
+      <pubDate>Mon, 15 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-15-datasciencego-2018-conference/</guid>
+      <description>DataScienceGO 2018 was a blast! Kirill Eremenko, Hadelin de Ponteves, SuperDataScience, Formulatedby, and all the crew/staff put on a great conference&amp;hellip;. Career advice from business intelligence and data science executives, practical use cases for machine learning and artificial intelligence, data storytelling tips and visualization resources, LOTS of &amp;ldquo;secret sauce&amp;rdquo; from thought leaders, lots of networking (and lots of Pablos!)&amp;hellip; It will take me a week just to digest my notes but I will share my favorite insights and resources.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Music Production</title>
+      <link>/blog/2018-10-08-machine-learning-for-music-production/</link>
+      <pubDate>Mon, 08 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-08-machine-learning-for-music-production/</guid>
+      <description>If you know me personally, you likely know I enjoy playing with analog / digital synthesizers and experimental music production. I love seeing my interests cross&amp;hellip; FactorSynth, a new virtual musical tool and Ableton Live plug-in, uses machine learning to decompose your audio clips into elements. These musical elements can then be modified and recombined in various ways (in real-time). Check out this demo reel (my words don&amp;rsquo;t do this new device justice)!</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure&#39;s AI Capabilities</title>
+      <link>/blog/2018-10-01-microsoft-azure/</link>
+      <pubDate>Mon, 01 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-01-microsoft-azure/</guid>
+      <description>Building and training ML models takes a ton of time. Microsoft&amp;rsquo;s Azure can now automate several steps in your AI development process including &amp;ldquo;data transformation, model selection and hyperparameter tuning.&amp;rdquo; Really impressed that Azure is making this tech more accessible and easier to use. If you have hands-on work experience with Azure and don&amp;rsquo;t mind me asking you some questions, please message me, thanks!
+Source: Microsoft Announcement: Automated AI via Azure</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Machine Learning</title>
+      <link>/blog/2018-09-23-unsupervised-machine-learning/</link>
+      <pubDate>Sun, 23 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-23-unsupervised-machine-learning/</guid>
+      <description>First quarter of grad school is finally over! Now with some free time, I finally learned Git (for BASH emulation), set up a GitHub account, and looking forward to collaborating on analytics projects. If you&amp;rsquo;re interested in R or machine learning, one of my projects is a basic ML exercise that relies on the k-means algorithm for clustering.
+Source: Unsupervised Machine Learning via k-means Algorithm</description>
+    </item>
+    
+    <item>
+      <title>Fitbit&#39;s 150 Billion Hours of Heart Data</title>
+      <link>/blog/2018-09-18-fitbit/</link>
+      <pubDate>Tue, 18 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-18-fitbit/</guid>
+      <description>Fitbit has collected over 150 billion hours of heart data&amp;hellip; a modern-day digital gold mine. David Pogue, reporting for Yahoo Finance, highlights data insights and stresses the importance of heart health!
+Source: Yahoo! Finance</description>
+    </item>
+    
+    <item>
+      <title>Data Science Salon (Los Angeles)</title>
+      <link>/blog/2018-09-10-datasciencesalon/</link>
+      <pubDate>Mon, 10 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-10-datasciencesalon/</guid>
+      <description>If you&amp;rsquo;re in the Los Angeles or Orange County areas and interested in learning how to apply machine learning and artificial intelligence to media and entertainment, tickets are still available for Data Science Salon LA. Definitely excited about this one.
+Event Details
+Tickets</description>
+    </item>
+    
+    <item>
+      <title>Tips From a Data Science Consultant</title>
+      <link>/blog/2018-09-06-tim-lafferty/</link>
+      <pubDate>Thu, 06 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-06-tim-lafferty/</guid>
+      <description>The data science community is super welcoming&amp;hellip; It&amp;rsquo;s been great connecting with professionals all over the world, meeting other beginners and helping each other out, sharing best practices and educational resources. I was excited to recently hear an interview with Tim Lafferty (Georgia Tech alum!) on the Super Data Science Podcast discussing life as a data science consultant. Really practical tips here (even bought Kirill&amp;rsquo;s book, Confident Data Skills after the listen!</description>
+    </item>
+    
+    <item>
+      <title>Netflix&#39;s Machine Learning Infrastructure</title>
+      <link>/blog/2018-08-28-netflix/</link>
+      <pubDate>Tue, 28 Aug 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-08-28-netflix/</guid>
+      <description>Netflix uses R and Python for machine learning and predictive modeling to support content recommendations and FAST delivery of content. On the We Are Netflix podcast series, Netflix has done an amazing job interviewing their data scientists and explaining how machine learning is enhancing the Netflix experience.
+Source: WeAreNetflix on YouTube</description>
+    </item>
+    
+    <item>
+      <title>Learning R with swirl</title>
+      <link>/blog/2018-08-20-learning-r/</link>
+      <pubDate>Mon, 20 Aug 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-08-20-learning-r/</guid>
+      <description>Microsoft Excel&amp;rsquo;s pivot tables and Google Maps&amp;hellip; Obvious differences here, but both are driven by split-apply-combine methodologies that visualize data sets. If you want to learn how to make a pivot table &amp;ldquo;from scratch,&amp;rdquo; or enhance your analytics capabilities beyond Excel, learn R (or Python) as a starting point. R is an analytics and graphics programming language that is free, fun, and an interactive way to learn the R basics is via swirl.</description>
+    </item>
+    
+    <item>
+      <title>Fake News &amp; Social Media</title>
+      <link>/blog/2018-08-10-fake-news/</link>
+      <pubDate>Fri, 10 Aug 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-08-10-fake-news/</guid>
+      <description>The dissemination of fake news on social media is widespread, often fueled by bots and reinforced through user sharing. On the most recent episode of the Data Skeptic, host Kyle Polich interviews Filippo Menczer to discuss how bots influence the spread of fake news. For anyone interested in data analytics, this is a great listen and the link below also references several tools for studying the spread of information on social media.</description>
     </item>
     
     <item>
@@ -26,15 +271,6 @@
       <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
       
       <guid>/scatterpodcast/video-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Long Form Post</title>
-      <link>/blog/long-form-post/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>/blog/long-form-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
@@ -49,17 +285,6 @@
     
     <item>
       <title>Image post</title>
-      <link>/blog/image-post/</link>
-      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
-      
-      <guid>/blog/image-post/</guid>
-      <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
-To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this:
-images: - /posts/ideas.</description>
-    </item>
-    
-    <item>
-      <title>Image post</title>
       <link>/scatterpodcast/image-post/</link>
       <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
       
@@ -67,18 +292,6 @@ images: - /posts/ideas.</description>
       <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
 To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this:
 images: - /posts/ideas.</description>
-    </item>
-    
-    <item>
-      <title>Code Poetry</title>
-      <link>/blog/code-poetry/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
-      
-      <guid>/blog/code-poetry/</guid>
-      <description>Pseudo code poem.
-if (this === that): try write_new_poem() except not_a_poet as e: return  Or just one long line&amp;hellip;
-console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay toooooooooooooooooooo looooooooooooooooooooooooooooooong&amp;#39;)  An embedded gist using shortcode:
- </description>
     </item>
     
     <item>
@@ -105,16 +318,6 @@ Background My career includes over a decade of consulting, data analysis, and fi
     
     <item>
       <title>Dear Jane, regarding Mr. Bennet</title>
-      <link>/blog/dear-jane/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
-      
-      <guid>/blog/dear-jane/</guid>
-      <description>Chapter One It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
-However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
-    </item>
-    
-    <item>
-      <title>Dear Jane, regarding Mr. Bennet</title>
       <link>/scatterpodcast/dear-jane/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
@@ -125,37 +328,11 @@ However little known the feelings or views of such a man may be on his first ent
     
     <item>
       <title>Oh, Alice</title>
-      <link>/blog/oh-alice/</link>
-      <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
-      
-      <guid>/blog/oh-alice/</guid>
-      <description>Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab. But if these secret golden keys did seem to open in him his own secret golden treasuries, yet did his breath upon them prove but tarnishing. Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.</description>
-    </item>
-    
-    <item>
-      <title>Oh, Alice</title>
       <link>/scatterpodcast/oh-alice/</link>
       <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
       
       <guid>/scatterpodcast/oh-alice/</guid>
       <description>Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab. But if these secret golden keys did seem to open in him his own secret golden treasuries, yet did his breath upon them prove but tarnishing. Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.</description>
-    </item>
-    
-    <item>
-      <title>A Poem</title>
-      <link>/blog/a-poem/</link>
-      <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
-      
-      <guid>/blog/a-poem/</guid>
-      <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
-Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
-The immortals slumber&amp;rsquo;d on their thrones above;
-All, but the ever-wakeful eyes of Jove.(76)
-To honour Thetis&amp;rsquo; son he bends his care,
-And plunge the Greeks in all the woes of war:
-Then bids an empty phantom rise to sight,
-And thus commands the vision of the night.
-&amp;ldquo;Fly hence, deluding Dream! and light as air,(77)</description>
     </item>
     
     <item>
@@ -173,6 +350,141 @@ And plunge the Greeks in all the woes of war:
 Then bids an empty phantom rise to sight,
 And thus commands the vision of the night.
 &amp;ldquo;Fly hence, deluding Dream! and light as air,(77)</description>
+    </item>
+    
+    <item>
+      <title>Boost PC Performance with ThrottleStop</title>
+      <link>/blog/2019-03-17-throttlestop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-03-17-throttlestop/</guid>
+      <description>For Windows Users Wanting More Speed &amp;amp; Performance I&amp;rsquo;ve been puzzled as to why I felt a significant lag on my top-of-the-line laptop (especially prevalent with MS Excel - if you&amp;rsquo;re a power user, you&amp;rsquo;d have noticed immediately). Turns out, it&amp;rsquo;s &amp;ldquo;standard&amp;rdquo; for my system to throttle the CPU at 1.9 GHz. Using ThrottleStop (free), I removed CPU throttling for speed gains and undervolted the CPU/cache/GPU for temperature control. I&amp;rsquo;m running stable at ~3.</description>
+    </item>
+    
+    <item>
+      <title>Forbes: Data Science Career Mention</title>
+      <link>/blog/2019-04-18-forbes-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-18-forbes-article/</guid>
+      <description>I had the privilege of recently interviewing data rockstar Alyssa Columbus, Data Scientist at Pacific Life and NASA Datanaut. Forbes interviewed her for a piece on How to Get Your Data Scientist Career Started and she was kind enough to mention Scatter Podcast as a resource for students to keep current on analytics and data science concepts. Great article and especially beneficial for early career data science job seekers.
+Source: * How to Get Your Data Scientist Career Started</description>
+    </item>
+    
+    <item>
+      <title>Harvard &amp; Marketing Analytics: Did HBR Get It Wrong?</title>
+      <link>/blog/2019-05-15-analytics-alone-are-not-a-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-05-15-analytics-alone-are-not-a-solution/</guid>
+      <description>In May 2018, Harvard Business Review published a report (links below) titled &amp;ldquo;Why Marketing Analytics Hasn&amp;rsquo;t Lived Up to Its Promise.&amp;rdquo; My most recent Scatter Podcast guest, Ryan Anderson, wrote a critique of the HBR article that helps frame the conversation in another light: marketing analytics ALONE is not the solution.
+We talked about the HBR piece and Ryan&amp;rsquo;s response on this week&amp;rsquo;s podcast release, but being that Ryan has made a career in strategic marketing and web analytics, I&amp;rsquo;d definitely recommend you read both of these articles if you&amp;rsquo;re interested in this line of work!</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Personalized Requests on Mobile App</title>
+      <link>/blog/2019-04-09-linkedin-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-09-linkedin-tips/</guid>
+      <description>Personalized LinkedIn requests CAN be sent through the mobile app&amp;hellip; I didn&amp;rsquo;t realize this until today, but the key is to avoid hitting Connect when you’re shown a list of recommended contacts (this will send out a boilerplate request message). Instead, navigate to the contact’s LinkedIn profile and from there, you have access to personalize your request note! Thanks to Kate Strachnyi for her live stream today and her candid advice is always appreciated.</description>
+    </item>
+    
+    <item>
+      <title>Revenue Predictions for Avengers: Endgame</title>
+      <link>/blog/2019-05-10-avengers-endgame-box-office-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-05-10-avengers-endgame-box-office-prediction/</guid>
+      <description>In mid-March, I worked with a team of UC Irvine students to analyze the Marvel Cinematic Universe and predict US box office revenues for Avengers: Endgame. We estimated US box office revenues to be $639 million and as of today, domestic box office revenues are $645 million!
+To my UC Irvine teammates (Ahnni, Daria, Joel, Xiaoting)&amp;hellip; Great job! At the time that we developed our predictions, Captain Marvel had only been in theaters for one week&amp;hellip; I just updated our models and our new domestic box office prediction for Endgame is $670 million.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast: Episode 005 w/ Databricks</title>
+      <link>/blog/2019-04-08-scatter-podcast-episode-005/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-08-scatter-podcast-episode-005/</guid>
+      <description>New episode of Scatter Podcast is online with Rafi Kurlansik of Databricks. Rafi has great perspective given his unique opportunities as a data scientist within tech sales and pre-sales teams. He also shares some great resources if you’re interested in learning Databricks, a cloud-based unified analytics platform. Happy Monday!
+Other links: * Databricks * Databricks Community Edition * MLflow on Databricks
+Scatter Podcast is available on SoundCloud, iTunes &amp;amp; Apple Podcasts, Spotify, TuneIn, Google Play Music, Stitcher Radio, Castbox, and Podcast Republic.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast: Episode 006 w/ T-Mobile</title>
+      <link>/blog/2019-04-15-scatter-podcast-episode-006/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-15-scatter-podcast-episode-006/</guid>
+      <description>On the sixth episode of Scatter Podcast, I&amp;rsquo;m excited to introduce Juan Pablo Murillo, Data Scientist at T-Mobile at their U.S. headquarters in Bellevue, WA (greater Seattle area). Mathematics instructor turned data scientist, Juan Pablo is in customer analytics and works with engineering and analytics teams to improve the T-Mobile and MetroPCS customer experience. He has been a solid data science mentor for me over the last few months, reviewing, rating, and critiquing some of my R scripts and insights that I derived&amp;hellip; Sharp guy and I&amp;rsquo;m excited to share his data analytics passion with others!</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast: Episode 007 w/ NeoGenomics Laboratories</title>
+      <link>/blog/2019-04-22-scatter-podcast-episode-007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-22-scatter-podcast-episode-007/</guid>
+      <description>On Episode 007 of Scatter Podcast, I interview guest Nicholas Stavrou and discuss his work as an Associate Scientist in Computational Biology at NeoGenomics Laboratories, a cancer diagnostic and pharma research company. Neo is advancing precision medication and Nicholas and I had an engaging talk about cancer cell classification, neural networks and AI models for cancer research, and how Nicholas developed his skills to land his role at Neo. Nicholas graduated from USC in 2017 and he shares some great tips and resources.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast: Episode 008 w/ Chegg</title>
+      <link>/blog/2019-04-29-scatter-podcast-episode-008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-29-scatter-podcast-episode-008/</guid>
+      <description>On Episode 008 of Scatter Podcast, I interview guest Taranveer Singh and discuss his work as a Data Scientist at Chegg. Through natural language processing (&amp;ldquo;NLP&amp;rdquo;) and data science, Taran&amp;rsquo;s team provides Chegg customers with a better user experience, ensuring the customer voice is heard. Chegg operates fast and smart, and data science enables the business to quickly research and deploy product features that are most desired by their community.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast: Episode 009 w/ RealBlocks</title>
+      <link>/blog/2019-05-06-scatter-podcast-episode-009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-05-06-scatter-podcast-episode-009/</guid>
+      <description>On Episode 009 of Scatter Podcast, I&amp;rsquo;m really excited to release my interview with Perrin Quarshie, CEO &amp;amp; Founder of RealBlocks. For those of you interested in real estate, technology, investing, blockchain&amp;hellip; This episode is for you!
+Built upon the Ethereum blockchain, RealBlocks allows accredited investors to buy into private equity real estate funds through the purchase of digital assets. RealBlocks went through #Techstars NYC&amp;rsquo;s program (one of the top startup accelerators) and recently raised $3.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast: Episode 010 w/ FortyFour</title>
+      <link>/blog/2019-05-13-scatter-podcast-episode-010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-05-13-scatter-podcast-episode-010/</guid>
+      <description>On Episode 010 of Scatter Podcast, I&amp;rsquo;m excited to host guest Ryan Anderson, Director of Performance Marketing &amp;amp; Analytics at FortyFour. FortyFour is an independent digital agency based in Atlanta, GA, and Ryan leads their analytics team. Ryan, a Georgia Institute of Technology engineering and MBA alum, was a driving force for me diving into analytics and data science (thank you!).
+Ryan has been a great sounding board the past couple of years and he&amp;rsquo;s a wealth of knowledge on analytics and digital strategies.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast: Official Launch</title>
+      <link>/blog/2019-03-31-scatter-podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-03-31-scatter-podcast/</guid>
+      <description>I&amp;rsquo;m really excited to announce that Scatter Podcast is finally live (available on most music and podcast streaming platforms)! The first four episodes include a podcast intro and three episodes with engaging guests from The Home Depot, Pacific Life, and NYC &amp;amp; Company.
+I plan to release one episode weekly - Look out for upcoming interviews with data science reps from T-Mobile, Databricks, KPMG, Chegg, Technossus, Levi Strauss, Google, TensorIoT, and more!</description>
+    </item>
+    
+    <item>
+      <title>Version Control w/ Git &amp; GitHub</title>
+      <link>/blog/2019-04-27-version-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-27-version-control/</guid>
+      <description>Git, GitHub, and distributed version control can make your statistical and data science workflows so much cleaner, more organized, and perfect for collaborative projects. This is a topic that I&amp;rsquo;m just now researching and can&amp;rsquo;t believe that I waited this long to do.
+In finance, I was accustomed to saving numerous files per day (adding the date and version to the end of the model filename). Git and GitHub have a learning curve and require effort - I&amp;rsquo;m learning this now and can attest to you needing patience - But, the beauty of this data management process is that instead of saving one file only, you &amp;ldquo;commit&amp;rdquo; or save a multi-file snapshot of your entire project to the cloud!</description>
+    </item>
+    
+    <item>
+      <title>dplyr&#39;s if_else vs base R&#39;s ifelse</title>
+      <link>/blog/2019-04-03-dplyr-for-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-03-dplyr-for-r/</guid>
+      <description>When working with data sets of significant size, I&amp;rsquo;m always on the lookout for more efficient code (not necessarily fewer lines of code, but code that processes data faster and more effectively). Recently, I was getting antsy waiting for a simple if/else statement to run via R (I was working with a large GB-sized file on my personal computer). While waiting, I researched alternative approaches for performance improvement and found that dplyr, part of R&amp;rsquo;s Tidyverse and one of my favorite packages for data manipulation, has a vectorized if function perfect for the occasion.</description>
     </item>
     
   </channel>

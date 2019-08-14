@@ -6,18 +6,263 @@
     <description>Recent content in blog on Javier&#39;s Data Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Mar 2018 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 20:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Video post</title>
-      <link>/blog/video-post/</link>
-      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
+      <title>March Madness Prediction Competition</title>
+      <link>/blog/2019-03-13-march-madness-prediction-competition/</link>
+      <pubDate>Wed, 13 Mar 2019 20:18:53 -0500</pubDate>
       
-      <guid>/blog/video-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+      <guid>/blog/2019-03-13-march-madness-prediction-competition/</guid>
+      <description>The UCI Merage Analytics Association is hosting a March Madness prediction competition event on April 4th, come join us! Everybody is invited and we&amp;rsquo;ll be giving prizes to the best forecasters and bracket-pickers. Scan one (or both) of the QR codes in the flyer below or let me know if you have any questions. Hope to see you there!
+Source: March Madness Event at UCI&amp;rsquo;s Paul Merage School of Business</description>
+    </item>
+    
+    <item>
+      <title>Analytics Presentations at UC Irvine</title>
+      <link>/blog/2019-03-12-analytics-presentations-at-uc-irvine/</link>
+      <pubDate>Tue, 12 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-12-analytics-presentations-at-uc-irvine/</guid>
+      <description>For my University of California, Irvine, MSBA classmates&amp;hellip; I’ve been blown away by the presentations you’ve given the last few days and humbled by your aptitude for data analytics! Just one more week (of finals! 😅)&amp;hellip; we got this!
+My team used Python to web-scrape Marvel Cinematic Universe movie rating and financial data since the release of Iron Man (2008). The goal was to predict the US Box Office revenues for Avengers: End Game given ratings, budget, and revenue patterns of all the recent Marvel movies.</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook via Google Colab</title>
+      <link>/blog/2019-03-06-google-colab/</link>
+      <pubDate>Wed, 06 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-06-google-colab/</guid>
+      <description>I only started learning Python in January but regularly use Jupyter Notebooks for all of my R-based projects. Last week, I discovered Google Colab&amp;hellip; After spending 24-32 hours on it, I might be in love!
+Colab is free, Google cloud-based Jupyter notebook environment for team collaboration. No installs required. Just send your teammates a URL and you&amp;rsquo;re set! Give it a shot with uploading your own Jupyter ipynb files (or see link below).</description>
+    </item>
+    
+    <item>
+      <title>Robots and Modern Art Installations</title>
+      <link>/blog/2019-03-02-robots-and-modern-art-installations/</link>
+      <pubDate>Sat, 02 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-02-robots-and-modern-art-installations/</guid>
+      <description>If you’re based in SoCal, I highly recommend a visit to the Telestron installation (Feb 23 - March 28). This is an immersive, futuristic light show put on by VTProDesign and GMUNK. I love the intersection of art+technology and these robots do not disappoint!
+“A pair of robot arms project light patterns onto each other and all surfaces of the room during a seven-minute show.”
+Source: Telestron</description>
+    </item>
+    
+    <item>
+      <title>Ask Data by Tableau</title>
+      <link>/blog/2019-02-21-ask-data-by-tableau/</link>
+      <pubDate>Thu, 21 Feb 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-02-21-ask-data-by-tableau/</guid>
+      <description>Tableau&amp;rsquo;s latest upgrade has a native natural language processing capability called Ask Data - Ask it a question in plain English (&amp;ldquo;What is the profit over time, by business line?&amp;rdquo;) and Tableau &amp;ldquo;determines the most appropriate visualization to satisfy the user’s intent.&amp;rdquo; Super neat, and I&amp;rsquo;m excited to give the upgrade a spin!
+On the surface, Ask Data seems gimmicky&amp;hellip; But as a starting point for visualizations, or for near-instant data investigation during a meeting, this is an awesome feature.</description>
+    </item>
+    
+    <item>
+      <title>AI and Generative Adversarial Networks (GANs)</title>
+      <link>/blog/2019-02-13-ai-and-gans/</link>
+      <pubDate>Wed, 13 Feb 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-02-13-ai-and-gans/</guid>
+      <description>I saw Ben Taylor present a few months back and was blown away. He&amp;rsquo;s continuously researching and educating himself, pushing the limits of deep learning, and he&amp;rsquo;s an advocate of side projects as a vehicle for growth (as am I!). Ben is super passionate about data science, harnessing computational power from GPU/CUDA systems, and his work with generative adversarial networks (GANs) is next level&amp;hellip;
+The image above is an AI-produced synthetic face made possible through GANs.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast Preview</title>
+      <link>/blog/2019-02-04-scatter-podcast-preview/</link>
+      <pubDate>Mon, 04 Feb 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-02-04-scatter-podcast-preview/</guid>
+      <description>Super excited with the interviews I&amp;rsquo;ve been recording recently for Scatter Podcast (LAUNCHING SOON)! There are so many great data science podcasts that I regularly enjoy, I&amp;rsquo;m just hoping to offer a slightly different angle. I want to explore and share what &amp;ldquo;data science&amp;rdquo; means at different companies, what day-to-day life is like within those teams, and better understand what experiences and skills certain companies value for potential candidates in their analytics, insights, and data science roles.</description>
+    </item>
+    
+    <item>
+      <title>Super Bowl Predictive Modeling Event</title>
+      <link>/blog/2019-01-29-analytics-speaking-event/</link>
+      <pubDate>Tue, 29 Jan 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-01-29-analytics-speaking-event/</guid>
+      <description>Two weeks ago, I knew nothing about the NFL (despite my passion for fútbol!). I teamed up with my classmate and knowledgeable NFL fan, Kaitlyn Drake, and developed a model and game simulation via R to predict the Super Bowl winner and final scores. We predicted the Rams winning 15-14… it’ll be a close game. We relied on Poisson regression, game simulation, and C4.5 / J48 decision tree to derive our results.</description>
+    </item>
+    
+    <item>
+      <title>Python FREE In-Person Training</title>
+      <link>/blog/2019-01-10-python-for-business/</link>
+      <pubDate>Thu, 10 Jan 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-01-10-python-for-business/</guid>
+      <description>Interested in an instructor led Python crash course? I&amp;rsquo;m a board member for UCI&amp;rsquo;s Merage Analytics Club and we&amp;rsquo;re hosting a 1.5 hour Python for Business training led by my classmate and extremely talented programmer and data storyteller, Samira Kumar Varadharajan.
+We&amp;rsquo;ll be walking through Jupyter Notebook and providing an introduction to the following: 1. Basic Python libraries 2. Better visualizations in Python 3. Machine learning via Scikit-Learn
+This event is open to all (students and non-students), is free for MSA members, and only costs 5 bucks for nonmembers.</description>
+    </item>
+    
+    <item>
+      <title>New Book Recommendations on Analytics &amp; Data Science</title>
+      <link>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</link>
+      <pubDate>Fri, 28 Dec 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</guid>
+      <description>Back to school, back to reading! Looking forward to these reads&amp;hellip; I’m finding Naomi Ceder’s The Quick Python Book really helpful for learning Python 3&amp;hellip; definitely a learn-by-doing style that I like. Links to these books below:
+Amazon Book Links: * The Quick Python Book * Superforecasting: The Art and Science of Prediction * Feature Engineering for Machine Learning * AMPL: A Modeling Language for Mathematical Programming * The Signal and The Noise * Python for Data Analysis * Applied Predictive Analytics * Learning Tableau 10 * Data Smart: Using Data Science to Transform Information into Insight</description>
+    </item>
+    
+    <item>
+      <title>Interview Tips for Students &amp; Job Seekers</title>
+      <link>/blog/2018-11-27-interview-tips-for-students-job-seekers/</link>
+      <pubDate>Tue, 27 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-27-interview-tips-for-students-job-seekers/</guid>
+      <description>I joined LinkedIn&amp;rsquo;s Career Advice beta program and have been providing career and interview tips to students and professionals wanting a career change since 2017. Since several students have found my feedback helpful, I hope you&amp;rsquo;ll welcome this unsolicited feedback. Now that I&amp;rsquo;m back in graduate school, it&amp;rsquo;s also a nice reminder for myself as we approach &amp;ldquo;interview season.&amp;rdquo; For some context, I&amp;rsquo;ve never had HR or Recruiter titles, but I&amp;rsquo;ve been fortunate to have had many opportunities to interview college students and experienced professionals at EY, PG&amp;amp;E, and KPMG.</description>
+    </item>
+    
+    <item>
+      <title>UC Irvine&#39;s MS in Business Analytics</title>
+      <link>/blog/2018-11-21-uc-irvine-ms-in-business-analytics/</link>
+      <pubDate>Wed, 21 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-21-uc-irvine-ms-in-business-analytics/</guid>
+      <description>If you&amp;rsquo;re interested in data science, machine learning, and adding business value through data-driven decision making, I&amp;rsquo;d be happy to chat about my experiences so far at the University of California, Irvine. The Paul Merage School of Business did a student profile on me about why I chose the MS in Business Analytics program. UCI placed my profile alongside an overview of the program&amp;rsquo;s curriculum and capstone projects (both of which were key factors for selecting UCI over other universities).</description>
+    </item>
+    
+    <item>
+      <title>Wes Anderson Color Palettes for R</title>
+      <link>/blog/2018-11-08-wes-anderson-movie-color-palettes/</link>
+      <pubDate>Thu, 08 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-08-wes-anderson-movie-color-palettes/</guid>
+      <description>Are you a Wes Anderson fan and regular R user? If you want a color scheme makeover for your R visualizations, check out this fun Wes Anderson color palette package by Karthik Ram. Great stuff&amp;hellip; I just tried out The Grand Budapest Hotel palette for a correlation matrix (see above)!
+Props to my classmate Kaitlyn Drake for finding this gem!
+Source: Karthik&amp;rsquo;s Wes Anderson project (on GitHub)</description>
+    </item>
+    
+    <item>
+      <title>Network Visualizations via R &#43; iGraph</title>
+      <link>/blog/2018-11-06-network-visualizations/</link>
+      <pubDate>Tue, 06 Nov 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-11-06-network-visualizations/</guid>
+      <description>Network visualizations can be useful for understanding entity and large data interdependencies. I&amp;rsquo;ve been using R and the iGraph package to explore network analysis and found this tutorial to be EXCELLENT by Katherine Ognyanova. It takes a lot of time to build these network graphs and more time to interpret, but definitely rewarding when it provides insights you may have otherwise overlooked. The screenshot above is a network diagram that I made to represent Amazon product copurchases.</description>
+    </item>
+    
+    <item>
+      <title>DataScienceGO 2018 (Part 2/2 - Tips &amp; Resources)</title>
+      <link>/blog/2018-10-31-datasciencego-2018-part-2-of-2/</link>
+      <pubDate>Wed, 31 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-31-datasciencego-2018-part-2-of-2/</guid>
+      <description>Now that I&amp;rsquo;ve had a few weeks to digest my experience at DataScienceGO 2018, definitely one for the books. I especially enjoyed making so many connections and absorbing (or rather, writing-a-million-miles-an-hour) so much knowledge over a short weekend. As promised, I wanted to share useful resources that I learned of at DSGO. Below I&amp;rsquo;m presenting my favorites, by presenter.
+Send me a note here or on LinkedIn if you have any questions or check out my Resources page now updated with some of the items below:</description>
+    </item>
+    
+    <item>
+      <title>Learning Machine Learning by Hand</title>
+      <link>/blog/2018-10-26-really-learning-machine-learning/</link>
+      <pubDate>Fri, 26 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-26-really-learning-machine-learning/</guid>
+      <description>Machine learning via R, Python, (enter your tool of choice here)&amp;hellip; Not bad. But doing machine learning by hand, wow&amp;hellip; This is a true study of patience!
+For a school assignment, we had to deconstruct a supervised machine learning model (Naive Bayes) using one data set for training and another for testing, all by hand. This was definitely rewarding being able to understand the depth of conditional probabilities in this classifier model.</description>
+    </item>
+    
+    <item>
+      <title>DataScienceGO 2018 (Part 1/2 - Recap)</title>
+      <link>/blog/2018-10-15-datasciencego-2018-conference/</link>
+      <pubDate>Mon, 15 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-15-datasciencego-2018-conference/</guid>
+      <description>DataScienceGO 2018 was a blast! Kirill Eremenko, Hadelin de Ponteves, SuperDataScience, Formulatedby, and all the crew/staff put on a great conference&amp;hellip;. Career advice from business intelligence and data science executives, practical use cases for machine learning and artificial intelligence, data storytelling tips and visualization resources, LOTS of &amp;ldquo;secret sauce&amp;rdquo; from thought leaders, lots of networking (and lots of Pablos!)&amp;hellip; It will take me a week just to digest my notes but I will share my favorite insights and resources.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Music Production</title>
+      <link>/blog/2018-10-08-machine-learning-for-music-production/</link>
+      <pubDate>Mon, 08 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-08-machine-learning-for-music-production/</guid>
+      <description>If you know me personally, you likely know I enjoy playing with analog / digital synthesizers and experimental music production. I love seeing my interests cross&amp;hellip; FactorSynth, a new virtual musical tool and Ableton Live plug-in, uses machine learning to decompose your audio clips into elements. These musical elements can then be modified and recombined in various ways (in real-time). Check out this demo reel (my words don&amp;rsquo;t do this new device justice)!</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure&#39;s AI Capabilities</title>
+      <link>/blog/2018-10-01-microsoft-azure/</link>
+      <pubDate>Mon, 01 Oct 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-10-01-microsoft-azure/</guid>
+      <description>Building and training ML models takes a ton of time. Microsoft&amp;rsquo;s Azure can now automate several steps in your AI development process including &amp;ldquo;data transformation, model selection and hyperparameter tuning.&amp;rdquo; Really impressed that Azure is making this tech more accessible and easier to use. If you have hands-on work experience with Azure and don&amp;rsquo;t mind me asking you some questions, please message me, thanks!
+Source: Microsoft Announcement: Automated AI via Azure</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Machine Learning</title>
+      <link>/blog/2018-09-23-unsupervised-machine-learning/</link>
+      <pubDate>Sun, 23 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-23-unsupervised-machine-learning/</guid>
+      <description>First quarter of grad school is finally over! Now with some free time, I finally learned Git (for BASH emulation), set up a GitHub account, and looking forward to collaborating on analytics projects. If you&amp;rsquo;re interested in R or machine learning, one of my projects is a basic ML exercise that relies on the k-means algorithm for clustering.
+Source: Unsupervised Machine Learning via k-means Algorithm</description>
+    </item>
+    
+    <item>
+      <title>Fitbit&#39;s 150 Billion Hours of Heart Data</title>
+      <link>/blog/2018-09-18-fitbit/</link>
+      <pubDate>Tue, 18 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-18-fitbit/</guid>
+      <description>Fitbit has collected over 150 billion hours of heart data&amp;hellip; a modern-day digital gold mine. David Pogue, reporting for Yahoo Finance, highlights data insights and stresses the importance of heart health!
+Source: Yahoo! Finance</description>
+    </item>
+    
+    <item>
+      <title>Data Science Salon (Los Angeles)</title>
+      <link>/blog/2018-09-10-datasciencesalon/</link>
+      <pubDate>Mon, 10 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-10-datasciencesalon/</guid>
+      <description>If you&amp;rsquo;re in the Los Angeles or Orange County areas and interested in learning how to apply machine learning and artificial intelligence to media and entertainment, tickets are still available for Data Science Salon LA. Definitely excited about this one.
+Event Details
+Tickets</description>
+    </item>
+    
+    <item>
+      <title>Tips From a Data Science Consultant</title>
+      <link>/blog/2018-09-06-tim-lafferty/</link>
+      <pubDate>Thu, 06 Sep 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-09-06-tim-lafferty/</guid>
+      <description>The data science community is super welcoming&amp;hellip; It&amp;rsquo;s been great connecting with professionals all over the world, meeting other beginners and helping each other out, sharing best practices and educational resources. I was excited to recently hear an interview with Tim Lafferty (Georgia Tech alum!) on the Super Data Science Podcast discussing life as a data science consultant. Really practical tips here (even bought Kirill&amp;rsquo;s book, Confident Data Skills after the listen!</description>
+    </item>
+    
+    <item>
+      <title>Netflix&#39;s Machine Learning Infrastructure</title>
+      <link>/blog/2018-08-28-netflix/</link>
+      <pubDate>Tue, 28 Aug 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-08-28-netflix/</guid>
+      <description>Netflix uses R and Python for machine learning and predictive modeling to support content recommendations and FAST delivery of content. On the We Are Netflix podcast series, Netflix has done an amazing job interviewing their data scientists and explaining how machine learning is enhancing the Netflix experience.
+Source: WeAreNetflix on YouTube</description>
+    </item>
+    
+    <item>
+      <title>Learning R with swirl</title>
+      <link>/blog/2018-08-20-learning-r/</link>
+      <pubDate>Mon, 20 Aug 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-08-20-learning-r/</guid>
+      <description>Microsoft Excel&amp;rsquo;s pivot tables and Google Maps&amp;hellip; Obvious differences here, but both are driven by split-apply-combine methodologies that visualize data sets. If you want to learn how to make a pivot table &amp;ldquo;from scratch,&amp;rdquo; or enhance your analytics capabilities beyond Excel, learn R (or Python) as a starting point. R is an analytics and graphics programming language that is free, fun, and an interactive way to learn the R basics is via swirl.</description>
+    </item>
+    
+    <item>
+      <title>Fake News &amp; Social Media</title>
+      <link>/blog/2018-08-10-fake-news/</link>
+      <pubDate>Fri, 10 Aug 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2018-08-10-fake-news/</guid>
+      <description>The dissemination of fake news on social media is widespread, often fueled by bots and reinforced through user sharing. On the most recent episode of the Data Skeptic, host Kyle Polich interviews Filippo Menczer to discuss how bots influence the spread of fake news. For anyone interested in data analytics, this is a great listen and the link below also references several tools for studying the spread of information on social media.</description>
     </item>
     
     <item>
@@ -31,31 +276,11 @@
     
     <item>
       <title>Long Form Post</title>
-      <link>/blog/long-form-post/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>/blog/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Long Form Post</title>
       <link>/scatterpodcast/long-form-post/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
       <guid>/scatterpodcast/long-form-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Image post</title>
-      <link>/blog/image-post/</link>
-      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
-      
-      <guid>/blog/image-post/</guid>
-      <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
-To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this:
-images: - /posts/ideas.</description>
     </item>
     
     <item>

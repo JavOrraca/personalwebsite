@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media &amp; Entertainment on Javier&#39;s Data Site</title>
+    <link>/categories/media-entertainment/</link>
+    <description>Recent content in Media &amp; Entertainment on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/media-entertainment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science Salon, Los Angeles</title>
+      <link>/blog/2018-09-10-datasciencesalon/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-09-10-datasciencesalon/</guid>
+      <description>If you&amp;rsquo;re in the Los Angeles or Orange County areas and interested in learning how to apply machine learning and artificial intelligence to media and entertainment, tickets are still available for Data Science Salon LA. Definitely excited about this one.
+Event Details
+Tickets</description>
+    </item>
+    
+    <item>
+      <title>Netflix&#39;s Machine Learning Infrastructure</title>
+      <link>/blog/2018-08-28-netflix/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-08-28-netflix/</guid>
+      <description>Netflix uses R and Python for machine learning and predictive modeling to support content recommendations and FAST delivery of content. On the We Are Netflix podcast series, Netflix has done an amazing job interviewing their data scientists and explaining how machine learning is enhancing the Netflix experience.
+Source: WeAreNetflix on YouTube</description>
+    </item>
+    
+  </channel>
+</rss>

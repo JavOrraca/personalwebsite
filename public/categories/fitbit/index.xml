@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitbit on Javier&#39;s Data Site</title>
+    <link>/categories/fitbit/</link>
+    <description>Recent content in Fitbit on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/fitbit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fitbit&#39;s 150 Billion Hours of Heart Data</title>
+      <link>/blog/2018-09-18-fitbit/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-09-18-fitbit/</guid>
+      <description>Fitbit has collected over 150 billion hours of heart data&amp;hellip; a modern-day digital gold mine. David Pogue, reporting for Yahoo Finance, highlights data insights and stresses the importance of heart health!
+Source: Yahoo! Finance</description>
+    </item>
+    
+  </channel>
+</rss>

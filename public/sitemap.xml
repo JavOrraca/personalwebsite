@@ -4,35 +4,155 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-16T20:18:53-05:00</lastmod>
+    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-13-march-madness-prediction-competition/</loc>
+    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-03-16T20:18:53-05:00</lastmod>
+    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/video-post/</loc>
-    <lastmod>2018-03-16T20:18:53-05:00</lastmod>
+    <loc>/tags/blog/</loc>
+    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-12-analytics-presentations-at-uc-irvine/</loc>
+    <lastmod>2019-03-12T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-06-google-colab/</loc>
+    <lastmod>2019-03-06T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-02-robots-and-modern-art-installations/</loc>
+    <lastmod>2019-03-02T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-02-21-ask-data-by-tableau/</loc>
+    <lastmod>2019-02-21T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-02-13-ai-and-gans/</loc>
+    <lastmod>2019-02-13T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-02-04-scatter-podcast-preview/</loc>
+    <lastmod>2019-02-04T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-29-analytics-speaking-event/</loc>
+    <lastmod>2019-01-29T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-10-python-for-business/</loc>
+    <lastmod>2019-01-10T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</loc>
+    <lastmod>2018-12-28T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-11-27-interview-tips-for-students-job-seekers/</loc>
+    <lastmod>2018-11-27T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-11-21-uc-irvine-ms-in-business-analytics/</loc>
+    <lastmod>2018-11-21T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-11-08-wes-anderson-movie-color-palettes/</loc>
+    <lastmod>2018-11-08T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-11-06-network-visualizations/</loc>
+    <lastmod>2018-11-06T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-10-31-datasciencego-2018-part-2-of-2/</loc>
+    <lastmod>2018-10-31T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-10-26-really-learning-machine-learning/</loc>
+    <lastmod>2018-10-26T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-10-15-datasciencego-2018-conference/</loc>
+    <lastmod>2018-10-15T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-10-08-machine-learning-for-music-production/</loc>
+    <lastmod>2018-10-08T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-10-01-microsoft-azure/</loc>
+    <lastmod>2018-10-01T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-09-23-unsupervised-machine-learning/</loc>
+    <lastmod>2018-09-23T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-09-18-fitbit/</loc>
+    <lastmod>2018-09-18T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-09-10-datasciencesalon/</loc>
+    <lastmod>2018-09-10T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-09-06-tim-lafferty/</loc>
+    <lastmod>2018-09-06T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-08-28-netflix/</loc>
+    <lastmod>2018-08-28T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-08-20-learning-r/</loc>
+    <lastmod>2018-08-20T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-08-10-fake-news/</loc>
+    <lastmod>2018-08-10T20:18:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>/scatterpodcast/video-post/</loc>
     <lastmod>2018-03-16T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2018-03-16T20:18:53-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/long-form-post/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
   </url>
   
   <url>
@@ -47,11 +167,6 @@
   </url>
   
   <url>
-    <loc>/blog/image-post/</loc>
-    <lastmod>2018-02-19T12:41:46-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/scatterpodcast/image-post/</loc>
     <lastmod>2018-02-19T12:41:46-05:00</lastmod>
   </url>
@@ -60,11 +175,6 @@
     <loc>/tags/story/</loc>
     <lastmod>2018-02-19T12:41:46-05:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/code-poetry/</loc>
-    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
   </url>
   
   <url>
@@ -94,11 +204,6 @@
   </url>
   
   <url>
-    <loc>/blog/dear-jane/</loc>
-    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/scatterpodcast/dear-jane/</loc>
     <lastmod>2018-02-11T12:34:41-05:00</lastmod>
   </url>
@@ -110,18 +215,8 @@
   </url>
   
   <url>
-    <loc>/blog/oh-alice/</loc>
-    <lastmod>2018-02-09T12:32:12-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/scatterpodcast/oh-alice/</loc>
     <lastmod>2018-02-09T12:32:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/a-poem/</loc>
-    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
   </url>
   
   <url>
@@ -130,8 +225,24 @@
   </url>
   
   <url>
+    <loc>/blog/2019-03-17-throttlestop/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-18-forbes-article/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-15-analytics-alone-are-not-a-solution/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-09-linkedin-tips/</loc>
   </url>
   
   <url>
@@ -140,6 +251,46 @@
   
   <url>
     <loc>/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-10-avengers-endgame-box-office-prediction/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-08-scatter-podcast-episode-005/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-15-scatter-podcast-episode-006/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-22-scatter-podcast-episode-007/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-29-scatter-podcast-episode-008/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-06-scatter-podcast-episode-009/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-13-scatter-podcast-episode-010/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-31-scatter-podcast/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-27-version-control/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-03-dplyr-for-r/</loc>
   </url>
   
 </urlset>

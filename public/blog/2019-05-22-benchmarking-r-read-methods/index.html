@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="Javier Orraca&#39;s Data Science resource hub.">
+<title>
+Benchmarking Delimited File Read Times in R - Javier&#39;s Data Site
+</title>
+
+
+
+
+<link rel="shortcut icon" href="/sam.ico">
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.81bbafc4df93b11c1c3e2449464373c384aa4903731b4fc7a77dfcdd979e184f.css" integrity="sha256-gbuvxN&#43;TsRwcPiRJRkNzw4SqSQNzG0/Hp3383ZeeGE8=" crossorigin="anonymous" media="screen">
+
+
+
+ 
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/tn.png"/>
+
+<meta name="twitter:title" content="Benchmarking Delimited File Read Times in R"/>
+<meta name="twitter:description" content="I have been running code for a client project and each comma separated (csv) file is 300MB with 400,000&#43; records. Base R simply wasn&rsquo;t cutting it for me and I was wasting too much time staring at my local system waiting for my files to be read.
+I found the microbenchmark package and started exploring faster file read methods relative to base R. I discovered Tidyverse&rsquo;s readr and vroom packages, and while I had used the data."/>
+
+<meta property="og:title" content="Benchmarking Delimited File Read Times in R" />
+<meta property="og:description" content="I have been running code for a client project and each comma separated (csv) file is 300MB with 400,000&#43; records. Base R simply wasn&rsquo;t cutting it for me and I was wasting too much time staring at my local system waiting for my files to be read.
+I found the microbenchmark package and started exploring faster file read methods relative to base R. I discovered Tidyverse&rsquo;s readr and vroom packages, and while I had used the data." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/blog/2019-05-22-benchmarking-r-read-methods/" />
+
+<meta property="og:image" content="/tn.png" />
+<meta property="og:site_name" content="Hi, I&#39;m Javier." />
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-127790709-3', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+
+    
+    
+    
+    <title>
+        
+        Benchmarking Delimited File Read Times in R
+        
+    </title>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="section" id="title">Benchmarking Delimited File Read Times in R</div>
+
+        <div class="section" id="content"><p><img src="https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/BenchmarkingR.jpeg" alt="" /></p>
+
+<p>I have been running code for a client project and each comma separated (csv) file is 300MB with 400,000+ records. Base R simply wasn&rsquo;t cutting it for me and I was wasting too much time staring at my local system waiting for my files to be read.</p>
+
+<p>I found the microbenchmark package and started exploring faster file read methods relative to base R. I discovered Tidyverse&rsquo;s readr and vroom packages, and while I had used the data.table package many times, I did not realize that data.table had its own file read function (i.e., &ldquo;fread&rdquo;). To evaluate the different read methods, I loaded my csv data set 10 times using each method and plotted the results above. At least for my purely numerical data set, data.table was the clear winner followed by vroom. One major caveat here is that not all of these methods are made equal&hellip; Per the Tidyverse vroom writeup:
+* &ldquo;The main reason <em>vroom</em> can be faster is because character data is read from the file lazily; you only pay for the data you use. This lazy access is done automatically, so no changes to your R data-manipulation code are needed.&rdquo;
+* I believe data.table operates in a similar pay-as-you-play manner</p>
+
+<p>The above visualization was done in R using the microbenchmark package, ggplot2 for base plotting framework, and ggthemes package for <em>The Economist</em> color theme and styling.</p>
+
+<p>File Read Sources:
+* <a href="https://readr.tidyverse.org/">Tidyverse&rsquo;s readr</a>
+* <a href="https://github.com/Rdatatable/data.table/wiki">data.table on GitHub</a>
+* <a href="https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/">Tidyverse&rsquo;s vroom</a></p>
+
+<p>Visualization Sources:
+* <a href="https://cran.r-project.org/web/packages/microbenchmark/index.html">microbenchmark</a>
+* <a href="https://ggplot2.tidyverse.org/">ggplot2</a>
+* <a href="https://www.ggplot2-exts.org/ggthemes.html">ggthemes</a></p>
+</div>
+
+        
+        <div class="section bottom-menu">
+<hr />
+<p>
+
+
+    
+
+    
+        
+            <a href="/blog">
+                blog
+            </a>
+        
+    
+    
+        
+            &#183; 
+            <a href="/scatterpodcast">
+                scatter podcast
+            </a>
+        
+            &#183; 
+            <a href="/gallery">
+                gallery
+            </a>
+        
+            &#183; 
+            <a href="/portfolio">
+                portfolio
+            </a>
+        
+            &#183; 
+            <a href="/about">
+                who is javier?
+            </a>
+        
+    
+    &#183; 
+    <a href="/">
+        main
+    </a>
+
+</p></div>
+        
+
+        <div class="section footer">Javier Orraca // orraca.javier@gmail.com</div>
+    </div>
+</body>
+
+</html>

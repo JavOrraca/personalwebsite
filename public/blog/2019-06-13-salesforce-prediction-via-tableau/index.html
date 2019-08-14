@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="Javier Orraca&#39;s Data Science resource hub.">
+<title>
+Salesforce Stock Price Prediction via R &#43; Tableau - Javier&#39;s Data Site
+</title>
+
+
+
+
+<link rel="shortcut icon" href="/sam.ico">
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.81bbafc4df93b11c1c3e2449464373c384aa4903731b4fc7a77dfcdd979e184f.css" integrity="sha256-gbuvxN&#43;TsRwcPiRJRkNzw4SqSQNzG0/Hp3383ZeeGE8=" crossorigin="anonymous" media="screen">
+
+
+
+ 
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/tn.png"/>
+
+<meta name="twitter:title" content="Salesforce Stock Price Prediction via R &#43; Tableau"/>
+<meta name="twitter:description" content="Where will Salesforce stock (CRM) be at the end of 2019? $178.40! I used R to produce a multi-variate time series model and Tableau to visualize historical CRM stock prices (grey line) vs my model (blue line), including my Dec 2019 prediction (red dot). The model was built in February using historical stock price data from 2004 to 2018. Play around with the Tableau viz (link below)!
+Independent Variables: * U."/>
+
+<meta property="og:title" content="Salesforce Stock Price Prediction via R &#43; Tableau" />
+<meta property="og:description" content="Where will Salesforce stock (CRM) be at the end of 2019? $178.40! I used R to produce a multi-variate time series model and Tableau to visualize historical CRM stock prices (grey line) vs my model (blue line), including my Dec 2019 prediction (red dot). The model was built in February using historical stock price data from 2004 to 2018. Play around with the Tableau viz (link below)!
+Independent Variables: * U." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/blog/2019-06-13-salesforce-prediction-via-tableau/" />
+
+<meta property="og:image" content="/tn.png" />
+<meta property="og:site_name" content="Hi, I&#39;m Javier." />
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-127790709-3', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+
+    
+    
+    
+    <title>
+        
+        Salesforce Stock Price Prediction via R &#43; Tableau
+        
+    </title>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="section" id="title">Salesforce Stock Price Prediction via R &#43; Tableau</div>
+
+        <div class="section" id="content"><p><img src="https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/Salesforce.jpg" alt="" /></p>
+
+<p>Where will Salesforce stock (CRM) be at the end of 2019? $178.40! I used R to produce a multi-variate time series model and Tableau to visualize historical CRM stock prices (grey line) vs my model (blue line), including my Dec 2019 prediction (red dot). The model was built in February using historical stock price data from 2004 to 2018. Play around with the Tableau viz (link below)!</p>
+
+<p>Independent Variables:
+* U.S. consumer sentiment index (published by the University of Michigan)
+* GDP
+* CRM historical stock prices
+* Other tech stocks (IBM, Oracle, SAP)
+* Month (as categorical, for seasonality)</p>
+
+<p>High-level model process:
+* Linear regression model created for log-transformed historical data
+* Uni-variate ARIMA time series models produced for each independent variable (excluding month)
+* ARIMA model output used to predict monthly 2019 data points and these data points were then log-transformed
+* Log-transformed ARIMA data points joined into one data set and processed as input to the original linear regression model created above
+* Linear regression score outputs were exponentiated
+* The model coefficients were incorporated into Tableau for a &ldquo;what-if&rdquo; style interactive visualization</p>
+
+<p>Source:
+* <a href="https://public.tableau.com/profile/javier.orraca#!/vizhome/SalesforceStockPrediction/StockPrediction">Javier&rsquo;s Salesforce Stock Prediction on Tableau Public</a></p>
+</div>
+
+        
+        <div class="section bottom-menu">
+<hr />
+<p>
+
+
+    
+
+    
+        
+            <a href="/blog">
+                blog
+            </a>
+        
+    
+    
+        
+            &#183; 
+            <a href="/scatterpodcast">
+                scatter podcast
+            </a>
+        
+            &#183; 
+            <a href="/gallery">
+                gallery
+            </a>
+        
+            &#183; 
+            <a href="/portfolio">
+                portfolio
+            </a>
+        
+            &#183; 
+            <a href="/about">
+                who is javier?
+            </a>
+        
+    
+    &#183; 
+    <a href="/">
+        main
+    </a>
+
+</p></div>
+        
+
+        <div class="section footer">Javier Orraca // orraca.javier@gmail.com</div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Javier&#39;s Data Site</title>
+    <link>/categories/statistics/</link>
+    <description>Recent content in Statistics on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Machine Learning by Hand</title>
+      <link>/blog/2018-10-26-really-learning-machine-learning/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-10-26-really-learning-machine-learning/</guid>
+      <description>Machine learning via R, Python, (enter your tool of choice here)&amp;hellip; Not bad. But doing machine learning by hand, wow&amp;hellip; This is a true study of patience!
+For a school assignment, we had to deconstruct a supervised machine learning model (Naive Bayes) using one data set for training and another for testing, all by hand. This was definitely rewarding being able to understand the depth of conditional probabilities in this classifier model.</description>
+    </item>
+    
+  </channel>
+</rss>

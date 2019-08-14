@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering on Javier&#39;s Data Site</title>
+    <link>/categories/clustering/</link>
+    <description>Recent content in Clustering on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/clustering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>K-Means Clustering</title>
+      <link>/blog/2018-09-23-unsupervised-machine-learning/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-09-23-unsupervised-machine-learning/</guid>
+      <description>First quarter of grad school is finally over! Now with some free time, I finally learned Git (for BASH emulation), set up a GitHub account, and looking forward to collaborating on analytics projects. If you&amp;rsquo;re interested in R or machine learning, one of my projects is a basic ML exercise that relies on the k-means algorithm for clustering.
+Source: Unsupervised Machine Learning via k-means Algorithm</description>
+    </item>
+    
+  </channel>
+</rss>

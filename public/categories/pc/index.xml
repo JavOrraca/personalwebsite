@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PC on Javier&#39;s Data Site</title>
+    <link>/categories/pc/</link>
+    <description>Recent content in PC on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/pc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boost PC Performance with ThrottleStop</title>
+      <link>/blog/2019-03-17-throttlestop/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-03-17-throttlestop/</guid>
+      <description>For Windows Users Wanting More Speed &amp;amp; Performance I&amp;rsquo;ve been puzzled as to why I felt a significant lag on my top-of-the-line laptop (especially prevalent with MS Excel - if you&amp;rsquo;re a power user, you&amp;rsquo;d have noticed immediately). Turns out, it&amp;rsquo;s &amp;ldquo;standard&amp;rdquo; for my system to throttle the CPU at 1.9 GHz. Using ThrottleStop (free), I removed CPU throttling for speed gains and undervolted the CPU/cache/GPU for temperature control. I&amp;rsquo;m running stable at ~3.</description>
+    </item>
+    
+  </channel>
+</rss>

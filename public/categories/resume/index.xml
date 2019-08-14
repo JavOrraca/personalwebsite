@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Javier&#39;s Data Site</title>
+    <link>/categories/resume/</link>
+    <description>Recent content in Resume on Javier&#39;s Data Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview Tips for Students &amp; Job Seekers</title>
+      <link>/blog/2018-11-27-interview-tips-for-students-job-seekers/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11-27-interview-tips-for-students-job-seekers/</guid>
+      <description>I joined LinkedIn&amp;rsquo;s Career Advice beta program and have been providing career and interview tips to students and professionals wanting a career change since 2017. Since several students have found my feedback helpful, I hope you&amp;rsquo;ll welcome this unsolicited feedback. Now that I&amp;rsquo;m back in graduate school, it&amp;rsquo;s also a nice reminder for myself as we approach &amp;ldquo;interview season.&amp;rdquo; For some context, I&amp;rsquo;ve never had HR or Recruiter titles, but I&amp;rsquo;ve been fortunate to have had many opportunities to interview college students and experienced professionals at EY, PG&amp;amp;E, and KPMG.</description>
+    </item>
+    
+  </channel>
+</rss>
