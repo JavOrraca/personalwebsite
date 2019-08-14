@@ -23,6 +23,13 @@ I’m humbled to be part of the data science community, continuously learning, n
 * `Microsoft Access`: data pipelines, data manipulation, ODBC integration, query design (joins, crosstab, make-table, etc.), reports, forms, macros
 * **Other Tools**: Tableau, SQL, Microsoft Dynamics / D365, Microsoft PowerBI, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, SAP Analysis for Excel, Adaptive Insights, SAS, Hugo, Netlify
 
+## Media Appearances
+
+* Scatter Podcast on Forbes: [https://forbes.com/how-to-get-your-data-scientist-career-started](https://forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started)
+* Scatter Podcast on UC Irvine News: [https://merage.uci.edu/news/2019/06/scatterpodcast](https://merage.uci.edu/news/2019/06/podcast-launched-by-merage-student-navigates-complex-field-of-data-analytics-and-science.html)
+* Orange County Predictive Modeling Hackathon Winner: [https://twitter.com/oc_rug/status/oc-r-users-group-hackathon-best-model](https://twitter.com/oc_rug/status/1130553620456300544?s=20)
+* UC Irvine Student Profile: [https://merage.uci.edu/programs/masters/master-science-business-analytics](https://merage.uci.edu/programs/masters/master-science-business-analytics/curriculum.html)
+
 ## Web Development
 
 I am not a web developer but I created this website using the [R](https://www.r-project.org/) programming language, [RStudio](https://www.rstudio.com/), [blogdown](https://bookdown.org/yihui/blogdown/), and [Hugo](https://gohugo.io/). My site renders in less than 100ms and I'm hosting it for _free_... It only cost me time and $15/year for the domain name. Open-source tools are fast, flexible, fun, and paving the future of analytics.

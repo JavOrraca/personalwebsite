@@ -2,7 +2,7 @@ baseurl                  = "/"           # Your domain name. Must end with "/". 
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Javier's Data Site"
+title                    = "Javier Orraca // Data Analyst"
 theme                    = "hugo-theme-sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -13,7 +13,7 @@ googleAnalytics          = "UA-127790709-3"                               # Trac
     dateformfull         = "2006 Jan 02 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Javier Orraca // orraca.javier@gmail.com"
+    footerText           = "Javier Orraca // Data Analyst"
 
 # Metadata for Open Graph and Twitter
     description          = "Javier Orraca's Data Science resource hub."               # Max 160 characters show in search results
@@ -29,12 +29,12 @@ googleAnalytics          = "UA-127790709-3"                               # Trac
     text = "scatter podcast"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+    link = "/consulting"
+    text = "consulting"
 
 [[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
+    link = "/contact"
+    text = "contact & social"
 
 [[params.mainMenu]]
     link = "/about"
