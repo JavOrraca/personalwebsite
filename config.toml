@@ -6,14 +6,14 @@ title                    = "Javier's Data Site"
 theme                    = "hugo-theme-sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+googleAnalytics          = "UA-127790709-3"                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
     dateform             = "2006 Jan 02"
     dateformfull         = "2006 Jan 02 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Javier Orraca. Data Analyst."
+    footerText           = "Javier Orraca // orraca.javier@gmail.com"
 
 # Metadata for Open Graph and Twitter
     description          = "Javier Orraca's Data Science resource hub."               # Max 160 characters show in search results

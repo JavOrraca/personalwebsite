@@ -1,25 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Call me Sam</title>
+    <title>R on Javier&#39;s Data Site</title>
     <link>/categories/r/</link>
-    <description>Recent content in R on Call me Sam</description>
+    <description>Recent content in R on Javier&#39;s Data Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>dplyr&#39;s if_else vs base R&#39;s ifelse</title>
+      <link>/blog/2019-04-03-dplyr-for-r/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/blog/2019-04-03-dplyr-for-r/</guid>
+      <description>When working with data sets of significant size, I&amp;rsquo;m always on the lookout for more efficient code (not necessarily fewer lines of code, but code that processes data faster and more effectively). Recently, I was getting antsy waiting for a simple if/else statement to run via R (I was working with a large GB-sized file on my personal computer). While waiting, I researched alternative approaches for performance improvement and found that dplyr, part of R&amp;rsquo;s Tidyverse and one of my favorite packages for data manipulation, has a vectorized if function perfect for the occasion.</description>
+    </item>
+    
+    <item>
+      <title>Wes Anderson Color Palettes for R</title>
+      <link>/blog/2018-11-08-wes-anderson-movie-color-palettes/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11-08-wes-anderson-movie-color-palettes/</guid>
+      <description>Are you a Wes Anderson fan and regular R user? If you want a color scheme makeover for your R visualizations, check out this fun Wes Anderson color palette package by Karthik Ram. Great stuff&amp;hellip; I just tried out The Grand Budapest Hotel palette for a correlation matrix (see above)!
+Source: Karthik&amp;rsquo;s Wes Anderson project (on GitHub)</description>
+    </item>
+    
+    <item>
+      <title>Network Visualizations via R &#43; iGraph</title>
+      <link>/blog/2018-11-06-network-visualizations/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11-06-network-visualizations/</guid>
+      <description>Network visualizations can be useful for understanding entity and large data interdependencies. I&amp;rsquo;ve been using R and the iGraph package to explore network analysis and found this tutorial to be EXCELLENT by Katherine Ognyanova. It takes a lot of time to build these network graphs and more time to interpret, but definitely rewarding when it provides insights you may have otherwise overlooked. The screenshot above is a network diagram that I made to represent Amazon product copurchases.</description>
+    </item>
+    
+    <item>
+      <title>K-Means Clustering</title>
+      <link>/blog/2018-09-23-unsupervised-machine-learning/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-09-23-unsupervised-machine-learning/</guid>
+      <description>First quarter of grad school is finally over! Now with some free time, I finally learned Git (for BASH emulation), set up a GitHub account, and looking forward to collaborating on analytics projects. If you&amp;rsquo;re interested in R or machine learning, one of my projects is a basic ML exercise that relies on the k-means algorithm for clustering.
+Source: Unsupervised Machine Learning via k-means Algorithm</description>
+    </item>
+    
+    <item>
+      <title>Learning R with swirl</title>
+      <link>/blog/2018-08-20-learning-r/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-08-20-learning-r/</guid>
+      <description>Microsoft Excel&amp;rsquo;s pivot tables and Google Maps&amp;hellip; Obvious differences here, but both are driven by split-apply-combine methodologies that visualize data sets. If you want to learn how to make a pivot table &amp;ldquo;from scratch,&amp;rdquo; or enhance your analytics capabilities beyond Excel, learn R (or Python) as a starting point. R is an analytics and graphics programming language that is free, fun, and an interactive way to learn the R basics is via swirl.</description>
     </item>
     
   </channel>
