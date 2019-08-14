@@ -46,7 +46,8 @@ dplyr&#39;s if_else vs base R&#39;s ifelse - Javier&#39;s Data Site
 <meta property="og:url" content="/blog/2019-04-03-dplyr-for-r/" />
 
 <meta property="og:image" content="/tn.png" />
-<meta property="og:site_name" content="Hi, I&#39;m Javier." />
+<meta property="article:published_time" content="2019-04-03T20:18:53-05:00" />
+<meta property="article:modified_time" content="2019-04-03T20:18:53-05:00" /><meta property="og:site_name" content="Hi, I&#39;m Javier." />
 
 
 <script type="application/javascript">
@@ -83,8 +84,8 @@ if (!doNotTrack) {
 <p>I was quite surprised to find that base R&rsquo;s ifelse function ran over 70% slower than dplyr&rsquo;s if_else on my data set. This is due to dplyr&rsquo;s if_else function being a vectorized interpretation of base R&rsquo;s ifelse, meaning that dplyr&rsquo;s if_else function works not just on a single value at a time but on the whole vector of values simultaneously. Sometimes, your problem can&rsquo;t utilize vectorized functions, but for if/else cases on massive data sets, this function is a gem!</p>
 
 <p>Sources:
-* <a href="https://dplyr.tidyverse.org/reference/if_else.html">dplyr: Vectorised if</a>
-* <a href="https://www.tidyverse.org/">Tidyverse: A Collection of R Packages</a></p>
+<br/><a href="https://dplyr.tidyverse.org/reference/if_else.html">dplyr: Vectorised if</a>
+<br/><a href="https://www.tidyverse.org/">Tidyverse: A Collection of R Packages</a></p>
 </div>
 
         

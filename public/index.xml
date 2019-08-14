@@ -6,10 +6,468 @@
     <description>Recent content on Javier&#39;s Data Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2019 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 20:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 18 w/ Saatchi &amp; Saatchi</title>
+      <link>/scatterpodcast/2019-08-12-scatter-podcast-episode-018/</link>
+      <pubDate>Mon, 12 Aug 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-08-12-scatter-podcast-episode-018/</guid>
+      <description>Lots of neat things happening at the intersection of media &amp;amp; entertainment, analytics, and operations. For Episode 018 of Scatter Podcast, I interviewed Leondra R. James, Manager, Analytics &amp;amp; Operations at Saatchi &amp;amp; Saatchi.
+From violinist and music major to data scientist, Leondra has had a unique mix of academic and professional experiences that shaped her career in data. Saatchi &amp;amp; Saatchi is a global advertising agency operating in 76 countries and Leondra works in their Los Angeles office.</description>
+    </item>
+    
+    <item>
+      <title>The Tableau Chart Catalog</title>
+      <link>/blog/2019-08-06-tableau-gallery/</link>
+      <pubDate>Tue, 06 Aug 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-08-06-tableau-gallery/</guid>
+      <description>I&amp;rsquo;ve been really quiet recently&amp;hellip; All is great, just busy with some client projects and building two websites for myself for the first time (both using R and this site included!). I wanted to share this awesome catalog of Tableau Software charts presented by Kevin Flerlage. Amazing stuff here and great reference to bookmark. Sometimes, all we need is a little creative inspiration to help us design stunning charts. Happy visualizing!</description>
+    </item>
+    
+    <item>
+      <title>Episode 17 w/ ViralGains</title>
+      <link>/scatterpodcast/2019-07-29-scatter-podcast-episode-017/</link>
+      <pubDate>Mon, 29 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-07-29-scatter-podcast-episode-017/</guid>
+      <description>For Episode 017 of Scatter Podcast, I interviewed Justin Fortier, Principal Data Scientist at ViralGains. Justin and I met at the Data Science GO conference in 2018 and I enjoyed getting to learn about his journey as a data scientist. ViralGains is a video advertising technology startup that helps publishers push video ad content to the most appropriate consumers. Given that ViralGains operates within the real-time bidding (&amp;ldquo;RTB&amp;rdquo;) domain, their ad bidding and classification algorithms need to transact and process within 100 milliseconds.</description>
+    </item>
+    
+    <item>
+      <title>Plotly.py 4.0 - Offline Visualizations</title>
+      <link>/blog/2019-07-25-plotly-offline-and-plotly-express/</link>
+      <pubDate>Thu, 25 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-25-plotly-offline-and-plotly-express/</guid>
+      <description>Python users: pip install plotly==4.0.0
+Definitely excited to use the updated Plotly.py. This shift to offline-only is amazing. It &amp;ldquo;requires no internet connection, no account, no authentication tokens, and no payment of any kind.&amp;rdquo; Great stuff here, and now Plotly Express comes built in to make interactive plot making even easier&amp;hellip; &amp;ldquo;plotly.express is to plotly what seaborn is to matplotlib&amp;rdquo;
+For you Jupyter and Colab fans, rendering Plotly figures to these notebooks (and other IDEs) should now feel a lot less clunky.</description>
+    </item>
+    
+    <item>
+      <title>Linux Lessons Learned the Hard Way</title>
+      <link>/blog/2019-07-23-linux-tips-learned-the-hard-way/</link>
+      <pubDate>Tue, 23 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-23-linux-tips-learned-the-hard-way/</guid>
+      <description>Here are a few tips, learned the hard way, for Linux beginners, data science students, or practitioners wanting to use Linux for machine learning and AI:
+1) If you plan on dual-booting with Windows, there is not a one-size-fits-all solution. Setting up your Windows and BIOS settings to allow for disk partitions and Linux dual-boot can be manufacturer and/or Windows-version specific. I have a Lenovo ThinkPad and I am running pre-installed Windows 10 Professional&amp;hellip; If you have a similar system and looking to dual-boot, I&amp;rsquo;m happy to help with Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Episode 16 w/ MeridianLink</title>
+      <link>/scatterpodcast/2019-07-22-scatter-podcast-episode-016/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-07-22-scatter-podcast-episode-016/</guid>
+      <description>For Episode 016 of Scatter Podcast, I had a great time interviewing Ben Lewis, Business Intelligence Analyst at MeridianLink. Ben and I met at a hackathon hosted by the Orange County R Users Group (&amp;ldquo;OCRUG&amp;rdquo;) and I was immediately impressed by his R skills. He has an Industrial Engineering and Operations Research background from the University of California, Berkeley, and as a BI Analyst at MeridianLink, he regularly programs in R for analytics, dashboards, and Shiny web-apps.</description>
+    </item>
+    
+    <item>
+      <title>Docker Container Tutorial for Beginners</title>
+      <link>/blog/2019-07-19-docker-for-beginners/</link>
+      <pubDate>Fri, 19 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-19-docker-for-beginners/</guid>
+      <description>Many of the developers and data scientists that I follow on LinkedIn have had extensive exposure to Docker for building and deploying apps via containers&amp;hellip; I have not, but I&amp;rsquo;ve been thinking about this for months and finally got around to researching where to start. I came across this IN-DEPTH(!!) and well-written Docker Tutorial for Beginners by Prakhar Srivastav.
+Amazing stuff here, and exactly the kind of resource that I like to share.</description>
+    </item>
+    
+    <item>
+      <title>Resume Tip... Don&#39;t Lie!</title>
+      <link>/blog/2019-07-17-resume-tip-do-not-lie/</link>
+      <pubDate>Wed, 17 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-17-resume-tip-do-not-lie/</guid>
+      <description>I came across this meme today and it cracked me up&amp;hellip; There&amp;rsquo;s a big difference between lying on your resume and embellishing (I&amp;rsquo;ve written about this before, but even with embellishing, there is a line that you can easily cross). But folks&amp;hellip; don&amp;rsquo;t lie about your experience on your resume. It&amp;rsquo;s not good for you or your employer (if they fall for your lies), and definitely not good for your reputation if you get into something way over your head.</description>
+    </item>
+    
+    <item>
+      <title>Episode 15 w/ General Motors</title>
+      <link>/scatterpodcast/2019-07-15-scatter-podcast-episode-015/</link>
+      <pubDate>Mon, 15 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-07-15-scatter-podcast-episode-015/</guid>
+      <description>On Episode 015 of Scatter Podcast, I had the pleasure of interviewing Meltem Ballan, Ph.D., Data Scientist and Architect at General Motors. Meltem&amp;rsquo;s deep analytical and data science expertise developed over her 20 years of experience in academia, consulting, and the corporate world. In fact, before &amp;ldquo;data science&amp;rdquo; became a catchphrase, Meltem was referred to as an algorithm developer.
+At GM, Meltem&amp;rsquo;s team aims to enhance the driver experience where she applies neuroscience theory to analyze massive data sets via machine learning and artificial intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Editable ggplot2 plots from R to PowerPoint</title>
+      <link>/blog/2019-07-13-exporting-plots-from-r-to-powerpoint/</link>
+      <pubDate>Sat, 13 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-13-exporting-plots-from-r-to-powerpoint/</guid>
+      <description>Here&amp;rsquo;s a super useful and easy approach, with sample code, for exporting R ggplot2 plots to PowerPoint as geometric shapes (vector objects). Using the officer R package, you&amp;rsquo;re able to edit the styling of your plots directly in PowerPoint to match your presentation theme or change to your liking. This also works on LibreOffice for Linux distributions.
+Source: Blog Post: Exporting editable plots from R to Powerpoint by Bruno Rodrigues, Ph.</description>
+    </item>
+    
+    <item>
+      <title>R &#43; dplyr for Data Scientists</title>
+      <link>/blog/2019-07-10-dplyr-for-data-scientists/</link>
+      <pubDate>Wed, 10 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-10-dplyr-for-data-scientists/</guid>
+      <description>I&amp;rsquo;ve previously posted about the benefits of the dplyr package for data manipulation and performing if/else functions, but I wanted to share this R-bloggers post by Markus Berroth. The post includes base R vs dplyr sample code to demonstrate how dplyr can make life easier for data scientists. The Abstract Syntax Tree (AST) illustrations are also super helpful for understanding what&amp;rsquo;s happening with your R code.
+These type of AST visuals are all over Hadley Wickham&amp;rsquo;s Advanced R (Second Edition), and they&amp;rsquo;ve definitely helped me to better understand my R code.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Social Good</title>
+      <link>/blog/2019-07-09-ai-for-social-good/</link>
+      <pubDate>Tue, 09 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-09-ai-for-social-good/</guid>
+      <description>This is a great, 22-minute presentation by Neil Sahota at an AI conference. I met Sahota through UC Irvine, he recently taught my Technology &amp;amp; Analytics Consulting graduate course. In this video, Sahota discusses how AI can be used for social good and biodiversity. Professor Sahota is a beast&amp;hellip; In addition to recently publishing his first book on AI for business, he&amp;rsquo;s extremely active in the data science community and contributes through mentorship and consulting, he&amp;rsquo;s an IBM Master Inventor, he&amp;rsquo;s the United Nations AI subject matter expert, and co-founder of the AI for Good initiative.</description>
+    </item>
+    
+    <item>
+      <title>Episode 14 w/ Fehr &amp; Peers</title>
+      <link>/scatterpodcast/2019-07-08-scatter-podcast-episode-014/</link>
+      <pubDate>Mon, 08 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-07-08-scatter-podcast-episode-014/</guid>
+      <description>On Episode 014 of Scatter Podcast, I interview David Wasserman, AICP, Transportation Planner &amp;amp; Data Scientist at Fehr &amp;amp; Peers. Specializing in transportation planning and engineering services, Fehr &amp;amp; Peers is a consulting firm that has serviced public and private sectors since 1985. David has worked with them for four years at the intersection of data science, transportation and urban planning, and he takes us through a deep dive into some of the work that he&amp;rsquo;s done (providing career tips along the way!</description>
+    </item>
+    
+    <item>
+      <title>The Hitchhiker&#39;s Guide to Handle Big Data Using Spark</title>
+      <link>/blog/2019-07-05-spark/</link>
+      <pubDate>Fri, 05 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-05-spark/</guid>
+      <description>Rahul Agarwal recently wrote an article for Towards Data Science that provides a great overview on the history of MapReduce, Spark, and using Python / PySpark for data engineering. I worked on a project recently with two people and we were shocked at how computationally efficient Spark was for our use case. We were able to load, read, manipulate, and explore over 30 GB of data in a Google Colab, GPU-enabled environment without reaching Google&amp;rsquo;s RAM limitation&amp;hellip; If you&amp;rsquo;ve used Colab, you know that you can eat through 12 GB of GPU RAM quickly.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Finance &amp; Advanced R</title>
+      <link>/blog/2019-07-03-advanced-r/</link>
+      <pubDate>Wed, 03 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-03-advanced-r/</guid>
+      <description>I&amp;rsquo;m done with school but excited to continue learning! I picked up a copy of Jonathan Regenstein&amp;rsquo;s &amp;ldquo;Reproducible Finance with R&amp;rdquo; and Hadley Wickham&amp;rsquo;s &amp;ldquo;Advanced R&amp;rdquo; (2nd Edition, recently released). For my old co-workers in valuation, financial modeling, and corporate finance, I urge all of you to learn the R programming language. I assure you that you&amp;rsquo;ll still use Excel (often), but from a reproducibility perspective for your complex recurring analyses and forecasts, R is a better solution for you.</description>
+    </item>
+    
+    <item>
+      <title>Learn Synth &amp; Sequencing Basics</title>
+      <link>/blog/2019-07-02-ableton-live-learning-synths/</link>
+      <pubDate>Tue, 02 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-07-02-ableton-live-learning-synths/</guid>
+      <description>June was a wild but exciting month&amp;hellip; I finished some major projects for school, graduated, moved, and most recently went abroad on vacation to disconnect. Definitely a nice recharge for the soul! Some neat things are on the horizon and I&amp;rsquo;m excited to release my next wave of Scatter Podcast episodes starting on July 8.
+I recently discovered an amazing online learning platform to learn about synthesizers and I had to share it&amp;hellip; This might not be your cup of tea but if you like music, you&amp;rsquo;ll enjoy this.</description>
+    </item>
+    
+    <item>
+      <title>Episode 6 (REPLAY) w/ T-Mobile</title>
+      <link>/scatterpodcast/2019-07-01-replay-scatter-podcast-episode-006/</link>
+      <pubDate>Mon, 01 Jul 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-07-01-replay-scatter-podcast-episode-006/</guid>
+      <description>I am on a flight en route back to the U.S., vacation was nice and sad it is over. BUT, excited to push out some new content starting NEXT WEEK! This week, I&amp;rsquo;m re-broadcasting the sixth episode of Scatter Podcast with Juan Pablo Murillo, Data Scientist at T-Mobile. Juan Pablo is based at T-Mobile&amp;rsquo;s U.S. headquarters in Bellevue, WA (greater Seattle area). Mathematics instructor turned data scientist, Juan Pablo is in customer analytics and works with engineering and analytics teams to improve the T-Mobile and MetroPCS customer experience.</description>
+    </item>
+    
+    <item>
+      <title>Episode 11 (REPLAY) w/ CBRE</title>
+      <link>/scatterpodcast/2019-06-24-replay-scatter-podcast-episode-011/</link>
+      <pubDate>Mon, 24 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-06-24-replay-scatter-podcast-episode-011/</guid>
+      <description>I am still out of the country and enjoying time away from the computer&amp;hellip; Apologies for your patience and Scatter Podcast will be back SOON with fresh content. This is a replay of an episode that I released in May with Vince Giovannini, Data Scientist at CBRE. For those of you not familiar with this company, CBRE is 100+ year-old commercial real estate investment company that offers a wide range of real estate consulting services.</description>
+    </item>
+    
+    <item>
+      <title>Episode 5 (REPLAY) w/ Databricks&#34;</title>
+      <link>/scatterpodcast/2019-06-17-replay-scatter-podcast-episode-005/</link>
+      <pubDate>Mon, 17 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-06-17-replay-scatter-podcast-episode-005/</guid>
+      <description>Having just graduated, my podcast is on hiatus as I take a much needed vacation, so, I&amp;rsquo;m sharing a prior interview that I did with Rafi Kurlansik of Databricks. I like this episode because it provides a different perspective on data science careers: Doing proof of concepts to support pre-sales or technical sales. The work keeps you continuously learning and your clients can be wide-ranging in size and industry. I met Rafi in 2018 when he was at IBM Watson Cloud Studio and he joined the Databricks team in Jan 2019.</description>
+    </item>
+    
+    <item>
+      <title>UCI News with Scatter Podcast</title>
+      <link>/blog/2019-06-14-scatter-podcast-in-the-news/</link>
+      <pubDate>Fri, 14 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-06-14-scatter-podcast-in-the-news/</guid>
+      <description>Several months back, I launched Scatter Podcast to share insights about all things &amp;ldquo;data science&amp;rdquo; and career tips from leaders in the space. On my podcast, I interview practitioners to demystify what it means to be a data scientist since it has many shapes and forms in business intelligence, advanced analytics, programming, and data storytelling.
+The UCI Paul Merage School of Business recently interviewed me and published an article about my work with Scatter Podcast (link below).</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Stock Price Prediction via R &#43; Tableau</title>
+      <link>/blog/2019-06-13-salesforce-prediction-via-tableau/</link>
+      <pubDate>Thu, 13 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-06-13-salesforce-prediction-via-tableau/</guid>
+      <description>Where will Salesforce stock (CRM) be at the end of 2019? $178.40! I used R to produce a multi-variate time series model and Tableau to visualize historical CRM stock prices (grey line) vs my model (blue line), including my Dec 2019 prediction (red dot). The model was built in February using historical stock price data from 2004 to 2018. Play around with the Tableau viz (link below)!
+Independent Variables: U.S. consumer sentiment index (published by the University of Michigan) GDP CRM historical stock prices Other tech stocks (IBM, Oracle, SAP) Month (as categorical, for seasonality)</description>
+    </item>
+    
+    <item>
+      <title>And voila! Interactive Dashboards for Jupyter</title>
+      <link>/blog/2019-06-11-voila/</link>
+      <pubDate>Tue, 11 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-06-11-voila/</guid>
+      <description>Super excited about voila! Creating interactive web dashboards with Jupyter Notebooks via R or Python is getting easier, faster, and hopefully with more control.
+Plotly API calls have been manageable for me through Jupyter Notebooks, but I&amp;rsquo;ve certainly seem some limitations using the free Plotly account, Plotly Offline, or similar offline packages.
+Either way, Project Jupyter&amp;rsquo;s developments with JupyterLab, JupyterHub, and QuantStack&amp;rsquo;s voila are about to make programming collaboration and visualizations a lot more fun!</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast Break &amp; UCI&#39;s MSBA Class</title>
+      <link>/blog/2019-06-09-scatter-podcast-break/</link>
+      <pubDate>Sun, 09 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-06-09-scatter-podcast-break/</guid>
+      <description>Scatter Podcast will be on a short hiatus this week and next, but returning in two weeks with fresh new content from data scientists in consulting, transportation planning, banking, automobile manufacturing, and more! School got in the way wrapping up massive projects, reports, and final exams.
+The last year has flown by and I&amp;rsquo;m graduating with a MS in Business Analytics from University of California, Irvine. This is a snapshot of my MSBA class&amp;hellip; Smart, kind, and funny people from all over the world and now I get to call them friends.</description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis with R</title>
+      <link>/blog/2019-06-07-time-series-analysis-with-r/</link>
+      <pubDate>Fri, 07 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-06-07-time-series-analysis-with-r/</guid>
+      <description>I just got Hands-On Time Series Analysis with R, by Rami Krispin, and can&amp;rsquo;t wait to crack it open! I have a knack for time-series analyses given most of the financial data and modeling I previously worked with was time-series based. Had I known the full potential of advanced time-series forecasting techniques, I would have implemented some of these techniques yesterday! But as the saying goes, and it&amp;rsquo;s so cliche, but true, &amp;ldquo;you don&amp;rsquo;t know what you don&amp;rsquo;t know.</description>
+    </item>
+    
+    <item>
+      <title>Building a Deep Learning GPU Server</title>
+      <link>/blog/2019-06-05-building-a-deep-learning-server/</link>
+      <pubDate>Wed, 05 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-06-05-building-a-deep-learning-server/</guid>
+      <description>Amazon Web Services (AWS) and Google Cloud Platform (GCP) can be phenomenal for processing deep learning models in the cloud, but there&amp;rsquo;s a catch - especially if you&amp;rsquo;re a student or enthusiast with no corporate account access - These cloud tools get expensive! For $1-3 per hour, you can cloud compute using AWS or GCP&amp;hellip; Not bad! But if you want extended access to your cloud instances, or 24&amp;frasl;7 access as I&amp;rsquo;d like to have, cloud solutions become cost prohibitive.</description>
+    </item>
+    
+    <item>
+      <title>Episode 13 w/ Method Data Science</title>
+      <link>/scatterpodcast/2019-06-03-scatter-podcast-episode-013/</link>
+      <pubDate>Mon, 03 Jun 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-06-03-scatter-podcast-episode-013/</guid>
+      <description>On Episode 013 of Scatter Podcast, I had a great time interviewing Beau Walker, Founder &amp;amp; CEO of Method Data Science. Beau is actively involved in the data science community, is a passionate R and Python educator, and it was a pleasure to glean some career insights from him. Method is on a mission to inspire and train the next generation of data scientists, and they&amp;rsquo;re accomplishing this by managing small teams of Resident Data Scientists working on real-world data engagements.</description>
+    </item>
+    
+    <item>
+      <title>Linux &amp; Ubuntu Help Request</title>
+      <link>/blog/2019-05-30-linux-help-request/</link>
+      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-05-30-linux-help-request/</guid>
+      <description>I have been thinking of giving Ubuntu a shot&amp;hellip; I&amp;rsquo;m currently using Windows 10 (and all is good, honestly). Granted, the more I dive into analytics and data science research (and especially GPU processing), the more benefit I see from driving my data management and machine learning through a Linux command prompt.
+Backstory: I&amp;rsquo;ve been researching external GPU rigs and I am considering building one. I wouldn&amp;rsquo;t use it for gaming but for faster ML (i.</description>
+    </item>
+    
+    <item>
+      <title>Saving R Data Objects to File for Quick Loading</title>
+      <link>/blog/2019-05-29-saving-r-data-objects-to-file/</link>
+      <pubDate>Wed, 29 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-05-29-saving-r-data-objects-to-file/</guid>
+      <description>R users! Are you spending too much time reading large data sets, wrangling, then waiting to convert your data frames to matrices or arrays (and if you&amp;rsquo;re like me, you might be doing a lot of this locally)&amp;hellip; All of the sudden, you&amp;rsquo;ve got 25-50 GB (or more) worth of vector objects sitting in your environment and it&amp;rsquo;s taken 10-15 minutes to even get to this point where you can begin modeling&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Episode 12 w/ TBWA-Chiat-Day</title>
+      <link>/scatterpodcast/2019-05-27-scatter-podcast-episode-012/</link>
+      <pubDate>Mon, 27 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-05-27-scatter-podcast-episode-012/</guid>
+      <description>On Episode 012 of Scatter Podcast, I interview Matt Segal, Data Director at TBWA/Chiat/Day, a global creative advertising agency. Chiat/Day gained global notoriety with their &amp;ldquo;1984&amp;rdquo; ad campaign for Apple introducing the Macintosh computer. Their forward-thinking and disruptive style make for a unique place to work as a data strategist, and Matt discusses the benefits of data careers at advertising agencies. Matt shares recent project examples his data team has been involved with, he discusses tools regularly used for social listening and web analytics, and he shares solid resources for those of you interested in this space.</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Delimited File Read Times in R</title>
+      <link>/blog/2019-05-22-benchmarking-r-read-methods/</link>
+      <pubDate>Wed, 22 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-05-22-benchmarking-r-read-methods/</guid>
+      <description>I have been running code for a client project and each comma separated (csv) file is 300MB with 400,000+ records. Base R simply wasn&amp;rsquo;t cutting it for me and I was wasting too much time staring at my local system waiting for my files to be read.
+I found the microbenchmark package and started exploring faster file read methods relative to base R. I discovered Tidyverse&amp;rsquo;s readr and vroom packages, and while I had used the data.</description>
+    </item>
+    
+    <item>
+      <title>Episode 11 w/ CBRE</title>
+      <link>/scatterpodcast/2019-05-20-scatter-podcast-episode-011/</link>
+      <pubDate>Mon, 20 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-05-20-scatter-podcast-episode-011/</guid>
+      <description>On Episode 011 of Scatter Podcast, I interview Vince Giovannini, Data Scientist at CBRE, a commercial real estate investment company that also offers a wide range of real estate consulting services. Vince works in the Labor Analytics team at CBRE and shares great insights about the labor products he has worked on and how labor is connected to real estate economics. Vince shares several project examples that he&amp;rsquo;s been a part of at CBRE and it was great getting to hear how his firm uses data science to derive deeper insights.</description>
+    </item>
+    
+    <item>
+      <title>Best Model at OC R Users Group 2019 Hackathon</title>
+      <link>/blog/2019-05-19-ocrug-hackathon-2019/</link>
+      <pubDate>Sun, 19 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-05-19-ocrug-hackathon-2019/</guid>
+      <description>I attended my first hackathon today and my team, save the worRld, won best model! Greg Faletto, Shruhi Desai, Sam Park, Faizan Haque - I couldn&amp;rsquo;t have asked for a better team, congrats! To the OC R Users Group team, John Peach and the Amazon EC2 resources that he provided, to all the volunteers, and to UC Irvine&amp;rsquo;s Paul Merage School of Business for hosting, thanks for putting on an amazing event.</description>
+    </item>
+    
+    <item>
+      <title>Ray Kurzweil Explains AI and Future Intelligence</title>
+      <link>/blog/2019-05-17-artificial-intelligence-with-ray-kurzweil/</link>
+      <pubDate>Fri, 17 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-05-17-artificial-intelligence-with-ray-kurzweil/</guid>
+      <description>The YouTube link below is of Ray Kurzweil speaking at an MIT deep learning course (MIT Professor Lex Fridman&amp;rsquo;s artificial general intelligence course). Kurzwiel is a futurist and Google Director of Engineering. The way in which Kurzweil explains how humans learn and think (e.g., sequences of sequences in the neocortex), and how his brain research provided hints at how to build better and &amp;ldquo;deeper&amp;rdquo; neural networks&amp;hellip; Grab yourself a bag of popcorn and watch this 50 minute video, just amazing stuff here!</description>
+    </item>
+    
+    <item>
+      <title>Did Harvard Get Marketing Analytics Wrong?&#39;</title>
+      <link>/blog/2019-05-15-analytics-alone-are-not-a-solution/</link>
+      <pubDate>Wed, 15 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-05-15-analytics-alone-are-not-a-solution/</guid>
+      <description>In May 2018, Harvard Business Review published a report (links below) titled &amp;ldquo;Why Marketing Analytics Hasn&amp;rsquo;t Lived Up to Its Promise.&amp;rdquo; My most recent Scatter Podcast guest, Ryan Anderson, wrote a critique of the HBR article that helps frame the conversation in another light: marketing analytics ALONE is not the solution.
+We talked about the HBR piece and Ryan&amp;rsquo;s response on this week&amp;rsquo;s podcast release, but being that Ryan has made a career in strategic marketing and web analytics, I&amp;rsquo;d definitely recommend you read both of these articles if you&amp;rsquo;re interested in this line of work!</description>
+    </item>
+    
+    <item>
+      <title>Episode 10 w/ FortyFour</title>
+      <link>/scatterpodcast/2019-05-13-scatter-podcast-episode-010/</link>
+      <pubDate>Mon, 13 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-05-13-scatter-podcast-episode-010/</guid>
+      <description>On Episode 010 of Scatter Podcast, I&amp;rsquo;m excited to host guest Ryan Anderson, Director of Performance Marketing &amp;amp; Analytics at FortyFour. FortyFour is an independent digital agency based in Atlanta, GA, and Ryan leads their analytics team. Ryan, a Georgia Institute of Technology engineering and MBA alum, was a driving force for me diving into analytics and data science (thank you!).
+Ryan has been a great sounding board the past couple of years and he&amp;rsquo;s a wealth of knowledge on analytics and digital strategies.</description>
+    </item>
+    
+    <item>
+      <title>Revenue Predictions for Avengers Endgame</title>
+      <link>/blog/2019-05-10-avengers-endgame-box-office-prediction/</link>
+      <pubDate>Fri, 10 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-05-10-avengers-endgame-box-office-prediction/</guid>
+      <description>In mid-March, I worked with a team of UC Irvine students to analyze the Marvel Cinematic Universe and predict US box office revenues for Avengers: Endgame. We estimated US box office revenues to be $639 million and as of today, domestic box office revenues are $645 million!
+To my UC Irvine teammates (Ahnni, Daria, Joel, Xiaoting)&amp;hellip; Great job! At the time that we developed our predictions, Captain Marvel had only been in theaters for one week&amp;hellip; I just updated our models and our new domestic box office prediction for Endgame is $670 million.</description>
+    </item>
+    
+    <item>
+      <title>Episode 9 w/ RealBlocks</title>
+      <link>/scatterpodcast/2019-05-06-scatter-podcast-episode-009/</link>
+      <pubDate>Mon, 06 May 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-05-06-scatter-podcast-episode-009/</guid>
+      <description>On Episode 009 of Scatter Podcast, I&amp;rsquo;m really excited to release my interview with Perrin Quarshie, CEO &amp;amp; Founder of RealBlocks. For those of you interested in real estate, technology, investing, blockchain&amp;hellip; This episode is for you!
+Built upon the Ethereum blockchain, RealBlocks allows accredited investors to buy into private equity real estate funds through the purchase of digital assets. RealBlocks went through #Techstars NYC&amp;rsquo;s program (one of the top startup accelerators) and recently raised $3.</description>
+    </item>
+    
+    <item>
+      <title>Episode 8 w/ Chegg</title>
+      <link>/scatterpodcast/2019-04-29-scatter-podcast-episode-008/</link>
+      <pubDate>Mon, 29 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-04-29-scatter-podcast-episode-008/</guid>
+      <description>On Episode 008 of Scatter Podcast, I interview guest Taranveer Singh and discuss his work as a Data Scientist at Chegg. Through natural language processing (&amp;ldquo;NLP&amp;rdquo;) and data science, Taran&amp;rsquo;s team provides Chegg customers with a better user experience, ensuring the customer voice is heard. Chegg operates fast and smart, and data science enables the business to quickly research and deploy product features that are most desired by their community.</description>
+    </item>
+    
+    <item>
+      <title>Version Control w/ Git &amp; GitHub</title>
+      <link>/blog/2019-04-27-version-control/</link>
+      <pubDate>Sat, 27 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-04-27-version-control/</guid>
+      <description>Git, GitHub, and distributed version control can make your statistical and data science workflows so much cleaner, more organized, and perfect for collaborative projects. This is a topic that I&amp;rsquo;m just now researching and can&amp;rsquo;t believe that I waited this long to do.
+In finance, I was accustomed to saving numerous files per day (adding the date and version to the end of the model filename). Git and GitHub have a learning curve and require effort - I&amp;rsquo;m learning this now and can attest to you needing patience - But, the beauty of this data management process is that instead of saving one file only, you &amp;ldquo;commit&amp;rdquo; or save a multi-file snapshot of your entire project to the cloud!</description>
+    </item>
+    
+    <item>
+      <title>Episode 7 w/ NeoGenomics Laboratories</title>
+      <link>/scatterpodcast/2019-04-22-scatter-podcast-episode-007/</link>
+      <pubDate>Mon, 22 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-04-22-scatter-podcast-episode-007/</guid>
+      <description>On Episode 007 of Scatter Podcast, I interview guest Nicholas Stavrou and discuss his work as an Associate Scientist in Computational Biology at NeoGenomics Laboratories, a cancer diagnostic and pharma research company. Neo is advancing precision medication and Nicholas and I had an engaging talk about cancer cell classification, neural networks and AI models for cancer research, and how Nicholas developed his skills to land his role at Neo. Nicholas graduated from USC in 2017 and he shares some great tips and resources.</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast on Forbes</title>
+      <link>/blog/2019-04-18-forbes-article/</link>
+      <pubDate>Thu, 18 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-04-18-forbes-article/</guid>
+      <description>I had the privilege of recently interviewing data rockstar Alyssa Columbus, Data Scientist at Pacific Life and NASA Datanaut. Forbes interviewed her for a piece on How to Get Your Data Scientist Career Started and she was kind enough to mention Scatter Podcast as a resource for students to keep current on analytics and data science concepts. Great article and especially beneficial for early career data science job seekers.
+Source: How to Get Your Data Scientist Career Started</description>
+    </item>
+    
+    <item>
+      <title>Episode 6 w/ T-Mobile</title>
+      <link>/scatterpodcast/2019-04-15-scatter-podcast-episode-006/</link>
+      <pubDate>Mon, 15 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-04-15-scatter-podcast-episode-006/</guid>
+      <description>For the sixth episode of Scatter Podcast, I&amp;rsquo;m excited to introduce Juan Pablo Murillo, Data Scientist at T-Mobile at their U.S. headquarters in Bellevue, WA (greater Seattle area). Mathematics instructor turned data scientist, Juan Pablo is in customer analytics and works with engineering and analytics teams to improve the T-Mobile and MetroPCS customer experience. He has been a solid data science mentor for me over the last few months, reviewing, rating, and critiquing some of my R scripts and insights that I derived&amp;hellip; Sharp guy and I&amp;rsquo;m excited to share his data analytics passion with others!</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Personalized Requests on Mobile App</title>
+      <link>/blog/2019-04-09-linkedin-tips/</link>
+      <pubDate>Tue, 09 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-04-09-linkedin-tips/</guid>
+      <description>Personalized LinkedIn requests CAN be sent through the mobile app&amp;hellip; I didn&amp;rsquo;t realize this until today, but the key is to avoid hitting Connect when you’re shown a list of recommended contacts (this will send out a boilerplate request message). Instead, navigate to the contact’s LinkedIn profile and from there, you have access to personalize your request note! Thanks to Kate Strachnyi for her live stream today and her candid advice is always appreciated.</description>
+    </item>
+    
+    <item>
+      <title>Episode 5 w/ Databricks</title>
+      <link>/scatterpodcast/2019-04-08-scatter-podcast-episode-005/</link>
+      <pubDate>Mon, 08 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-04-08-scatter-podcast-episode-005/</guid>
+      <description>New episode of Scatter Podcast is online with Rafi Kurlansik of Databricks. Rafi has great perspective given his unique opportunities as a data scientist within tech sales and pre-sales teams. He also shares some great resources if you’re interested in learning Databricks, a cloud-based unified analytics platform. Happy Monday!
+Other links: Databricks Databricks Community Edition MLflow on Databricks
+Scatter Podcast is available on SoundCloud, iTunes &amp;amp; Apple Podcasts, Spotify, TuneIn, Google Play Music, Stitcher Radio, Castbox, and Podcast Republic.</description>
+    </item>
+    
+    <item>
+      <title>dplyr&#39;s if_else vs base R&#39;s ifelse</title>
+      <link>/blog/2019-04-03-dplyr-for-r/</link>
+      <pubDate>Wed, 03 Apr 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-04-03-dplyr-for-r/</guid>
+      <description>When working with data sets of significant size, I&amp;rsquo;m always on the lookout for more efficient code (not necessarily fewer lines of code, but code that processes data faster and more effectively). Recently, I was getting antsy waiting for a simple if/else statement to run via R (I was working with a large GB-sized file on my personal computer). While waiting, I researched alternative approaches for performance improvement and found that dplyr, part of R&amp;rsquo;s Tidyverse and one of my favorite packages for data manipulation, has a vectorized if function perfect for the occasion.</description>
+    </item>
+    
+    <item>
+      <title>Official Launch w/ Episodes 1-4</title>
+      <link>/scatterpodcast/2019-03-31-scatter-podcast/</link>
+      <pubDate>Sun, 31 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-03-31-scatter-podcast/</guid>
+      <description>I&amp;rsquo;m really excited to announce that Scatter Podcast is finally live (available on most music and podcast streaming platforms)! The first four episodes include a podcast intro and three episodes with engaging guests from The Home Depot, Pacific Life, and NYC &amp;amp; Company.
+I plan to release one episode weekly - Look out for upcoming interviews with data science reps from T-Mobile, Databricks, KPMG, Chegg, Technossus, Levi Strauss, Google, TensorIoT, and more!</description>
+    </item>
+    
+    <item>
+      <title>Scatter Podcast Official Launch</title>
+      <link>/blog/2019-03-31-scatter-podcast/</link>
+      <pubDate>Sun, 31 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-31-scatter-podcast/</guid>
+      <description>I&amp;rsquo;m really excited to announce that Scatter Podcast is finally live (available on most music and podcast streaming platforms)! The first four episodes include a podcast intro and three episodes with engaging guests from The Home Depot, Pacific Life, and NYC &amp;amp; Company.
+I plan to release one episode weekly - Look out for upcoming interviews with data science reps from T-Mobile, Databricks, KPMG, Chegg, Technossus, Levi Strauss, Google, TensorIoT, and more!</description>
+    </item>
+    
+    <item>
+      <title>Boost PC Performance with ThrottleStop</title>
+      <link>/blog/2019-03-17-throttlestop/</link>
+      <pubDate>Sun, 17 Mar 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-03-17-throttlestop/</guid>
+      <description>For Windows Users Wanting More Speed &amp;amp; Performance I&amp;rsquo;ve been puzzled as to why I felt a significant lag on my top-of-the-line laptop (especially prevalent with MS Excel - if you&amp;rsquo;re a power user, you&amp;rsquo;d have noticed immediately). Turns out, it&amp;rsquo;s &amp;ldquo;standard&amp;rdquo; for my system to throttle the CPU at 1.9 GHz. Using ThrottleStop (free), I removed CPU throttling for speed gains and undervolted the CPU/cache/GPU for temperature control. I&amp;rsquo;m running stable at ~3.</description>
+    </item>
     
     <item>
       <title>March Madness Prediction Competition</title>
@@ -266,47 +724,6 @@ Source: WeAreNetflix on YouTube</description>
     </item>
     
     <item>
-      <title>Video post</title>
-      <link>/scatterpodcast/video-post/</link>
-      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>/scatterpodcast/video-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Long Form Post</title>
-      <link>/scatterpodcast/long-form-post/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>/scatterpodcast/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Image post</title>
-      <link>/scatterpodcast/image-post/</link>
-      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
-      
-      <guid>/scatterpodcast/image-post/</guid>
-      <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
-To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this:
-images: - /posts/ideas.</description>
-    </item>
-    
-    <item>
-      <title>Code Poetry</title>
-      <link>/scatterpodcast/code-poetry/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
-      
-      <guid>/scatterpodcast/code-poetry/</guid>
-      <description>Pseudo code poem.
-if (this === that): try write_new_poem() except not_a_poet as e: return  Or just one long line&amp;hellip;
-console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay toooooooooooooooooooo looooooooooooooooooooooooooooooong&amp;#39;)  An embedded gist using shortcode:
- </description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
@@ -314,177 +731,6 @@ console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
       <guid>/about/</guid>
       <description>My name is Javier Orraca and I drive business value for corporations and privately held businesses through data analytics, predictive modeling, and empowering stakeholders with robust decision analytics.
 Background My career includes over a decade of consulting, data analysis, and fixed asset valuation modeling for Ernst &amp;amp; Young (EY), Pacific Gas &amp;amp; Electric (PG&amp;amp;E), and KPMG. My work supported M&amp;amp;A financial reporting requirements and strategic finance initiatives. I had a vision of providing more value to business organizations than what my M&amp;amp;A and valuation work allowed for, so I began to explore and learn how to apply regressions and machine learning for advanced, data-driven decision making.</description>
-    </item>
-    
-    <item>
-      <title>Dear Jane, regarding Mr. Bennet</title>
-      <link>/scatterpodcast/dear-jane/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
-      
-      <guid>/scatterpodcast/dear-jane/</guid>
-      <description>Chapter One It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
-However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
-    </item>
-    
-    <item>
-      <title>Oh, Alice</title>
-      <link>/scatterpodcast/oh-alice/</link>
-      <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
-      
-      <guid>/scatterpodcast/oh-alice/</guid>
-      <description>Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab. But if these secret golden keys did seem to open in him his own secret golden treasuries, yet did his breath upon them prove but tarnishing. Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.</description>
-    </item>
-    
-    <item>
-      <title>A Poem</title>
-      <link>/scatterpodcast/a-poem/</link>
-      <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
-      
-      <guid>/scatterpodcast/a-poem/</guid>
-      <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
-Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
-The immortals slumber&amp;rsquo;d on their thrones above;
-All, but the ever-wakeful eyes of Jove.(76)
-To honour Thetis&amp;rsquo; son he bends his care,
-And plunge the Greeks in all the woes of war:
-Then bids an empty phantom rise to sight,
-And thus commands the vision of the night.
-&amp;ldquo;Fly hence, deluding Dream! and light as air,(77)</description>
-    </item>
-    
-    <item>
-      <title>Boost PC Performance with ThrottleStop</title>
-      <link>/blog/2019-03-17-throttlestop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-03-17-throttlestop/</guid>
-      <description>For Windows Users Wanting More Speed &amp;amp; Performance I&amp;rsquo;ve been puzzled as to why I felt a significant lag on my top-of-the-line laptop (especially prevalent with MS Excel - if you&amp;rsquo;re a power user, you&amp;rsquo;d have noticed immediately). Turns out, it&amp;rsquo;s &amp;ldquo;standard&amp;rdquo; for my system to throttle the CPU at 1.9 GHz. Using ThrottleStop (free), I removed CPU throttling for speed gains and undervolted the CPU/cache/GPU for temperature control. I&amp;rsquo;m running stable at ~3.</description>
-    </item>
-    
-    <item>
-      <title>Forbes: Data Science Career Mention</title>
-      <link>/blog/2019-04-18-forbes-article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-18-forbes-article/</guid>
-      <description>I had the privilege of recently interviewing data rockstar Alyssa Columbus, Data Scientist at Pacific Life and NASA Datanaut. Forbes interviewed her for a piece on How to Get Your Data Scientist Career Started and she was kind enough to mention Scatter Podcast as a resource for students to keep current on analytics and data science concepts. Great article and especially beneficial for early career data science job seekers.
-Source: * How to Get Your Data Scientist Career Started</description>
-    </item>
-    
-    <item>
-      <title>Harvard &amp; Marketing Analytics: Did HBR Get It Wrong?</title>
-      <link>/blog/2019-05-15-analytics-alone-are-not-a-solution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-05-15-analytics-alone-are-not-a-solution/</guid>
-      <description>In May 2018, Harvard Business Review published a report (links below) titled &amp;ldquo;Why Marketing Analytics Hasn&amp;rsquo;t Lived Up to Its Promise.&amp;rdquo; My most recent Scatter Podcast guest, Ryan Anderson, wrote a critique of the HBR article that helps frame the conversation in another light: marketing analytics ALONE is not the solution.
-We talked about the HBR piece and Ryan&amp;rsquo;s response on this week&amp;rsquo;s podcast release, but being that Ryan has made a career in strategic marketing and web analytics, I&amp;rsquo;d definitely recommend you read both of these articles if you&amp;rsquo;re interested in this line of work!</description>
-    </item>
-    
-    <item>
-      <title>LinkedIn Personalized Requests on Mobile App</title>
-      <link>/blog/2019-04-09-linkedin-tips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-09-linkedin-tips/</guid>
-      <description>Personalized LinkedIn requests CAN be sent through the mobile app&amp;hellip; I didn&amp;rsquo;t realize this until today, but the key is to avoid hitting Connect when you’re shown a list of recommended contacts (this will send out a boilerplate request message). Instead, navigate to the contact’s LinkedIn profile and from there, you have access to personalize your request note! Thanks to Kate Strachnyi for her live stream today and her candid advice is always appreciated.</description>
-    </item>
-    
-    <item>
-      <title>Revenue Predictions for Avengers: Endgame</title>
-      <link>/blog/2019-05-10-avengers-endgame-box-office-prediction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-05-10-avengers-endgame-box-office-prediction/</guid>
-      <description>In mid-March, I worked with a team of UC Irvine students to analyze the Marvel Cinematic Universe and predict US box office revenues for Avengers: Endgame. We estimated US box office revenues to be $639 million and as of today, domestic box office revenues are $645 million!
-To my UC Irvine teammates (Ahnni, Daria, Joel, Xiaoting)&amp;hellip; Great job! At the time that we developed our predictions, Captain Marvel had only been in theaters for one week&amp;hellip; I just updated our models and our new domestic box office prediction for Endgame is $670 million.</description>
-    </item>
-    
-    <item>
-      <title>Scatter Podcast: Episode 005 w/ Databricks</title>
-      <link>/blog/2019-04-08-scatter-podcast-episode-005/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-08-scatter-podcast-episode-005/</guid>
-      <description>New episode of Scatter Podcast is online with Rafi Kurlansik of Databricks. Rafi has great perspective given his unique opportunities as a data scientist within tech sales and pre-sales teams. He also shares some great resources if you’re interested in learning Databricks, a cloud-based unified analytics platform. Happy Monday!
-Other links: * Databricks * Databricks Community Edition * MLflow on Databricks
-Scatter Podcast is available on SoundCloud, iTunes &amp;amp; Apple Podcasts, Spotify, TuneIn, Google Play Music, Stitcher Radio, Castbox, and Podcast Republic.</description>
-    </item>
-    
-    <item>
-      <title>Scatter Podcast: Episode 006 w/ T-Mobile</title>
-      <link>/blog/2019-04-15-scatter-podcast-episode-006/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-15-scatter-podcast-episode-006/</guid>
-      <description>On the sixth episode of Scatter Podcast, I&amp;rsquo;m excited to introduce Juan Pablo Murillo, Data Scientist at T-Mobile at their U.S. headquarters in Bellevue, WA (greater Seattle area). Mathematics instructor turned data scientist, Juan Pablo is in customer analytics and works with engineering and analytics teams to improve the T-Mobile and MetroPCS customer experience. He has been a solid data science mentor for me over the last few months, reviewing, rating, and critiquing some of my R scripts and insights that I derived&amp;hellip; Sharp guy and I&amp;rsquo;m excited to share his data analytics passion with others!</description>
-    </item>
-    
-    <item>
-      <title>Scatter Podcast: Episode 007 w/ NeoGenomics Laboratories</title>
-      <link>/blog/2019-04-22-scatter-podcast-episode-007/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-22-scatter-podcast-episode-007/</guid>
-      <description>On Episode 007 of Scatter Podcast, I interview guest Nicholas Stavrou and discuss his work as an Associate Scientist in Computational Biology at NeoGenomics Laboratories, a cancer diagnostic and pharma research company. Neo is advancing precision medication and Nicholas and I had an engaging talk about cancer cell classification, neural networks and AI models for cancer research, and how Nicholas developed his skills to land his role at Neo. Nicholas graduated from USC in 2017 and he shares some great tips and resources.</description>
-    </item>
-    
-    <item>
-      <title>Scatter Podcast: Episode 008 w/ Chegg</title>
-      <link>/blog/2019-04-29-scatter-podcast-episode-008/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-29-scatter-podcast-episode-008/</guid>
-      <description>On Episode 008 of Scatter Podcast, I interview guest Taranveer Singh and discuss his work as a Data Scientist at Chegg. Through natural language processing (&amp;ldquo;NLP&amp;rdquo;) and data science, Taran&amp;rsquo;s team provides Chegg customers with a better user experience, ensuring the customer voice is heard. Chegg operates fast and smart, and data science enables the business to quickly research and deploy product features that are most desired by their community.</description>
-    </item>
-    
-    <item>
-      <title>Scatter Podcast: Episode 009 w/ RealBlocks</title>
-      <link>/blog/2019-05-06-scatter-podcast-episode-009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-05-06-scatter-podcast-episode-009/</guid>
-      <description>On Episode 009 of Scatter Podcast, I&amp;rsquo;m really excited to release my interview with Perrin Quarshie, CEO &amp;amp; Founder of RealBlocks. For those of you interested in real estate, technology, investing, blockchain&amp;hellip; This episode is for you!
-Built upon the Ethereum blockchain, RealBlocks allows accredited investors to buy into private equity real estate funds through the purchase of digital assets. RealBlocks went through #Techstars NYC&amp;rsquo;s program (one of the top startup accelerators) and recently raised $3.</description>
-    </item>
-    
-    <item>
-      <title>Scatter Podcast: Episode 010 w/ FortyFour</title>
-      <link>/blog/2019-05-13-scatter-podcast-episode-010/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-05-13-scatter-podcast-episode-010/</guid>
-      <description>On Episode 010 of Scatter Podcast, I&amp;rsquo;m excited to host guest Ryan Anderson, Director of Performance Marketing &amp;amp; Analytics at FortyFour. FortyFour is an independent digital agency based in Atlanta, GA, and Ryan leads their analytics team. Ryan, a Georgia Institute of Technology engineering and MBA alum, was a driving force for me diving into analytics and data science (thank you!).
-Ryan has been a great sounding board the past couple of years and he&amp;rsquo;s a wealth of knowledge on analytics and digital strategies.</description>
-    </item>
-    
-    <item>
-      <title>Scatter Podcast: Official Launch</title>
-      <link>/blog/2019-03-31-scatter-podcast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-03-31-scatter-podcast/</guid>
-      <description>I&amp;rsquo;m really excited to announce that Scatter Podcast is finally live (available on most music and podcast streaming platforms)! The first four episodes include a podcast intro and three episodes with engaging guests from The Home Depot, Pacific Life, and NYC &amp;amp; Company.
-I plan to release one episode weekly - Look out for upcoming interviews with data science reps from T-Mobile, Databricks, KPMG, Chegg, Technossus, Levi Strauss, Google, TensorIoT, and more!</description>
-    </item>
-    
-    <item>
-      <title>Version Control w/ Git &amp; GitHub</title>
-      <link>/blog/2019-04-27-version-control/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-27-version-control/</guid>
-      <description>Git, GitHub, and distributed version control can make your statistical and data science workflows so much cleaner, more organized, and perfect for collaborative projects. This is a topic that I&amp;rsquo;m just now researching and can&amp;rsquo;t believe that I waited this long to do.
-In finance, I was accustomed to saving numerous files per day (adding the date and version to the end of the model filename). Git and GitHub have a learning curve and require effort - I&amp;rsquo;m learning this now and can attest to you needing patience - But, the beauty of this data management process is that instead of saving one file only, you &amp;ldquo;commit&amp;rdquo; or save a multi-file snapshot of your entire project to the cloud!</description>
-    </item>
-    
-    <item>
-      <title>dplyr&#39;s if_else vs base R&#39;s ifelse</title>
-      <link>/blog/2019-04-03-dplyr-for-r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-04-03-dplyr-for-r/</guid>
-      <description>When working with data sets of significant size, I&amp;rsquo;m always on the lookout for more efficient code (not necessarily fewer lines of code, but code that processes data faster and more effectively). Recently, I was getting antsy waiting for a simple if/else statement to run via R (I was working with a large GB-sized file on my personal computer). While waiting, I researched alternative approaches for performance improvement and found that dplyr, part of R&amp;rsquo;s Tidyverse and one of my favorite packages for data manipulation, has a vectorized if function perfect for the occasion.</description>
     </item>
     
   </channel>

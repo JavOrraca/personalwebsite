@@ -1,6 +1,10 @@
 ---
-layout: post
-title: 'Revenue Predictions for Avengers: Endgame'
+date: "2019-05-10T20:18:53-05:00"
+draft: false
+showDate: true
+tags:
+- blog
+title: Revenue Predictions for Avengers Endgame
 ---
 
 ![](https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/DoctorStrange.jpg)
@@ -12,4 +16,4 @@ To my UC Irvine teammates (Ahnni, Daria, Joel, Xiaoting)... Great job! At the ti
 _UPDATE (5/19/2019)_: As of today, US box office revenue has risen to $771 million.
 
 Source:
-* [_Avengers: Endgame_ on Box Office Mojo](https://www.boxofficemojo.com/movies/?id=marvel2019.htm)
+<br/>[_Avengers: Endgame_ on Box Office Mojo](https://www.boxofficemojo.com/movies/?id=marvel2019.htm)

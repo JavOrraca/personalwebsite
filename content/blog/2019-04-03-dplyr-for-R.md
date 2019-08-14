@@ -1,5 +1,9 @@
 ---
-layout: post
+date: "2019-04-03T20:18:53-05:00"
+draft: false
+showDate: true
+tags:
+- blog
 title: dplyr's if_else vs base R's ifelse
 ---
 
@@ -10,5 +14,5 @@ When working with data sets of significant size, I'm always on the lookout for m
 I was quite surprised to find that base R's ifelse function ran over 70% slower than dplyr's if_else on my data set. This is due to dplyr's if_else function being a vectorized interpretation of base R's ifelse, meaning that dplyr's if_else function works not just on a single value at a time but on the whole vector of values simultaneously. Sometimes, your problem can't utilize vectorized functions, but for if/else cases on massive data sets, this function is a gem! 
 
 Sources:
-* [dplyr: Vectorised if](https://dplyr.tidyverse.org/reference/if_else.html)
-* [Tidyverse: A Collection of R Packages](https://www.tidyverse.org/)
+<br/>[dplyr: Vectorised if](https://dplyr.tidyverse.org/reference/if_else.html)
+<br/>[Tidyverse: A Collection of R Packages](https://www.tidyverse.org/)

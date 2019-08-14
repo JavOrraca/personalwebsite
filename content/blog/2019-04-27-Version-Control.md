@@ -1,5 +1,9 @@
 ---
-layout: post
+date: "2019-04-27T20:18:53-05:00"
+draft: false
+showDate: true
+tags:
+- blog
 title: Version Control w/ Git & GitHub
 ---
 
@@ -12,10 +16,10 @@ In finance, I was accustomed to saving numerous files per day (adding the date a
 Git and GitHub are not unique to the R programming language, but for R users, Jenny Bryan and Jim Hester of RStudio, Inc. published an excellent guide on how to get started. It's such a great write-up, thank you!
 
 Source:
-* [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+<br/>[Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
 Other links:
-* [Jenny Bryan's GitHub](https://github.com/jennybc)
-* [Jenny Bryan's website](https://jennybryan.org/)
-* [Jim Hester's GitHub](https://github.com/jimhester)
-* [Jim Hester's blog](https://www.jimhester.com/)
+<br/>[Jenny Bryan's GitHub](https://github.com/jennybc)
+<br/>[Jenny Bryan's website](https://jennybryan.org/)
+<br/>[Jim Hester's GitHub](https://github.com/jimhester)
+<br/>[Jim Hester's blog](https://www.jimhester.com/)

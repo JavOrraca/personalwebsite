@@ -3,26 +3,266 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/scatterpodcast/2019-08-12-scatter-podcast-episode-018/</loc>
+    <lastmod>2019-08-12T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
+    <lastmod>2019-08-12T20:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2019-03-13-march-madness-prediction-competition/</loc>
-    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
+    <lastmod>2019-08-12T20:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
+    <lastmod>2019-08-12T20:18:53-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-08-06-tableau-gallery/</loc>
+    <lastmod>2019-08-06T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-07-29-scatter-podcast-episode-017/</loc>
+    <lastmod>2019-07-29T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-25-plotly-offline-and-plotly-express/</loc>
+    <lastmod>2019-07-25T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-23-linux-tips-learned-the-hard-way/</loc>
+    <lastmod>2019-07-23T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-07-22-scatter-podcast-episode-016/</loc>
+    <lastmod>2019-07-22T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-19-docker-for-beginners/</loc>
+    <lastmod>2019-07-19T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-17-resume-tip-do-not-lie/</loc>
+    <lastmod>2019-07-17T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-07-15-scatter-podcast-episode-015/</loc>
+    <lastmod>2019-07-15T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-13-exporting-plots-from-r-to-powerpoint/</loc>
+    <lastmod>2019-07-13T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-10-dplyr-for-data-scientists/</loc>
+    <lastmod>2019-07-10T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-09-ai-for-social-good/</loc>
+    <lastmod>2019-07-09T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-07-08-scatter-podcast-episode-014/</loc>
+    <lastmod>2019-07-08T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-05-spark/</loc>
+    <lastmod>2019-07-05T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-03-advanced-r/</loc>
+    <lastmod>2019-07-03T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-07-02-ableton-live-learning-synths/</loc>
+    <lastmod>2019-07-02T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-07-01-replay-scatter-podcast-episode-006/</loc>
+    <lastmod>2019-07-01T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-06-24-replay-scatter-podcast-episode-011/</loc>
+    <lastmod>2019-06-24T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-06-17-replay-scatter-podcast-episode-005/</loc>
+    <lastmod>2019-06-17T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-06-14-scatter-podcast-in-the-news/</loc>
+    <lastmod>2019-06-14T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-06-13-salesforce-prediction-via-tableau/</loc>
+    <lastmod>2019-06-13T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-06-11-voila/</loc>
+    <lastmod>2019-06-11T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-06-09-scatter-podcast-break/</loc>
+    <lastmod>2019-06-09T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-06-07-time-series-analysis-with-r/</loc>
+    <lastmod>2019-06-07T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-06-05-building-a-deep-learning-server/</loc>
+    <lastmod>2019-06-05T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-06-03-scatter-podcast-episode-013/</loc>
+    <lastmod>2019-06-03T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-30-linux-help-request/</loc>
+    <lastmod>2019-05-30T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-29-saving-r-data-objects-to-file/</loc>
+    <lastmod>2019-05-29T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-05-27-scatter-podcast-episode-012/</loc>
+    <lastmod>2019-05-27T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-22-benchmarking-r-read-methods/</loc>
+    <lastmod>2019-05-22T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-05-20-scatter-podcast-episode-011/</loc>
+    <lastmod>2019-05-20T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-19-ocrug-hackathon-2019/</loc>
+    <lastmod>2019-05-19T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-17-artificial-intelligence-with-ray-kurzweil/</loc>
+    <lastmod>2019-05-17T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-15-analytics-alone-are-not-a-solution/</loc>
+    <lastmod>2019-05-15T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-05-13-scatter-podcast-episode-010/</loc>
+    <lastmod>2019-05-13T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-10-avengers-endgame-box-office-prediction/</loc>
+    <lastmod>2019-05-10T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-05-06-scatter-podcast-episode-009/</loc>
+    <lastmod>2019-05-06T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-04-29-scatter-podcast-episode-008/</loc>
+    <lastmod>2019-04-29T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-27-version-control/</loc>
+    <lastmod>2019-04-27T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-04-22-scatter-podcast-episode-007/</loc>
+    <lastmod>2019-04-22T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-18-forbes-article/</loc>
+    <lastmod>2019-04-18T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-04-15-scatter-podcast-episode-006/</loc>
+    <lastmod>2019-04-15T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-09-linkedin-tips/</loc>
+    <lastmod>2019-04-09T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-04-08-scatter-podcast-episode-005/</loc>
+    <lastmod>2019-04-08T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-03-dplyr-for-r/</loc>
+    <lastmod>2019-04-03T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/2019-03-31-scatter-podcast/</loc>
+    <lastmod>2019-03-31T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-31-scatter-podcast/</loc>
+    <lastmod>2019-03-31T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-17-throttlestop/</loc>
+    <lastmod>2019-03-17T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-03-13-march-madness-prediction-competition/</loc>
+    <lastmod>2019-03-13T20:18:53-05:00</lastmod>
   </url>
   
   <url>
@@ -151,44 +391,6 @@
   </url>
   
   <url>
-    <loc>/scatterpodcast/video-post/</loc>
-    <lastmod>2018-03-16T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scatterpodcast/long-form-post/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/code/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/scatterpodcast/image-post/</loc>
-    <lastmod>2018-02-19T12:41:46-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/story/</loc>
-    <lastmod>2018-02-19T12:41:46-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/scatterpodcast/code-poetry/</loc>
-    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/poem/</loc>
-    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <lastmod>2018-02-13T13:42:49-05:00</lastmod>
   </url>
@@ -204,45 +406,8 @@
   </url>
   
   <url>
-    <loc>/scatterpodcast/dear-jane/</loc>
-    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/classic/</loc>
-    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/scatterpodcast/oh-alice/</loc>
-    <lastmod>2018-02-09T12:32:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scatterpodcast/a-poem/</loc>
-    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-03-17-throttlestop/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-18-forbes-article/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-05-15-analytics-alone-are-not-a-solution/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-09-linkedin-tips/</loc>
   </url>
   
   <url>
@@ -251,46 +416,6 @@
   
   <url>
     <loc>/portfolio/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-05-10-avengers-endgame-box-office-prediction/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-08-scatter-podcast-episode-005/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-15-scatter-podcast-episode-006/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-22-scatter-podcast-episode-007/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-29-scatter-podcast-episode-008/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-05-06-scatter-podcast-episode-009/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-05-13-scatter-podcast-episode-010/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-03-31-scatter-podcast/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-27-version-control/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/2019-04-03-dplyr-for-r/</loc>
   </url>
   
 </urlset>

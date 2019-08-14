@@ -17,11 +17,12 @@ I’m humbled to be part of the data science community, continuously learning, n
 
 ## Programming & Analytics Skills
 
-* **R**: RStudio, R Markdown, flexdashboards, R Shiny, plyr, dplyr, ggplot2, reshape2, sqldf, blogdown, Plotly, gganimate, lm / glm, Keras, TensorFlow, data.table, ReadR, vroom, broom, officeR, and more R packages
-* **Python**: Pandas, NumPy, scikit-learn, JupyterLab, Jupyter Notebooks, RStudio (via R Markdown + reticulate), voila, PySpark, Google Colab, matplotlib, seaborn, Plotly, and more Python libraries
-* **Microsoft**: Access (data manipulation, ODBC integration, crosstab and make-table queries, reports, forms, macros), Excel (pivot tables, nested `IF` statements, `INDEX` / `MATCH` functions, `VLOOKUP` / `HLOOKUP` functions, Solver for optimization and simulations), Dynamics / DX / D365, PowerBI
-* **Other Tools**: Tableau, SQL, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, Adaptive Insights, SAS, Hugo, Netlify
+* `R`: RStudio, R Markdown, flexdashboards, R Shiny, plyr, dplyr, ggplot2, reshape2, sqldf, blogdown, Plotly, gganimate, lm / glm, Keras, TensorFlow, data.table, ReadR, vroom, broom, officeR, and more R packages
+* `Python`: Pandas, NumPy, scikit-learn, JupyterLab, Jupyter Notebooks, RStudio (via R Markdown + reticulate), voila, PySpark, Google Colab, matplotlib, seaborn, Plotly, and more Python libraries
+* `Microsoft Excel`: pivot tables, nested IF statements, INDEX / MATCH functions, VLOOKUP / HLOOKUP functions, Solver (for optimization and simulations)
+* `Microsoft Access`: data pipelines, data manipulation, ODBC integration, query design (joins, crosstab, make-table, etc.), reports, forms, macros
+* **Other Tools**: Tableau, SQL, Microsoft Dynamics / D365, Microsoft PowerBI, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, SAP Analysis for Excel, Adaptive Insights, SAS, Hugo, Netlify
 
 ## Web Development
 
-I am not a web developer (_by any means_), but I created this website using the [R](https://www.r-project.org/) programming language, [RStudio](https://www.rstudio.com/), [blogdown](https://bookdown.org/yihui/blogdown/), and [Hugo](https://gohugo.io/). My site renders in less than 90ms and I'm hosting it for _free_... It only cost me time and $15/year for the domain name. Open-source tools are fast, flexible, fun, and the way of the future.
+I am not a web developer but I created this website using the [R](https://www.r-project.org/) programming language, [RStudio](https://www.rstudio.com/), [blogdown](https://bookdown.org/yihui/blogdown/), and [Hugo](https://gohugo.io/). My site renders in less than 100ms and I'm hosting it for _free_... It only cost me time and $15/year for the domain name. Open-source tools are fast, flexible, fun, and paving the future of analytics.

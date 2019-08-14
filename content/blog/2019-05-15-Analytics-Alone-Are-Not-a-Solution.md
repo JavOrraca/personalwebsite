@@ -1,6 +1,10 @@
 ---
-layout: post
-title: 'Harvard & Marketing Analytics: Did HBR Get It Wrong?'
+date: "2019-05-15T20:18:53-05:00"
+draft: false
+showDate: true
+tags:
+- blog
+title: Did Harvard Get Marketing Analytics Wrong?'
 ---
 
 ![](https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/BadHBR.png)
@@ -10,5 +14,5 @@ In May 2018, Harvard Business Review published a report (links below) titled "Wh
 We talked about the HBR piece and Ryan's response on this week's podcast release, but being that Ryan has made a career in strategic marketing and web analytics, I'd definitely recommend you read both of these articles if you're interested in this line of work!
 
 Source:
-* [HBR: Why Marketing Analytics Hasn't Lived Up to Its Promise](https://hbr.org/2018/05/why-marketing-analytics-hasnt-lived-up-to-its-promise)
-* [Ryan's response: Analytics Alone Are Not a Solution](https://medium.com/@gtryan/analytics-alone-are-not-a-solution-579a1537e6a8)
+<br/>[HBR: Why Marketing Analytics Hasn't Lived Up to Its Promise](https://hbr.org/2018/05/why-marketing-analytics-hasnt-lived-up-to-its-promise)
+<br/>[Ryan's response: Analytics Alone Are Not a Solution](https://medium.com/@gtryan/analytics-alone-are-not-a-solution-579a1537e6a8)

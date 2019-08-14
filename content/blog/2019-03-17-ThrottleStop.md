@@ -1,5 +1,9 @@
 ---
-layout: post
+date: "2019-03-17T20:18:53-05:00"
+draft: false
+showDate: true
+tags:
+- blog
 title: Boost PC Performance with ThrottleStop
 ---
 
@@ -11,5 +15,5 @@ I've been puzzled as to why I felt a significant lag on my top-of-the-line lapto
 **TWEAK AT YOUR OWN RISK!** For hardware longevity, this advice is not the most wise, but for performance, you'll thank me! Research the settings that would be most optimal for your system and processor.
 
 Sources:
-* [ThrottleStop Quick Setup Guide via Imgur](https://imgur.com/a/DJCxDSk)
-* [Create Windows task for starting ThrottleStop at boot](http://forum.notebookreview.com/threads/the-throttlestop-guide.531329/#post-6865107)
+<br/>[ThrottleStop Quick Setup Guide via Imgur](https://imgur.com/a/DJCxDSk)
+<br/>[Create Windows task for starting ThrottleStop at boot](http://forum.notebookreview.com/threads/the-throttlestop-guide.531329/#post-6865107)
