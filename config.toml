@@ -25,6 +25,10 @@ pygmentsCodefences       = true
     text = "posts"
 
 [[params.mainMenu]]
+    link = "/scatterpodcast"
+    text = "scatter podcast"
+
+[[params.mainMenu]]
     link = "/gallery"
     text = "gallery"
 
