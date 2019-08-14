@@ -24,4 +24,4 @@ I’m humbled to be part of the data science community, continuously learning, n
 
 ## Web Development
 
-I created this website using the [R programming language](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [blogdown](https://bookdown.org/yihui/blogdown/), and [Hugo](https://gohugo.io/). My site renders in less than 90ms. I'm hosting it all for free... _FREE_. It only cost me my time and $15/year for the domain name. Open-source tools are fast, flexible, fun, and the way of the future.
+I created this website using the [R programming language](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [blogdown](https://bookdown.org/yihui/blogdown/), and [Hugo](https://gohugo.io/). My site renders in less than 90ms. I'm hosting it all for free... _FREE!_ It only cost me time and $15/year for the domain name. Open-source tools are fast, flexible, fun, and the way of the future.
