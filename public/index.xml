@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Video post</title>
+      <link>/scatterpodcast/video-post/</link>
+      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/video-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+    </item>
+    
+    <item>
       <title>Long Form Post</title>
       <link>/posts/long-form-post/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
@@ -30,11 +39,31 @@
     </item>
     
     <item>
+      <title>Long Form Post</title>
+      <link>/scatterpodcast/long-form-post/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/long-form-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+    </item>
+    
+    <item>
       <title>Image post</title>
       <link>/posts/image-post/</link>
       <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
       
       <guid>/posts/image-post/</guid>
+      <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
+To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this:
+images: - /posts/ideas.</description>
+    </item>
+    
+    <item>
+      <title>Image post</title>
+      <link>/scatterpodcast/image-post/</link>
+      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
+      
+      <guid>/scatterpodcast/image-post/</guid>
       <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
 To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this:
 images: - /posts/ideas.</description>
@@ -53,14 +82,25 @@ console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     </item>
     
     <item>
+      <title>Code Poetry</title>
+      <link>/scatterpodcast/code-poetry/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>/scatterpodcast/code-poetry/</guid>
+      <description>Pseudo code poem.
+if (this === that): try write_new_poem() except not_a_poet as e: return  Or just one long line&amp;hellip;
+console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay toooooooooooooooooooo looooooooooooooooooooooooooooooong&amp;#39;)  An embedded gist using shortcode:
+ </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way.
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
-I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll look great on any screen, and all you have to do is provide a folder of images.</description>
+      <description>My name is Javier Orraca and I drive business value for corporations and privately held businesses through data analytics, predictive modeling, and empowering stakeholders with robust decision analytics.
+Background My career includes over a decade of consulting, data analysis, and fixed asset valuation modeling for Ernst &amp;amp; Young (EY), Pacific Gas &amp;amp; Electric (PG&amp;amp;E), and KPMG. My work supported M&amp;amp;A financial reporting requirements and strategic finance initiatives. I had a vision of providing more value to business organizations than what my M&amp;amp;A and valuation work allowed for, so I began to explore and learn how to apply regressions and machine learning for advanced, data-driven decision making.</description>
     </item>
     
     <item>
@@ -69,6 +109,16 @@ I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll loo
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
       <guid>/posts/dear-jane/</guid>
+      <description>Chapter One It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
+    </item>
+    
+    <item>
+      <title>Dear Jane, regarding Mr. Bennet</title>
+      <link>/scatterpodcast/dear-jane/</link>
+      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      
+      <guid>/scatterpodcast/dear-jane/</guid>
       <description>Chapter One It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
     </item>
@@ -83,11 +133,37 @@ However little known the feelings or views of such a man may be on his first ent
     </item>
     
     <item>
+      <title>Oh, Alice</title>
+      <link>/scatterpodcast/oh-alice/</link>
+      <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
+      
+      <guid>/scatterpodcast/oh-alice/</guid>
+      <description>Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab. But if these secret golden keys did seem to open in him his own secret golden treasuries, yet did his breath upon them prove but tarnishing. Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.</description>
+    </item>
+    
+    <item>
       <title>A Poem</title>
       <link>/posts/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
       
       <guid>/posts/a-poem/</guid>
+      <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
+Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
+The immortals slumber&amp;rsquo;d on their thrones above;
+All, but the ever-wakeful eyes of Jove.(76)
+To honour Thetis&amp;rsquo; son he bends his care,
+And plunge the Greeks in all the woes of war:
+Then bids an empty phantom rise to sight,
+And thus commands the vision of the night.
+&amp;ldquo;Fly hence, deluding Dream! and light as air,(77)</description>
+    </item>
+    
+    <item>
+      <title>A Poem</title>
+      <link>/scatterpodcast/a-poem/</link>
+      <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
+      
+      <guid>/scatterpodcast/a-poem/</guid>
       <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;

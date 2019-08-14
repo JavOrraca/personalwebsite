@@ -20,6 +20,11 @@
   </url>
   
   <url>
+    <loc>/scatterpodcast/video-post/</loc>
+    <lastmod>2018-03-16T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/blog/</loc>
     <lastmod>2018-03-16T20:18:53-05:00</lastmod>
     <priority>0</priority>
@@ -27,6 +32,11 @@
   
   <url>
     <loc>/posts/long-form-post/</loc>
+    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/long-form-post/</loc>
     <lastmod>2018-03-08T20:18:53-05:00</lastmod>
   </url>
   
@@ -42,6 +52,11 @@
   </url>
   
   <url>
+    <loc>/scatterpodcast/image-post/</loc>
+    <lastmod>2018-02-19T12:41:46-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/story/</loc>
     <lastmod>2018-02-19T12:41:46-05:00</lastmod>
     <priority>0</priority>
@@ -49,6 +64,11 @@
   
   <url>
     <loc>/posts/code-poetry/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/code-poetry/</loc>
     <lastmod>2018-02-13T13:56:12-05:00</lastmod>
   </url>
   
@@ -69,7 +89,17 @@
   </url>
   
   <url>
+    <loc>/scatterpodcast/</loc>
+    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/dear-jane/</loc>
+    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/dear-jane/</loc>
     <lastmod>2018-02-11T12:34:41-05:00</lastmod>
   </url>
   
@@ -85,7 +115,17 @@
   </url>
   
   <url>
+    <loc>/scatterpodcast/oh-alice/</loc>
+    <lastmod>2018-02-09T12:32:12-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/a-poem/</loc>
+    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/a-poem/</loc>
     <lastmod>2018-02-01T12:35:11-05:00</lastmod>
   </url>
   
