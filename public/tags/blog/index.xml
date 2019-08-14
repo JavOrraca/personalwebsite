@@ -13,10 +13,10 @@
     
     <item>
       <title>Video post</title>
-      <link>/posts/video-post/</link>
+      <link>/blog/video-post/</link>
       <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>/posts/video-post/</guid>
+      <guid>/blog/video-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
@@ -31,10 +31,10 @@
     
     <item>
       <title>Long Form Post</title>
-      <link>/posts/long-form-post/</link>
+      <link>/blog/long-form-post/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>/posts/long-form-post/</guid>
+      <guid>/blog/long-form-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
@@ -49,10 +49,10 @@
     
     <item>
       <title>Image post</title>
-      <link>/posts/image-post/</link>
+      <link>/blog/image-post/</link>
       <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
       
-      <guid>/posts/image-post/</guid>
+      <guid>/blog/image-post/</guid>
       <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
 To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this:
 images: - /posts/ideas.</description>

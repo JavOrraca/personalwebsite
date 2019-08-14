@@ -21,8 +21,8 @@ pygmentsCodefences       = true
     title                = "Hi, I'm Javier."
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    link = "/blog"
+    text = "blog"
 
 [[params.mainMenu]]
     link = "/scatterpodcast"
