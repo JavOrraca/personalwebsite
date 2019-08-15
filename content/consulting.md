@@ -5,7 +5,7 @@ title: consulting
 
 ## Scatter Analytics
 
-[Scatter Analytics](https://www.scatteranalytics.com/) is open for project collaborations and data consulting assignments. Having teamed on several engagements in 2018, Co-Founders Javier Orraca and Joel Dayrit officially joined forces in 2019 to add business value and empower business stakeholders with data-driven insights. Whether it's a technology platform that you are exploring or research analytics that you want to discuss, please contact us for a free consultation.
+Scatter Analytics is open for project collaborations and data consulting assignments. Having teamed on several engagements in 2018, Co-Founders Javier Orraca and Joel Dayrit officially joined forces in 2019 to add business value and empower business stakeholders with data-driven insights. Whether it's a technology platform that you are exploring or research analytics that you want to discuss, please contact us for a free consultation.
 
 ## yo.AI
 
