@@ -17,7 +17,7 @@ From violinist and music major to data scientist, Leondra has had a unique mix o
 For creatives and non-technical people wanting to explore careers in data science, Leondra offers words of encouragement and provides feedback not often discussed in the data science community: "Your creativity is a strength that would benefit any data team!" Leondra drops lots of great tips and resources, so get ready to take some notes!
 
 **Post-interview notes from Leondra:**
-For you `R` users out there... Leondra shares some awesome packages to check out for business process analytics including `bupaR` and `processmapR`. Check out the links below. For general R and data science learning, I recommend the following resources which offer free-to-audit / affordable resources for learning: Coursera, Edx, SoloLearn, Code Academy, Khan Academy, Udacity, Kaggle, Future Learn, Lynda.com, DataCamp, Super Data Science, (and for cloud computing courses...) Google Cloud, AWS. The course I recommend for beginners looking to get a review on common algorithms and learning `R` / `Python` is Jose Portilla's Data Science & Machine Learning Bootcamps on Udemy. He has one in Python and another in R. I would also recommend that people attend Meetups.
+For you R users out there... Leondra shares some awesome packages to check out for business process analytics including bupaR and processmapR. Check out the links below. For general R and data science learning, I recommend the following resources which offer free-to-audit / affordable resources for learning: Coursera, Edx, SoloLearn, Code Academy, Khan Academy, Udacity, Kaggle, Future Learn, Lynda.com, DataCamp, Super Data Science, (and for cloud computing courses...) Google Cloud, AWS. The course I recommend for beginners looking to get a review on common algorithms and learning R / Python is Jose Portilla's Data Science & Machine Learning Bootcamps on Udemy. He has one in Python and another in R. I would also recommend that people attend Meetups.
 
 List of top blogs and data science / analytics online courses that you recommend
 <br/>R-Bloggers: [https://www.r-bloggers.com/](https://www.r-bloggers.com/)
@@ -26,10 +26,10 @@ List of top blogs and data science / analytics online courses that you recommend
 <br/>R-Project: [https://www.r-project.org/](https://www.r-project.org/)
 <br/>Data Carpentry: [https://datacarpentry.org/](https://datacarpentry.org/)
 <br/>Stat545: [https://stat545.com/](https://stat545.com/)
-<br/>FREE `R` e-books: R for Data Science, Intro to Data Science: Data Analysis and Prediction Algorithms with R, Machine Learning for Human Beings, Statistical Inference for Data Science, An Introduction to Statistical Learning with Applications in R, Text Mining for R, Report Writing for Data Science in R, Forecasting: Principles & Practice
+<br/>FREE R e-books: R for Data Science, Intro to Data Science: Data Analysis and Prediction Algorithms with R, Machine Learning for Human Beings, Statistical Inference for Data Science, An Introduction to Statistical Learning with Applications in R, Text Mining for R, Report Writing for Data Science in R, Forecasting: Principles & Practice
 <br/>Also for random, a fun read on statistics, I recommend [The Manga Guide to Statistics](https://nostarch.com/download/manga_statistics_sample.pdf) (there's also versions for Calculus and Databases)
-- For all things `SQL`, [W3Schools](https://www.w3schools.com/sql/default.asp) is my go to for a quick reference.
-- Lastly, here is a comprehensive list of helpful `R` blog links: https://www.r-bloggers.com/blogs-list/
+- For all things SQL, [W3Schools](https://www.w3schools.com/sql/default.asp) is my go to for a quick reference.
+- Lastly, here is a comprehensive list of helpful R blog links: https://www.r-bloggers.com/blogs-list/
 
 Links:
 <br/>Leondra's LinkedIn: [https://www.linkedin.com/in/leondrajames/](https://www.linkedin.com/in/leondrajames/)

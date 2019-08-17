@@ -17,11 +17,11 @@ I’m humbled to be part of the data science community, continuously learning, n
 
 ## Programming & Analytics Skills
 
-* `R`: RStudio, R Markdown, flexdashboards, R Shiny, plyr, dplyr, ggplot2, reshape2, sqldf, blogdown, Plotly, gganimate, lm / glm, Keras, TensorFlow, data.table, ReadR, vroom, broom, officeR, and more R packages
-* `Python`: Pandas, NumPy, scikit-learn, JupyterLab, Jupyter Notebooks, RStudio (via R Markdown + reticulate), voila, PySpark, Google Colab, matplotlib, seaborn, Plotly, and more Python libraries
-* `Microsoft Excel`: pivot tables, nested IF statements, INDEX / MATCH functions, VLOOKUP / HLOOKUP functions, Solver (for optimization and simulations)
-* `Microsoft Access`: data pipelines, data manipulation, ODBC integration, query design (joins, crosstab, make-table, etc.), reports, forms, macros
-* **Other Tools**: Tableau, SQL, Microsoft Dynamics / D365, Microsoft PowerBI, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, SAP Analysis for Excel, Adaptive Insights, SAS, Hugo, Netlify
+* R: RStudio, R Markdown, flexdashboards, R Shiny, plyr, dplyr, ggplot2, reshape2, sqldf, blogdown, Plotly, gganimate, lm / glm, Keras, TensorFlow, data.table, ReadR, vroom, broom, officeR, and more R packages
+* Python: Pandas, NumPy, scikit-learn, RStudio (via R Markdown + reticulate), voila, PySpark, Google Colab, matplotlib, seaborn, Plotly, and more Python libraries
+* Other Analytics & Programming Tools: Tableau, SQL, JupyterLab, Jupyter Notebooks, Microsoft Dynamics / D365, Microsoft PowerBI, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, SAP Analysis for Excel, Adaptive Insights, SAS, Hugo, Netlify
+* Microsoft Excel: pivot tables, nested IF statements, INDEX / MATCH functions, VLOOKUP / HLOOKUP functions, Solver (for optimization and simulations)
+* Microsoft Access: data pipelines, data manipulation, ODBC integration, query design (joins, crosstab, make-table, etc.), reports, forms, macros
 
 ## Media Appearances
 
