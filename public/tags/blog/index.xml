@@ -6,10 +6,20 @@
     <description>Recent content in blog on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2019 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 20:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 19 w/ Amazon</title>
+      <link>/scatterpodcast/2019-08-19-scatter-podcast-episode-019/</link>
+      <pubDate>Mon, 19 Aug 2019 20:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/2019-08-19-scatter-podcast-episode-019/</guid>
+      <description>On Episode 019 of Scatter Podcast, I discuss data science at Amazon with John Peach, Sr. Data Scientist. John has an extensive data science background ranging from academia, to early-stage startups, to large data drive organizations such as Amazon. His team helps to improve and expand the capabilities of Alexa Skills (third party applications).
+John actively participates in his local data science community, he is one of the leaders of the Orange County R Users Group (&amp;ldquo;OCRUG&amp;rdquo;), and he frequently speaks at data science conferences around the world.</description>
+    </item>
     
     <item>
       <title>Episode 18 w/ Saatchi &amp; Saatchi</title>
@@ -162,33 +172,6 @@ These type of AST visuals are all over Hadley Wickham&amp;rsquo;s Advanced R (Se
       <guid>/blog/2019-07-02-ableton-live-learning-synths/</guid>
       <description>June was a wild but exciting month&amp;hellip; I finished some major projects for school, graduated, moved, and most recently went abroad on vacation to disconnect. Definitely a nice recharge for the soul! Some neat things are on the horizon and I&amp;rsquo;m excited to release my next wave of Scatter Podcast episodes starting on July 8.
 I recently discovered an amazing online learning platform to learn about synthesizers and I had to share it&amp;hellip; This might not be your cup of tea but if you like music, you&amp;rsquo;ll enjoy this.</description>
-    </item>
-    
-    <item>
-      <title>Episode 6 (REPLAY) w/ T-Mobile</title>
-      <link>/scatterpodcast/2019-07-01-replay-scatter-podcast-episode-006/</link>
-      <pubDate>Mon, 01 Jul 2019 20:18:53 -0500</pubDate>
-      
-      <guid>/scatterpodcast/2019-07-01-replay-scatter-podcast-episode-006/</guid>
-      <description>I am on a flight en route back to the U.S., vacation was nice and sad it is over. BUT, excited to push out some new content starting NEXT WEEK! This week, I&amp;rsquo;m re-broadcasting the sixth episode of Scatter Podcast with Juan Pablo Murillo, Data Scientist at T-Mobile. Juan Pablo is based at T-Mobile&amp;rsquo;s U.S. headquarters in Bellevue, WA (greater Seattle area). Mathematics instructor turned data scientist, Juan Pablo is in customer analytics and works with engineering and analytics teams to improve the T-Mobile and MetroPCS customer experience.</description>
-    </item>
-    
-    <item>
-      <title>Episode 11 (REPLAY) w/ CBRE</title>
-      <link>/scatterpodcast/2019-06-24-replay-scatter-podcast-episode-011/</link>
-      <pubDate>Mon, 24 Jun 2019 20:18:53 -0500</pubDate>
-      
-      <guid>/scatterpodcast/2019-06-24-replay-scatter-podcast-episode-011/</guid>
-      <description>I am still out of the country and enjoying time away from the computer&amp;hellip; Apologies for your patience and Scatter Podcast will be back SOON with fresh content. This is a replay of an episode that I released in May with Vince Giovannini, Data Scientist at CBRE. For those of you not familiar with this company, CBRE is 100+ year-old commercial real estate investment company that offers a wide range of real estate consulting services.</description>
-    </item>
-    
-    <item>
-      <title>Episode 5 (REPLAY) w/ Databricks&#34;</title>
-      <link>/scatterpodcast/2019-06-17-replay-scatter-podcast-episode-005/</link>
-      <pubDate>Mon, 17 Jun 2019 20:18:53 -0500</pubDate>
-      
-      <guid>/scatterpodcast/2019-06-17-replay-scatter-podcast-episode-005/</guid>
-      <description>Having just graduated, my podcast is on hiatus as I take a much needed vacation, so, I&amp;rsquo;m sharing a prior interview that I did with Rafi Kurlansik of Databricks. I like this episode because it provides a different perspective on data science careers: Doing proof of concepts to support pre-sales or technical sales. The work keeps you continuously learning and your clients can be wide-ranging in size and industry. I met Rafi in 2018 when he was at IBM Watson Cloud Studio and he joined the Databricks team in Jan 2019.</description>
     </item>
     
     <item>
