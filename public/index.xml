@@ -6,10 +6,20 @@
     <description>Recent content on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 03:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 03:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Design Thinking</title>
+      <link>/blog/2019-08-21-design-thinking/</link>
+      <pubDate>Wed, 21 Aug 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-08-21-design-thinking/</guid>
+      <description>Design thinking is being talked about a lot more these days. It is an iterative, problem-solving approach that helps new solutions come to light that aren&amp;rsquo;t always apparent at first glance. Design thinking is not a new concept, designers have used it for years, and it can be used in all aspects of business to conceptualize alternative strategies or to justify your original solution.
+Most recently, design thinking has been championed by leading data scientists (and non-technical professionals) given the benefits of applying a scientific method to solving business problems.</description>
+    </item>
     
     <item>
       <title>Episode 19 w/ Amazon</title>
