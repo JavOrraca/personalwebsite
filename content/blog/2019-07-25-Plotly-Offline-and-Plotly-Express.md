@@ -16,6 +16,7 @@ Definitely excited to use the updated Plotly.py. This shift to offline-only is a
 For you Jupyter and Colab fans, rendering Plotly figures to these notebooks (and other IDEs) should now feel a lot less clunky. Happy plotting!
 
 Sources:
-<br/>[Plotly's announcement on Medium](https://medium.com/@plotlygraphs/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere-fc444e5659ee)
-<br/>[Plotly](https://plot.ly/)
-<br/>[Plotly example visualizations, with code](https://plot.ly/python/)
+
+* [Plotly's announcement on Medium](https://medium.com/@plotlygraphs/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere-fc444e5659ee)
+* [Plotly](https://plot.ly/)
+* [Plotly example visualizations, with code](https://plot.ly/python/)

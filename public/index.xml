@@ -115,7 +115,8 @@ At GM, Meltem&amp;rsquo;s team aims to enhance the driver experience where she a
       
       <guid>/blog/2019-07-13-exporting-plots-from-r-to-powerpoint/</guid>
       <description>Here&amp;rsquo;s a super useful and easy approach, with sample code, for exporting R ggplot2 plots to PowerPoint as geometric shapes (vector objects). Using the officer R package, you&amp;rsquo;re able to edit the styling of your plots directly in PowerPoint to match your presentation theme or change to your liking. This also works on LibreOffice for Linux distributions.
-Source: Blog Post: Exporting editable plots from R to Powerpoint by Bruno Rodrigues, Ph.</description>
+Source:
+ Blog Post: Exporting editable plots from R to Powerpoint by Bruno Rodrigues, Ph.</description>
     </item>
     
     <item>

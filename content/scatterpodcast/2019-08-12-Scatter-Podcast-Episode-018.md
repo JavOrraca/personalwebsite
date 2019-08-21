@@ -20,19 +20,21 @@ For creatives and non-technical people wanting to explore careers in data scienc
 For you R users out there... Leondra shares some awesome packages to check out for business process analytics including bupaR and processmapR. Check out the links below. For general R and data science learning, I recommend the following resources which offer free-to-audit / affordable resources for learning: Coursera, Edx, SoloLearn, Code Academy, Khan Academy, Udacity, Kaggle, Future Learn, Lynda.com, DataCamp, Super Data Science, (and for cloud computing courses...) Google Cloud, AWS. The course I recommend for beginners looking to get a review on common algorithms and learning R / Python is Jose Portilla's Data Science & Machine Learning Bootcamps on Udemy. He has one in Python and another in R. I would also recommend that people attend Meetups.
 
 List of top blogs and data science / analytics online courses that you recommend
-<br/>R-Bloggers: [https://www.r-bloggers.com/](https://www.r-bloggers.com/)
-<br/>R-Pubs: [https://rpubs.com/](https://rpubs.com/)
-<br/>Cookbook for R: [http://www.cookbook-r.com/](http://www.cookbook-r.com/)
-<br/>R-Project: [https://www.r-project.org/](https://www.r-project.org/)
-<br/>Data Carpentry: [https://datacarpentry.org/](https://datacarpentry.org/)
-<br/>Stat545: [https://stat545.com/](https://stat545.com/)
-<br/>FREE R e-books: R for Data Science, Intro to Data Science: Data Analysis and Prediction Algorithms with R, Machine Learning for Human Beings, Statistical Inference for Data Science, An Introduction to Statistical Learning with Applications in R, Text Mining for R, Report Writing for Data Science in R, Forecasting: Principles & Practice
+
+* R-Bloggers: [https://www.r-bloggers.com/](https://www.r-bloggers.com/)
+* R-Pubs: [https://rpubs.com/](https://rpubs.com/)
+* Cookbook for R: [http://www.cookbook-r.com/](http://www.cookbook-r.com/)
+* R-Project: [https://www.r-project.org/](https://www.r-project.org/)
+* Data Carpentry: [https://datacarpentry.org/](https://datacarpentry.org/)
+* Stat545: [https://stat545.com/](https://stat545.com/)
+* FREE R e-books: R for Data Science, Intro to Data Science: Data Analysis and Prediction Algorithms with R, Machine Learning for Human Beings, Statistical Inference for Data Science, An Introduction to Statistical Learning with Applications in R, Text Mining for R, Report Writing for Data Science in R, Forecasting: Principles & Practice
 <br/>Also for random, a fun read on statistics, I recommend [The Manga Guide to Statistics](https://nostarch.com/download/manga_statistics_sample.pdf) (there's also versions for Calculus and Databases)
-- For all things SQL, [W3Schools](https://www.w3schools.com/sql/default.asp) is my go to for a quick reference.
-- Lastly, here is a comprehensive list of helpful R blog links: https://www.r-bloggers.com/blogs-list/
+* For all things SQL, [W3Schools](https://www.w3schools.com/sql/default.asp) is my go to for a quick reference.
+* Lastly, here is a comprehensive list of helpful R blog links: https://www.r-bloggers.com/blogs-list/
 
 Links:
-<br/>Leondra's LinkedIn: [https://www.linkedin.com/in/leondrajames/](https://www.linkedin.com/in/leondrajames/)
-<br/>Saatchi & Saatchi (Los Angeles): [https://www.wearesaatchi.com/](https://www.wearesaatchi.com/)
+
+* Leondra's LinkedIn: [https://www.linkedin.com/in/leondrajames/](https://www.linkedin.com/in/leondrajames/)
+* Saatchi & Saatchi (Los Angeles): [https://www.wearesaatchi.com/](https://www.wearesaatchi.com/)
 
 Scatter Podcast is available on [SoundCloud](https://soundcloud.com/scatterpodcast), [iTunes & Apple Podcasts](https://podcasts.apple.com/us/podcast/scatter-podcast/id1458544194), [Spotify](https://open.spotify.com/show/64UpJwByrdsrLSYObuEeHx?si=n_UlBzrYQv6ptBjeXfSOsw), [TuneIn](https://tunein.com/podcasts/Business--Economics-Podcasts/Scatter-Podcast-p1216105/), [Google Play Music](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iqayzaqkmvhu5op3yehzbj5bus4?t%3DScatter_Podcast%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16), [Stitcher Radio](https://www.stitcher.com/podcast/scatter-podcast/httpssoundcloudcomscatterpodcast), [Castbox](https://castbox.fm/channel/id2083174), and [Podcast Republic](https://www.podcastrepublic.net/podcast/1458544194).

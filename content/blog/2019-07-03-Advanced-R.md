@@ -13,8 +13,10 @@ I'm done with school but excited to continue learning! I picked up a copy of [Jo
 
 
 Amazon links to paperback versions:
-<br/>[Reproducible Finance with R](https://www.amazon.com/Reproducible-Finance-Portfolio-Analysis-Chapman/dp/1138484032)
-<br/>[Advanced R (Second Edition)](https://www.amazon.com/Advanced-Second-Chapman-Hall-CRC/dp/0815384572)
+
+* [Reproducible Finance with R](https://www.amazon.com/Reproducible-Finance-Portfolio-Analysis-Chapman/dp/1138484032)
+* [Advanced R (Second Edition)](https://www.amazon.com/Advanced-Second-Chapman-Hall-CRC/dp/0815384572)
 
 Full version of Wickham's _Advanced R_ is also available online for free (licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)): 
-<br/>[Advanced R (Second Edition)](https://adv-r.hadley.nz/)
+
+* [Advanced R (Second Edition)](https://adv-r.hadley.nz/)

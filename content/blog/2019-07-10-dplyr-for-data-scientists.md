@@ -14,9 +14,11 @@ I've [previously posted](https://javorraca.github.io/Home/dplyr-for-R.html) abou
 These type of AST visuals are all over Hadley Wickham's _Advanced R (Second Edition)_, and they've definitely helped me to better understand my R code. My copy of Wickham's _Advanced R_ has already seen plenty of my handwritten notes... I love a good physical book to reference on my bookshelf... but rest assured, it's also available for free, in full, online!
 
 Sources:
-<br/>R-bloggers: [Bang Bang - How to Program with dplyr, by Markus Berroth](https://www.r-bloggers.com/bang-bang-how-to-program-with-dplyr/)
-<br/>dplyr: [A Grammar for Data Manipulation in R](https://dplyr.tidyverse.org/)
-<br/>Tidyverse: [A Collection of R Packages](https://www.tidyverse.org/)
+
+* R-bloggers: [Bang Bang - How to Program with dplyr, by Markus Berroth](https://www.r-bloggers.com/bang-bang-how-to-program-with-dplyr/)
+* dplyr: [A Grammar for Data Manipulation in R](https://dplyr.tidyverse.org/)
+* Tidyverse: [A Collection of R Packages](https://www.tidyverse.org/)
 
 Full version of Wickham's _Advanced R_ is also available online for free (licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)): 
-<br/>[Advanced R (Second Edition)](https://adv-r.hadley.nz/)
+
+* [Advanced R (Second Edition)](https://adv-r.hadley.nz/)
