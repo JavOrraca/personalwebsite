@@ -6,10 +6,20 @@
     <description>Recent content on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2019 03:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 03:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly &amp; Outlier Detection</title>
+      <link>/blog/2019-09-03-anomaly-and-outlier-detection/</link>
+      <pubDate>Tue, 03 Sep 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-09-03-anomaly-and-outlier-detection/</guid>
+      <description>Anomaly and outlier detection&amp;hellip; Neat, advanced stuff in this space that I finally got my hands dirty with in R. The anomalize package, created by Matt Dancho, helped me identify outliers and smooth out my forecasting model (backtesting also improved). I used anomalize in conjunction with Facebook&amp;rsquo;s prophet for a time-series projection. For R users out there: This package works beautifully with the tidyverse.
+I&amp;rsquo;m continuously impressed by the stuff that Matt puts out including educational content, tutorials, webinars, and his package development.</description>
+    </item>
     
     <item>
       <title>Episode 20 w/ MaCher</title>
@@ -18,6 +28,16 @@
       
       <guid>/scatterpodcast/2019-09-02-scatter-podcast-episode-020/</guid>
       <description>On Episode 020 of Scatter Podcast, I had a lot of fun hosting industrial designer Ben Denzinger, Product Designer at MaCher. This isn&amp;rsquo;t a traditional data science episode but one focused on a topic that analytics and data science teams should become familiar with: Design Thinking. Design thinking is not a new concept, product designers like Ben have used it for decades, yet it is a framework that can be used in almost all aspects of business to justify your existing solution or to develop alternative solutions.</description>
+    </item>
+    
+    <item>
+      <title>DSGO 2019 Conference</title>
+      <link>/blog/2019-08-29-data-science-go/</link>
+      <pubDate>Tue, 27 Aug 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-08-29-data-science-go/</guid>
+      <description>The best data science conference is right around the corner! I attended Data Science GO in 2018 and loved it&amp;hellip; I met industry veterans, business managers, corporate data science leaders, and students wanting to make the most of predictive analytics and data science. Follow the link below to save 43% on DSGO19 today only!
+Kirill Eremenko&amp;rsquo;s Super Data Science podcast was the inspiration for Scatter Podcast, and I wouldn&amp;rsquo;t have pivoted my career into this direction had it not been for his insights.</description>
     </item>
     
     <item>

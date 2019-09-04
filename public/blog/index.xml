@@ -12,6 +12,26 @@
     
     
     <item>
+      <title>Anomaly &amp; Outlier Detection</title>
+      <link>/blog/2019-09-03-anomaly-and-outlier-detection/</link>
+      <pubDate>Tue, 03 Sep 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-09-03-anomaly-and-outlier-detection/</guid>
+      <description>Anomaly and outlier detection&amp;hellip; Neat, advanced stuff in this space that I finally got my hands dirty with in R. The anomalize package, created by Matt Dancho, helped me identify outliers and smooth out my forecasting model (backtesting also improved). I used anomalize in conjunction with Facebook&amp;rsquo;s prophet for a time-series projection. For R users out there: This package works beautifully with the tidyverse.
+I&amp;rsquo;m continuously impressed by the stuff that Matt puts out including educational content, tutorials, webinars, and his package development.</description>
+    </item>
+    
+    <item>
+      <title>DSGO 2019 Conference</title>
+      <link>/blog/2019-08-29-data-science-go/</link>
+      <pubDate>Tue, 27 Aug 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-08-29-data-science-go/</guid>
+      <description>The best data science conference is right around the corner! I attended Data Science GO in 2018 and loved it&amp;hellip; I met industry veterans, business managers, corporate data science leaders, and students wanting to make the most of predictive analytics and data science. Follow the link below to save 43% on DSGO19 today only!
+Kirill Eremenko&amp;rsquo;s Super Data Science podcast was the inspiration for Scatter Podcast, and I wouldn&amp;rsquo;t have pivoted my career into this direction had it not been for his insights.</description>
+    </item>
+    
+    <item>
       <title>Students! Huge sale from Manning Publications</title>
       <link>/blog/2019-08-24-manning-book-sale/</link>
       <pubDate>Sat, 24 Aug 2019 03:18:53 -0500</pubDate>
