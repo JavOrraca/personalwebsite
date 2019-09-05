@@ -6,7 +6,7 @@ title: consulting
 ## Scatter Analytics
 (_Website Coming Soon_)
 
-Scatter Analytics is open for project collaborations and data analytics assignments. The team met in graduate school and joined forces in 2019 to add business value and empower business stakeholders with data-driven insights. With over 50 years of experience at Fortune 500 corporations and top-tier consulting firms, the Scatter Analytics service offering includes research analytics, machine learning solutions, advanced financial forecasting, and predictive modeling. Please contact us for a free consultation.
+Scatter Analytics is open for project collaborations and data analytics assignments. The team met in graduate school and joined forces in 2019 to add business value and empower stakeholders with data-driven insights. With over 50 years of experience at Fortune 500 corporations and top-tier consulting firms, the Scatter Analytics service offering includes research analytics, machine learning solutions, advanced financial forecasting, and predictive modeling. Please contact us for a free consultation.
 
 ## yo.AI
 
