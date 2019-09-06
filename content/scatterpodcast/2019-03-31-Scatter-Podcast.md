@@ -7,7 +7,7 @@ tags:
 title: Official Launch w/ Episodes 1-4
 ---
 
-[![](https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/ScatterLogo.jpg)](https://soundcloud.com/scatterpodcast)
+![Scatter Podcast logo](/ScatterProfilePic-Narrow.png)
 
 I'm really excited to announce that Scatter Podcast is finally live (available on most music and podcast streaming platforms)! The first four episodes include a podcast intro and three episodes with engaging guests from The Home Depot, Pacific Life, and NYC & Company.
 
