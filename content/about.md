@@ -3,7 +3,7 @@ date: "2018-02-13T13:42:49-05:00"
 title: who is javier?
 ---
 
-My name is Javier Orraca and I drive business value for corporations and privately held businesses through data analytics, predictive modeling, and empowering stakeholders with robust decision analytics.
+My name is Javier Orraca and I drive business value for corporations and privately held businesses through data, predictive modeling, and empowering stakeholders with robust decision analytics.
 
 ## Background
 
