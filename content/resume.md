@@ -5,7 +5,7 @@ title: resume
 
 Leveraging over 10 years of data analysis, financial modeling, strategy, and consulting experiences, I am applying business analytics and machine learning for predictive modeling, business strategy, financial forecasting, and data-driven insights. I am a creative problem solver, driving value through advanced analytics and reproducible reporting.
 
-## Professional Experience
+## Professional Experiences
 
 **Scatter Analytics**, Irvine, CA
 <br/>_Founder & Data Science Consultant (Jan 2019 – Present)_
@@ -43,3 +43,30 @@ Leveraging over 10 years of data analysis, financial modeling, strategy, and con
 * Developed and distributed valuation and embedded software models for EY’s national Capital Equipment practice (i.e., Microsoft Access and Excel models), regularly modifying models as US GAAP, IFRS, regulatory standards, BLS indices, and State / Local Tax regulations were updated
 * Developed instructions and training sessions for entry-level and experienced analysts in the U.S.A., Brazil, Canada, India, and Russia, covering the basics of MS Access (relational table design) and MS Excel (modeling best practices)
 * Led valuation and financial consulting assignments for several industry verticals, provided technical direction to analysts and managers, and coordinated multi-disciplinary project teams (resources from EY Tax, Audit, Risk, and Valuation)
+
+## Education & Academic Experiences
+
+**University of California, Irvine**, Irvine, CA
+<br/>_MS in Business Analytics (Jun 2019)_
+
+* Relevant coursework: Marketing Analytics, Customer & Social Analytics, Predictive Modeling, Technology & Analytics Consulting, Statistics for Data Science, Advanced Machine Learning, Management Science & Operations Research, Deep Learning Applications
+* Research and internship experiences:
+  * **Experian**, Irvine, CA (Jan 2019 - Jun 2019)
+    * As part of UC Irvine’s MS in Business Analytics Capstone Program, I was on a small team of graduate students that had the opportunity to work on a real-world research project for Experian
+    * Working with Experian’s Chief Data Scientist, I led a team of graduate students with the development of machine learning algorithms to predict consumer likelihood of filing for bankruptcy within a 24-month observation period
+    * My primary technical contribution to the team was the development of an artificial neural network in R using Keras and TensorFlow, interpreting “black box” results using LIME, and I also led presentations with Experian and UC Irvine faculty on unique business insights and recommendations
+  * **TBWA\Chiat\Day**, Los Angeles, CA (Oct 2018 - Mar 2019)
+    * Directly supporting TBWA\Chiat\Day’s Data Director, I researched consumer trends, performed behavioral and statistical analyses, collected large structured and unstructured data from social media platforms, and derived data-driven insights for the agency
+    • Conceptualized and built a stock price notification system as a proof of concept for TBWA\Chiat\Day’s existing client, using financial data from S&P Capital IQ and labeling of triggering events for major stock price fluctuations
+    • Analyzed San Francisco geospatial and transportation data to develop choropleth maps, using R to perform vectorized matrix calculations on laptop (2.3 minutes vs MS Excel’s 155 minutes), and Tableau for rendering maps
+    
+<br/>**Georgia Institute of Technology**, Irvine, CA
+<br/>_BS in Management (Aug 2006)_
+
+## Programming & Analytics Skills
+
+* **R**: RStudio, R Markdown, flexdashboards, R Shiny, plyr, dplyr, ggplot2, reshape2, sqldf, blogdown, Plotly, gganimate, lm / glm, Keras, TensorFlow, data.table, ReadR, vroom, broom, officeR, Facebook Prophet, and more R packages
+* **Python**: Pandas, NumPy, scikit-learn, RStudio (via R Markdown + reticulate), voila, PySpark, Google Colab, matplotlib, seaborn, Plotly, PyTorch, and more Python libraries
+* **Other Analytics & Programming Tools**: Tableau, SQL, JupyterLab, Jupyter Notebooks, Microsoft Dynamics / D365, Microsoft PowerBI, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, SAP Analysis for Excel, Adaptive Insights, SAS, Hugo, Netlify
+* **Microsoft Excel**: pivot tables, nested IF statements, INDEX / MATCH functions, VLOOKUP / HLOOKUP functions, Solver (for optimization and simulations)
+* **Microsoft Access**: data pipelines, data manipulation, ODBC integration, query design (joins, crosstab, make-table, etc.), reports, forms, macros
