@@ -18,6 +18,6 @@ LinkedIn: [https://www.linkedin.com/in/orraca/](https://www.linkedin.com/in/orra
 <br/>Twitter: [https://twitter.com/Scatter_Podcast](https://twitter.com/Scatter_Podcast)
 <br/>Instagram: [https://www.instagram.com/iwantmorejavier/](https://www.instagram.com/iwantmorejavier/)
 
-## Other
+## Resume
 
 Professional Resume: [https://www.javierorraca.com/resume/](https://www.javierorraca.com/resume/)
