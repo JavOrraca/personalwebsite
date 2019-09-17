@@ -27,7 +27,7 @@ I’m humbled to be part of the data science community, continuously learning, n
 
 ## Media Appearances
 
-* Scatter Podcast on Forbes: [https://forbes.com/how-to-get-your-data-scientist-career-started](https://forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started)
+* Scatter Podcast mention on Forbes: [https://forbes.com/how-to-get-your-data-scientist-career-started](https://forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started)
 * Scatter Podcast on UC Irvine News: [https://merage.uci.edu/news/2019/06/scatterpodcast](https://merage.uci.edu/news/2019/06/podcast-launched-by-merage-student-navigates-complex-field-of-data-analytics-and-science.html)
 * Orange County Predictive Modeling Hackathon Winner: [https://twitter.com/oc_rug/status/oc-r-users-group-hackathon-best-model](https://twitter.com/oc_rug/status/1130553620456300544?s=20)
 * UC Irvine Student Profile: [https://merage.uci.edu/programs/masters/master-science-business-analytics](https://merage.uci.edu/programs/masters/master-science-business-analytics/curriculum.html)
