@@ -51,16 +51,16 @@ Leveraging over 10 years of data analysis, financial modeling, strategy, and con
 
 * Relevant coursework: Marketing Analytics, Customer & Social Analytics, Predictive Modeling, Technology & Analytics Consulting, Statistics for Data Science, Advanced Machine Learning, Management Science & Operations Research, Deep Learning Applications
 * Research and internship experiences:
-  * **Experian**, Irvine, CA (Jan 2019 - Jun 2019)
-    * As part of UC Irvine’s MS in Business Analytics Capstone Program, I was on a small team of graduate students that had the opportunity to work on a real-world research project for Experian
-    * Working with Experian’s Chief Data Scientist, I led a team of graduate students with the development of machine learning algorithms to predict consumer likelihood of filing for bankruptcy within a 24-month observation period
-    * My primary technical contribution to the team was the development of an artificial neural network in R using Keras and TensorFlow, interpreting “black box” results using LIME, and I also led presentations with Experian and UC Irvine faculty on unique business insights and recommendations
-  * **TBWA\Chiat\Day**, Los Angeles, CA (Oct 2018 - Mar 2019)
-    * Directly supporting TBWA\Chiat\Day’s Data Director, I researched consumer trends, performed behavioral and statistical analyses, collected large structured and unstructured data from social media platforms, and derived data-driven insights for the agency
-    • Conceptualized and built a stock price notification system as a proof of concept for TBWA\Chiat\Day’s existing client, using financial data from S&P Capital IQ and labeling of triggering events for major stock price fluctuations
-    • Analyzed San Francisco geospatial and transportation data to develop choropleth maps, using R to perform vectorized matrix calculations on laptop (2.3 minutes vs MS Excel’s 155 minutes), and Tableau for rendering maps
+   + **Experian**, Irvine, CA (Jan 2019 - Jun 2019)
+      - As part of UC Irvine’s MS in Business Analytics Capstone Program, I was on a small team of graduate students that had the opportunity to work on a real-world research project for Experian
+      - Working with Experian’s Chief Data Scientist, I led a team of graduate students with the development of machine learning algorithms to predict consumer likelihood of filing for bankruptcy within a 24-month observation period
+      - My primary technical contribution to the team was the development of an artificial neural network in R using Keras and TensorFlow, interpreting “black box” results using LIME, and I also led presentations with Experian and UC Irvine faculty on unique business insights and recommendations
+   + **TBWA\Chiat\Day**, Los Angeles, CA (Oct 2018 - Mar 2019)
+      - Directly supporting TBWA\Chiat\Day’s Data Director, I researched consumer trends, performed behavioral and statistical analyses, collected large structured and unstructured data from social media platforms, and derived data-driven insights for the agency
+      - Conceptualized and built a stock price notification system as a proof of concept for TBWA\Chiat\Day’s existing client, using financial data from S&P Capital IQ and labeling of triggering events for major stock price fluctuations
+      - Analyzed San Francisco geospatial and transportation data to develop choropleth maps, using R to perform vectorized matrix calculations on laptop (2.3 minutes vs MS Excel’s 155 minutes), and Tableau for rendering maps
     
-<br/>**Georgia Institute of Technology**, Irvine, CA
+**Georgia Institute of Technology**, Irvine, CA
 <br/>_BS in Management (Aug 2006)_
 
 ## Programming & Analytics Skills
