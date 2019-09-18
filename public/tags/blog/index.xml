@@ -6,10 +6,20 @@
     <description>Recent content in blog on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2019 03:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 03:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beyond Spreadsheets with R</title>
+      <link>/blog/2019-09-18-beyond-spreadsheets-with-r/</link>
+      <pubDate>Wed, 18 Sep 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-09-18-beyond-spreadsheets-with-r/</guid>
+      <description>As a starting point for tackling data analysis problems, I often start from the perspective of &amp;ldquo;how would I have done this in Excel, if even possible?&amp;rdquo; This is what happens when you&amp;rsquo;ve spent the bulk of your career knee-deep in Excel and then you shift to more advanced data science tools like Python and R.
+I love good reference books and one that I keep on my bookshelf is Beyond Spreadsheets with R, by Dr.</description>
+    </item>
     
     <item>
       <title>Episode 21 w/ Zeff.ai</title>

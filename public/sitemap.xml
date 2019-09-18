@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/scatterpodcast/episode-021/</loc>
-    <lastmod>2019-09-16T03:18:53-05:00</lastmod>
+    <loc>/blog/2019-09-18-beyond-spreadsheets-with-r/</loc>
+    <lastmod>2019-09-18T03:18:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-16T03:18:53-05:00</lastmod>
+    <lastmod>2019-09-18T03:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-09-16T03:18:53-05:00</lastmod>
+    <lastmod>2019-09-18T03:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2019-09-16T03:18:53-05:00</lastmod>
+    <lastmod>2019-09-18T03:18:53-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/episode-021/</loc>
+    <lastmod>2019-09-16T03:18:53-05:00</lastmod>
   </url>
   
   <url>
