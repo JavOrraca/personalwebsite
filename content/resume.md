@@ -11,7 +11,7 @@ Leveraging over 10 years of data analysis, financial modeling, strategy, and con
 <br/>_Founder & Data Science Consultant (Jan 2019 – Present)_
 
 * Scatter Analytics is a collective of data scientists and seasoned corporate professionals that provide consulting services to small and mid-sized businesses through machine learning, advanced visualizations, and AI solutions
-* Analyzed survey response data to measure a fast-food chain’s brand equity, against its competitors, over five variables (loyalty, relevance, familiarity, uniqueness, popularity) and customer demographics (age, region, gender, income)
+* Analyzed survey response data to measure a fast-food chain’s brand equity against its competitors, over five variables (loyalty, relevance, familiarity, uniqueness, popularity) and customer demographics (age, region, gender, income)
 * Produced descriptive statistics to understand customer profiles of online vs offline banking users, developed a predictive multi-variate regression model for a local bank, predicted the likelihood of each offline user becoming an online banking user, and presented key insights and visualizations to leadership
 * Utilized Facebook's Prophet auto-regressing machine learning algorithm to produce product-level forecasting models, identifying outliers and seaonality trends, while visualizing results and anomalies in R  
 
