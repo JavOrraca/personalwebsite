@@ -16,8 +16,3 @@ LinkedIn: [https://www.linkedin.com/in/orraca/](https://www.linkedin.com/in/orra
 <br/>Scatter Podcast on SoundCloud: [https://soundcloud.com/scatterpodcast](https://soundcloud.com/scatterpodcast)
 <br/>GitHub: [https://github.com/JavOrraca](https://github.com/JavOrraca)
 <br/>Instagram: [https://www.instagram.com/iwantmorejavier/](https://www.instagram.com/iwantmorejavier/)
-<br/>Twitter: [https://twitter.com/Scatter_Podcast](https://twitter.com/Scatter_Podcast)
-
-## Resume
-
-Professional Resume: [https://www.javierorraca.com/resume/](https://www.javierorraca.com/resume/)

@@ -35,3 +35,7 @@ I’m humbled to be part of the data science community, continuously learning, n
 ## Web Development
 
 I am not a web developer but I created this website using the [R](https://www.r-project.org/) programming language, [RStudio](https://www.rstudio.com/), [blogdown](https://bookdown.org/yihui/blogdown/), and [Hugo](https://gohugo.io/). My site renders in less than 80ms and I'm hosting it for free... It only cost me time and $15/year for the domain name. Open-source tools are fast, flexible, fun, and paving the future of analytics.
+
+## Professional Resume
+
+Web Resume: [https://www.javierorraca.com/resume/](https://www.javierorraca.com/resume/)
