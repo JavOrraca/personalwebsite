@@ -6,10 +6,20 @@
     <description>Recent content on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Sep 2019 03:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 03:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 22 w/ UPenn</title>
+      <link>/scatterpodcast/episode-022/</link>
+      <pubDate>Mon, 30 Sep 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/episode-022/</guid>
+      <description>On Episode 022 of Scatter Podcast,I had an engaging interview with Will Chase, Data Scientist at the University of Pennsylvania. I stumbled upon one of Will&amp;rsquo;s interactive, web-based data visualizations (&amp;ldquo;Visualizing Risk: Remotely Triggered Earthquakes&amp;rdquo; - link below) and was fascinated by the way he leveraged the power of R, Mapbox, and D3 for this stunning data storytelling project.
+Will has a BS in Microbiology and is almost entirely self-taught in the programming, data science, and advanced visualization space.</description>
+    </item>
     
     <item>
       <title>Beyond Spreadsheets with R</title>
@@ -805,13 +815,13 @@ Social Media LinkedIn: https://www.linkedin.com/in/orraca/ Tableau Public: https
     </item>
     
     <item>
-      <title>resume</title>
+      <title>professional resume</title>
       <link>/resume/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/resume/</guid>
       <description>Leveraging over 10 years of analysis, modeling, financial strategy, and project management experiences, I am seeking opportunities that will allow me to apply business analytics and machine learning for predictive modeling, business strategy, and data-driven insights. I am a creative problem solver driving value through advanced analytics and reproducible reporting.
-Professional Experiences Scatter Analytics, Irvine, CA Founder &amp;amp; Data Scientist (Jan 2019 – Present)
+Work Experiences Scatter Analytics, Irvine, CA Founder &amp;amp; Data Scientist (Jan 2019 – Present)
  Scatter Analytics is a collective of data scientists and seasoned corporate professionals that provide consulting services to small and mid-sized businesses through machine learning, advanced visualizations, and AI solutions Analyzed survey response data to measure a fast-food chain’s brand equity against its competitors over five variables (loyalty, relevance, familiarity, uniqueness, popularity) and customer demographics (age, region, gender, income) Produced descriptive statistics to understand customer profiles of online vs offline banking users, developed a predictive multi-variate regression model for a local bank, predicted the likelihood of each offline user becoming an online banking user, and presented key insights and visualizations to leadership Utilized Facebook&amp;rsquo;s Prophet auto-regressing machine learning algorithm to produce product-level forecasting models, identifying outliers and seaonality trends, while visualizing results and anomalies in R</description>
     </item>
     

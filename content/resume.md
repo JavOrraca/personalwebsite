@@ -1,11 +1,11 @@
 ---
 date: "2018-02-13T13:42:49-05:00"
-title: resume
+title: professional resume
 ---
 
 Leveraging over 10 years of analysis, modeling, financial strategy, and project management experiences, I am seeking opportunities that will allow me to apply business analytics and machine learning for predictive modeling, business strategy, and data-driven insights. I am a creative problem solver driving value through advanced analytics and reproducible reporting.
 
-## Professional Experiences
+## Work Experiences
 
 **Scatter Analytics**, Irvine, CA
 <br/>_Founder & Data Scientist (Jan 2019 – Present)_

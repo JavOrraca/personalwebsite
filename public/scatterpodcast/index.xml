@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Episode 22 w/ UPenn</title>
+      <link>/scatterpodcast/episode-022/</link>
+      <pubDate>Mon, 30 Sep 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/episode-022/</guid>
+      <description>On Episode 022 of Scatter Podcast,I had an engaging interview with Will Chase, Data Scientist at the University of Pennsylvania. I stumbled upon one of Will&amp;rsquo;s interactive, web-based data visualizations (&amp;ldquo;Visualizing Risk: Remotely Triggered Earthquakes&amp;rdquo; - link below) and was fascinated by the way he leveraged the power of R, Mapbox, and D3 for this stunning data storytelling project.
+Will has a BS in Microbiology and is almost entirely self-taught in the programming, data science, and advanced visualization space.</description>
+    </item>
+    
+    <item>
       <title>Episode 21 w/ Zeff.ai</title>
       <link>/scatterpodcast/episode-021/</link>
       <pubDate>Mon, 16 Sep 2019 03:18:53 -0500</pubDate>
