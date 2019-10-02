@@ -6,10 +6,20 @@
     <description>Recent content in blog on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 03:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 03:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualizing Earthquake Risk</title>
+      <link>/blog/2019-10-02-visualizing-earthquake-risk/</link>
+      <pubDate>Wed, 02 Oct 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-10-02-visualizing-earthquake-risk/</guid>
+      <description>On my most recent podcast episode, data visualization designer Will Chase covered one of his most ambitious projects yet, Visualizing Earthquake Risk, using R, Mapbox, and D3. Will is entirely self-taught and he created this interactive data viz after just two years of experience with R&amp;hellip; Incredible!
+If you&amp;rsquo;re an R user or student, Will shares all of his code for this project (link below). Check out the podcast episode and Will&amp;rsquo;s website for more information, and if you&amp;rsquo;re active on Twitter, be sure to follow Will there (W_R_Chase).</description>
+    </item>
     
     <item>
       <title>Episode 22 w/ UPenn</title>
@@ -19,6 +29,16 @@
       <guid>/scatterpodcast/episode-022/</guid>
       <description>On Episode 022 of Scatter Podcast,I had an engaging interview with Will Chase, Data Scientist at the University of Pennsylvania. I stumbled upon one of Will&amp;rsquo;s interactive, web-based data visualizations (&amp;ldquo;Visualizing Risk: Remotely Triggered Earthquakes&amp;rdquo; - link below) and was fascinated by the way he leveraged the power of R, Mapbox, and D3 for this stunning data storytelling project.
 Will has a BS in Microbiology and is almost entirely self-taught in the programming, data science, and advanced visualization space.</description>
+    </item>
+    
+    <item>
+      <title>UC Irvine at Data Science GO</title>
+      <link>/blog/2019-09-25-uci-at-dsgo/</link>
+      <pubDate>Wed, 25 Sep 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-09-25-uci-at-dsgo/</guid>
+      <description>Data science students and managers exploring analytics for your organization&amp;hellip; The best data science conference is next weekend and only a few seats are left. If you&amp;rsquo;re interested in learning about practical methods and technologies to help you derive robust, data-driven insights, you&amp;rsquo;ll walk away with SO much intel from the Data Science GO (&amp;ldquo;DSGO&amp;rdquo;) conference.
+Last year, I convinced 7 of my UC Irvine (&amp;ldquo;UCI&amp;rdquo;) MSc in Business Analytics (&amp;ldquo;MSBA&amp;rdquo;) graduate cohort to attend DSGO with me.</description>
     </item>
     
     <item>

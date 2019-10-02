@@ -19,7 +19,7 @@ Definitely follow Will on your platform of choice... I have no doubt that he'll 
 Will's links:
 
 * Website: [www.williamrchase.com](https://www.williamrchase.com)
-* Visualizing risk project: [Can One Earthquake Trigger Another On the Other Side of the World?](https://www.williamrchase.com/vizrisk/vizrisk_main/)
+* Visualizing risk project: [Can One Earthquake Trigger Another On the Other Side of the World?](https://will-r-chase.github.io/eq_bw/)
 * Twitter: [@W_R_Chase](https://twitter.com/W_R_Chase)
 * GitHub: [will-r-chase](https://github.com/will-r-chase)
 
