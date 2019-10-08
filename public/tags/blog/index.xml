@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>TensorFlow 2.0 for R</title>
+      <link>/blog/2019-10-07-tensorflow-2-for-r/</link>
+      <pubDate>Mon, 07 Oct 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-10-07-tensorflow-2-for-r/</guid>
+      <description>TensorFlow 2.0 is finally alpha-released. I use Python and R but tend to focus on R these days. So, what changes should R users be aware of? The RStudio team wrote a thorough post on the subject, providing a tour of the new r-tensorflow ecosystem, with code samples.
+The good news? If you&amp;rsquo;ve been using TensorFlow within keras, like me, syntactically almost everything remains the same. You&amp;rsquo;ll notice very few differences, if any.</description>
+    </item>
+    
+    <item>
       <title>Visualizing Earthquake Risk</title>
       <link>/blog/2019-10-02-visualizing-earthquake-risk/</link>
       <pubDate>Wed, 02 Oct 2019 03:18:53 -0500</pubDate>
