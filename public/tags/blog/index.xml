@@ -6,10 +6,28 @@
     <description>Recent content in blog on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 03:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 03:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 23 w/ Blizzard</title>
+      <link>/scatterpodcast/episode-023/</link>
+      <pubDate>Mon, 14 Oct 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/episode-023/</guid>
+      <description>On Episode 023 of Scatter Podcast, I interviewed Hayden Balow, Organizational Development Analyst at Blizzard Entertainment. In the mid-1990&amp;rsquo;s, I was a fanatic of the Warcraft, Diablo, and Starcraft series so I really enjoyed hearing how Hayden&amp;rsquo;s team utilizes research, statistics, and people analytics to make the Blizzard workplace better for their employees. Hayden attended the University of Minnesota-Duluth for his Bachelor of Applied Science in Psychology, and he received his Masters in Industrial Organizational Psychology from Lamar University.</description>
+    </item>
+    
+    <item>
+      <title>DSGO Conference, Day 1</title>
+      <link>/blog/2019-10-08-dsgo-day-1-recap/</link>
+      <pubDate>Tue, 08 Oct 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-10-08-dsgo-day-1-recap/</guid>
+      <description>Data Science GO (&amp;ldquo;DSGO&amp;rdquo;) was a huge success. It was great to reconnect with data science practitioners and leaders that I met at DSGO 2018, and to learn about the latest trends and how much the space has changed in just one year. I felt a lot of pride seeing UCI&amp;rsquo;s MS in Business Analytics (&amp;ldquo;MSBA&amp;rdquo;) program as the main educational sponsor for the event, and I also enjoyed seeing my old professor, Sanjeev Dewan, talk on the main stage about causal inference methods in data science (that&amp;rsquo;s him in the picture, above)!</description>
+    </item>
     
     <item>
       <title>Visualizing Earthquake Risk</title>
