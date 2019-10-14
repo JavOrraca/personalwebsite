@@ -6,7 +6,7 @@
     <description>Recent content on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2019 03:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 01:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Episode 23 w/ Blizzard</title>
       <link>/scatterpodcast/episode-023/</link>
-      <pubDate>Mon, 14 Oct 2019 03:18:53 -0500</pubDate>
+      <pubDate>Mon, 14 Oct 2019 01:18:53 -0500</pubDate>
       
       <guid>/scatterpodcast/episode-023/</guid>
       <description>On Episode 023 of Scatter Podcast, I interviewed Hayden Balow, Organizational Development Analyst at Blizzard Entertainment. In the mid-1990&amp;rsquo;s, I was a fanatic of the Warcraft, Diablo, and Starcraft series so I really enjoyed hearing how Hayden&amp;rsquo;s team utilizes research, statistics, and people analytics to make the Blizzard workplace better for their employees. Hayden attended the University of Minnesota-Duluth for his Bachelor of Applied Science in Psychology, and he received his Masters in Industrial Organizational Psychology from Lamar University.</description>
@@ -55,7 +55,7 @@ If you&amp;rsquo;re an R user or student, Will shares all of his code for this p
       <pubDate>Mon, 30 Sep 2019 03:18:53 -0500</pubDate>
       
       <guid>/scatterpodcast/episode-022/</guid>
-      <description>On Episode 022 of Scatter Podcast,I had an engaging interview with Will Chase, Data Scientist at the University of Pennsylvania. I stumbled upon one of Will&amp;rsquo;s interactive, web-based data visualizations (&amp;ldquo;Visualizing Risk: Remotely Triggered Earthquakes&amp;rdquo; - link below) and was fascinated by the way he leveraged the power of R, Mapbox, and D3 for this stunning data storytelling project.
+      <description>On Episode 022 of Scatter Podcast, I had an engaging interview with Will Chase, Data Scientist at the University of Pennsylvania. I stumbled upon one of Will&amp;rsquo;s interactive, web-based data visualizations (&amp;ldquo;Visualizing Risk: Remotely Triggered Earthquakes&amp;rdquo; - link below) and was fascinated by the way he leveraged the power of R, Mapbox, and D3 for this stunning data storytelling project.
 Will has a BS in Microbiology and is almost entirely self-taught in the programming, data science, and advanced visualization space.</description>
     </item>
     
