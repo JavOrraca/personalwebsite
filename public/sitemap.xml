@@ -3,26 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/scatterpodcast/episode-023/</loc>
-    <lastmod>2019-10-14T01:18:53-05:00</lastmod>
+    <loc>/blog/2019-10-22-bbc-visualization-journey-with-r/</loc>
+    <lastmod>2019-10-22T03:18:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-10-14T01:18:53-05:00</lastmod>
+    <lastmod>2019-10-22T03:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-10-14T01:18:53-05:00</lastmod>
+    <lastmod>2019-10-22T03:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2019-10-14T01:18:53-05:00</lastmod>
+    <lastmod>2019-10-22T03:18:53-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-10-19-information-is-beautiful-awards/</loc>
+    <lastmod>2019-10-19T03:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-10-15-mastering-r-shiny/</loc>
+    <lastmod>2019-10-15T03:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scatterpodcast/episode-023/</loc>
+    <lastmod>2019-10-14T01:18:53-05:00</lastmod>
   </url>
   
   <url>

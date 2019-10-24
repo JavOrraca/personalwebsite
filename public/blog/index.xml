@@ -12,6 +12,37 @@
     
     
     <item>
+      <title>BBC&#39;s Visual &amp; Data Journalism</title>
+      <link>/blog/2019-10-22-bbc-visualization-journey-with-r/</link>
+      <pubDate>Tue, 22 Oct 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-10-22-bbc-visualization-journey-with-r/</guid>
+      <description>It pains me to share a Medium article of any kind these days because the bane of my existence is reaching my Medium article limit on the first day of the month (#EndRant). The BBC News data science and visualization team published this great overview on their lessons learned after using R for visualizations over the course of 1.5 years.
+Great read, AND super neat to see the BBC team open-source their BBPLOT and R Cookbook to help streamline your visualization workflows, reduce manual repetition of code setup for a ggplot2 viz, and to educate you on better storytelling approaches with R.</description>
+    </item>
+    
+    <item>
+      <title>Information is Beautiful 2019 Awards</title>
+      <link>/blog/2019-10-19-information-is-beautiful-awards/</link>
+      <pubDate>Sat, 19 Oct 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-10-19-information-is-beautiful-awards/</guid>
+      <description>A few weeks ago, I had Will Chase on my podcast to talk about his work as a researcher and data visualization professional. Super exciting news for Will&amp;hellip; His visualizing earthquake risk project was shortlisted for the Information is Beautiful 2019 Awards (the Science &amp;amp; Technology category). Give it a look and if you like what you see, please vote for his amazing project!! Congrats Will!
+Links:
+ Vote for Will&amp;rsquo;s project on Kantar&amp;rsquo;s Information is Beautiful 2019 Awards Will&amp;rsquo;s (new!</description>
+    </item>
+    
+    <item>
+      <title>Mastering R Shiny (Book Preview)</title>
+      <link>/blog/2019-10-15-mastering-r-shiny/</link>
+      <pubDate>Tue, 15 Oct 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-10-15-mastering-r-shiny/</guid>
+      <description>Every once in a blue moon when I log into Twitter, I&amp;rsquo;ll come across some gems that excite me&amp;hellip; Such was the case this morning when I learned that Hadley Wickham of RStudio is writing a book called &amp;ldquo;Mastering Shiny,&amp;rdquo; expected for publication in late 2020 by O&amp;rsquo;Reilly Media.
+If you&amp;rsquo;re interested in a free resource for learning how to develop R Shiny web apps, the first few chapters of &amp;ldquo;Mastering Shiny&amp;rdquo; are online (in development) full of code samples to follow.</description>
+    </item>
+    
+    <item>
       <title>DSGO Conference, Day 1</title>
       <link>/blog/2019-10-08-dsgo-day-1-recap/</link>
       <pubDate>Tue, 08 Oct 2019 03:18:53 -0500</pubDate>
