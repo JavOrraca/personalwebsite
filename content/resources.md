@@ -70,7 +70,7 @@ Below are data science resources to point you in the right direction for learnin
 ![alt text](http://felixfan.github.io/figure/ggplot2-Cheatsheet-20.png "Grouping multiple plots via ggplot2")
 
 **Python: The Basics**
-_Many online Python trainings were made when Python 2.x was standard. Python 3.x is the future of the language, so don't bother installing or learning Python 2.x._    
+<br>_Many online Python trainings were made when Python 2.x was standard. Python 3.x is the future of the language, so don't bother installing or learning Python 2.x._    
 
 * [PyCharm](https://www.jetbrains.com/pycharm/): A plethora of Python IDEs exist, PyCharm just happens to be my Python desktop IDE of choice
   * The full version is $89 USD for individual users, but if you're an active student, you can download the entire suite for free.
