@@ -6,13 +6,23 @@
     <description>Recent content on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Oct 2019 01:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 03:42:49 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Episode 23 w/ Google &amp; IE Business School</title>
+      <title>resources</title>
+      <link>/resources/</link>
+      <pubDate>Sun, 27 Oct 2019 03:42:49 -0500</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>Updated: October 2019 Note: Python online learning recommendations need updating. The Python books are still highly recommended.
+Below are data science resources to point you in the right direction for learning more about data analytics, data science, and programming. I&amp;rsquo;ll update the list periodically as I learn of new resources and tools. R, Python, and SQL are programming languages used for data collection, data manipulation, data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Episode 24 w/ Google &amp; IE</title>
       <link>/scatterpodcast/episode-024/</link>
       <pubDate>Sun, 27 Oct 2019 01:18:53 -0500</pubDate>
       
@@ -880,16 +890,6 @@ Source: WeAreNetflix on YouTube</description>
       
       <guid>/blog/2018-08-10-fake-news/</guid>
       <description>The dissemination of fake news on social media is widespread, often fueled by bots and reinforced through user sharing. On the most recent episode of the Data Skeptic, host Kyle Polich interviews Filippo Menczer to discuss how bots influence the spread of fake news. For anyone interested in data analytics, this is a great listen and the link below also references several tools for studying the spread of information on social media.</description>
-    </item>
-    
-    <item>
-      <title>consulting</title>
-      <link>/consulting/</link>
-      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
-      
-      <guid>/consulting/</guid>
-      <description>Scatter Analytics (Website Coming Soon)
-Scatter Analytics is open for project collaborations and data analytics assignments. The team met in graduate school and joined forces in 2019 to add business value and empower stakeholders with data-driven insights. With over 50 years of experience at Fortune 500 corporations and top-tier consulting firms, the Scatter Analytics service offering includes research analytics, machine learning solutions, advanced financial forecasting, and predictive modeling. Please contact us for a free consultation.</description>
     </item>
     
     <item>

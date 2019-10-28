@@ -29,8 +29,8 @@ googleAnalytics          = "UA-127790709-3"                               # Trac
     text = "scatter podcast"
 
 [[params.mainMenu]]
-    link = "/consulting"
-    text = "consulting"
+    link = "/resources"
+    text = "resources"
 
 [[params.mainMenu]]
     link = "/contact"
