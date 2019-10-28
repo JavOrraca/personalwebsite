@@ -4,7 +4,7 @@ title: resources
 ---
 
 _Updated: October 2019_
-_Note: Python online learning recommendations need updating. The Python books are still highly recommended._
+<br>_Note: Python online learning recommendations need updating. The Python books are still highly recommended._
 
 Below are data science resources to point you in the right direction for learning more about data analytics, data science, and programming. I'll update the list periodically as I learn of new resources and tools. R, Python, and SQL are programming languages used for data collection, data manipulation, data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence. You will likely use one or all of these throughut your data science career. If you suggestions or questions, please contact me via email or LinkedIn, thank you!
 
