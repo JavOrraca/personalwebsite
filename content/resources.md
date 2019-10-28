@@ -21,7 +21,7 @@ Below are data science resources to point you in the right direction for learnin
 * [Fast.ai](http://www.fast.ai/): For the more advanced data science students, Fast.ai provides free, high-quality, highly-reviewed machine learning and deep learning courses
 
 **Podcasts**
-Outside of the classroom, podcasts help me stay current with data science news and local events. If you have any podcast suggestions that touch on analytics careers, data science, machine learning, or artificial intelligence, I'd love to hear from you!
+<br>Outside of the classroom, podcasts help me stay current with data science news and local events. If you have any podcast suggestions that touch on analytics careers, data science, machine learning, or artificial intelligence, I'd love to hear from you!
 
 * [Scatter Podcast](https://soundcloud.com/scatterpodcast): Hosted by Javier Orraca (hey, that's me!), _Scatter Podcast_ conducts interviews with analytics, data science, and insights professionals at startups and publicly traded corporations to better understand what a "day in the life" looks like, and to garner tips for students and job seekers   
 * [Super Data Science Podcast](https://soundcloud.com/superdatascience): Hosted by Kirill Eremenko, the goal of the _Super Data Science_ podcast is to bring you the most inspiring data scientists and analysts from around the world
@@ -55,6 +55,7 @@ Outside of the classroom, podcasts help me stay current with data science news a
   * Contrary to popular belief (_especially among us data folks_), not every problem is a big data problem that requires programming via R or Python. This book explores the full capabilities of Excel for data science, and does a great job at it. Espcially for Excel power users, this book would be a first great step before plunging into R or Python (or vice versa, perhaps you're an avid R user that barely knows Excel... this book would be great for you too). [Amazon link](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?keywords=data+smart&qid=1553226341&s=gateway&sr=8-1)
 
 **R: The Basics**
+
 * [RStudio](https://www.rstudio.com/products/rstudio/download/): To get started with R, download and install RStudio's open-source desktop IDE
 * [swirl](https://swirlstats.com/students.html): Once RStudio is installed (or your IDE of choice), installing the swirl package is as easy as typing _install.packages("swirl")_ in the RStudio console
   * This R package includes 15 interactive lessons (about 30 minutes each) that teach you the fundamentals of R programming and the data structures
@@ -87,5 +88,6 @@ _Many online Python trainings were made when Python 2.x was standard. Python 3.x
   * [Python for Data Analysis by Wes McKinney (2nd Edition)](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_3?keywords=python+for+data+analysis&qid=1553226237&s=gateway&sr=8-3)
 
 **SQL: The Basics**
-  * [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial): Learn SQL in stages with these free, interactive tutorials
-  * [The Try-SQL Editor](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all): The SQL Tryit Editor lets you practice SQL statements with pre-populated data sets
+
+* [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial): Learn SQL in stages with these free, interactive tutorials
+* [The Try-SQL Editor](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all): The SQL Tryit Editor lets you practice SQL statements with pre-populated data sets
