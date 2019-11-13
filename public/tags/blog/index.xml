@@ -6,10 +6,20 @@
     <description>Recent content in blog on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Oct 2019 01:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 01:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 25 w/ Business Science</title>
+      <link>/scatterpodcast/episode-025/</link>
+      <pubDate>Mon, 11 Nov 2019 01:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/episode-025/</guid>
+      <description>On Episode 025 of Scatter Podcast, I Matt Dancho, CEO and lead Data Science instructor at Business Science University. I&amp;rsquo;m currently enrolled in Matt&amp;rsquo;s R Shiny 102 course and have really enjoyed his training style full with sample code and video explanations on every module.
+If you&amp;rsquo;re interested in developing your analytics and data science chops with the R programming language, Matt is offering a special 15% discount for his 4-course R machine learning bundle whe you enter discount code SCATTERPODCAST.</description>
+    </item>
     
     <item>
       <title>Episode 24 w/ Google &amp; IE</title>
