@@ -10,7 +10,7 @@ title: Episode 25 w/ Business Science
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/709515865&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <br/>
 
-On [_Episode 025_ of Scatter Podcast](https://soundcloud.com/scatterpodcast/episode-025), I Matt Dancho, CEO and lead Data Science instructor at Business Science University. I'm currently enrolled in Matt's R Shiny 102 course and have really enjoyed his training style full with sample code and video explanations on every module.
+On [_Episode 025_ of Scatter Podcast](https://soundcloud.com/scatterpodcast/episode-025), I interviewed guest Matt Dancho, CEO and lead Data Science instructor at Business Science University. I'm currently enrolled in Matt's R Shiny 102 course and have really enjoyed his training style full with sample code and video explanations on every module.
 
 If you're interested in developing your analytics and data science chops with the R programming language, Matt is offering a special 15% discount for his 4-course R machine learning bundle whe you enter discount code SCATTERPODCAST. Matt is an incredible educator and super passionate about adding value to the business organization through machine learning and artificial intelligence. Enjoy the episode, follow Matt on LinkedIn, and subscribe to Scatter Podcast if you enjoy what you're hearing!
 
