@@ -3,17 +3,24 @@ date: "2018-02-13T13:42:49-05:00"
 title: professional resume
 ---
 
-Leveraging over 10 years of analysis, modeling, financial strategy, and project management experiences, I am seeking opportunities that will allow me to apply business analytics and machine learning for predictive modeling, business strategy, and data-driven insights. I am a creative problem solver driving value through advanced analytics and reproducible reporting.
+Leveraging over 13 years of analysis, modeling, financial strategy, and project management experiences, I am seeking opportunities that will allow me to apply business analytics and machine learning for predictive modeling, business strategy, and data-driven insights. I am a creative problem solver driving value through advanced analytics and reproducible reporting.
 
 ## Work Experiences
 
-**Scatter Analytics**, Irvine, CA
-<br/>_Founder & Data Scientist (Jan 2019 – Present)_
+**Centene Corporation (Health Net)**, Sacramento, CA
+<br/>_Data Scientist III, Strategic Insights (Oct 2019 – Present)_
 
-* Scatter Analytics is a collective of data scientists and seasoned corporate professionals that provide consulting services to small and mid-sized businesses through machine learning, advanced visualizations, and AI solutions
-* Analyzed survey response data to measure a fast-food chain’s brand equity against its competitors over five variables (loyalty, relevance, familiarity, uniqueness, popularity) and customer demographics (age, region, gender, income)
-* Produced descriptive statistics to understand customer profiles of online vs offline banking users, developed a predictive multi-variate regression model for a local bank, predicted the likelihood of each offline user becoming an online banking user, and presented key insights and visualizations to leadership
-* Utilized Facebook's Prophet auto-regressing machine learning algorithm to produce product-level forecasting models, identifying outliers and seaonality trends, while visualizing results and anomalies in R  
+* Supporting Health Net's Commercial Operations division, my team analyzes product performance and derives insights for our internal and external stakeholders
+* As part of the _Strategic Insights_ team, we leverage machine learning, artificial intelligence, and interactive web apps via the R programming language for forecasting, scenario testing, simulations, and web analytics
+* As co-founder of Centene's internal R Users Group ("useR Community"), I host monthly webinars on best practices and data science modeling work flows, and keep Centene's R users apprised of new data analysis, reporting, and visualization techniques
+* Tools: R, RStudio Pro, Python, H2O, Microsoft Excel, JupyterHub, Shiny, RStudio Connect, SAP Business Intelligence, Bitbucket
+
+<br/>**Scatter Podcast**, Sacramento, CA
+<br/>_Founder & Podcast Host (Jan 2019 – Present)_
+
+* Launched in 2019, Scatter Podcast explores analytics and data-driven insights in business with data science thought leaders and practitioners
+* Guest highlights: Amazon, CBRE, Databricks, The Home Depot, GM, Google, T-Mobile, and more
+* Listen to Scatter Podcast on the following platforms: [SoundCloud](https://soundcloud.com/scatterpodcast), [iTunes & Apple Podcasts](https://podcasts.apple.com/us/podcast/scatter-podcast/id1458544194), [Spotify](https://open.spotify.com/show/64UpJwByrdsrLSYObuEeHx?si=n_UlBzrYQv6ptBjeXfSOsw), [TuneIn](https://tunein.com/podcasts/Business--Economics-Podcasts/Scatter-Podcast-p1216105/), [Google Play Music](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iqayzaqkmvhu5op3yehzbj5bus4?t%3DScatter_Podcast%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16), [Stitcher Radio](https://www.stitcher.com/podcast/scatter-podcast/httpssoundcloudcomscatterpodcast), [Castbox](https://castbox.fm/channel/id2083174), [Podcast Republic](https://www.podcastrepublic.net/podcast/1458544194) and more
 
 <br/>**KPMG**, Los Angeles, CA
 <br/>_Senior Manager, Economic & Valuation Services (May 2015 – May 2017)_
