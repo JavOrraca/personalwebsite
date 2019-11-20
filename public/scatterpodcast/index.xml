@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Episode 26 w/ RStudio</title>
+      <link>/scatterpodcast/episode-026/</link>
+      <pubDate>Mon, 25 Nov 2019 01:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/episode-026/</guid>
+      <description>On Episode 026 of Scatter Podcast, I interviewed guest Jonathan Regenstein, Director of Financial Services at RStudio. Having spent several years at J.P. Morgan where he worked alongside quantitative analysts and researchers, Jonathan turned from Excel to R for more robust reporting, visualizations, and reproducibility of financial models. After joining RStudio, he continued to develop his R programming skills and eventually authored &amp;ldquo;Reproducible Finance with R - Code Flows and Shiny Apps for Portfolio Analysis.</description>
+    </item>
+    
+    <item>
       <title>Episode 25 w/ Business Science</title>
       <link>/scatterpodcast/episode-025/</link>
       <pubDate>Mon, 11 Nov 2019 01:18:53 -0500</pubDate>

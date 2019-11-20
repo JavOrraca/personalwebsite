@@ -6,10 +6,37 @@
     <description>Recent content in blog on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2019 01:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 01:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 26 w/ RStudio</title>
+      <link>/scatterpodcast/episode-026/</link>
+      <pubDate>Mon, 25 Nov 2019 01:18:53 -0500</pubDate>
+      
+      <guid>/scatterpodcast/episode-026/</guid>
+      <description>On Episode 026 of Scatter Podcast, I interviewed guest Jonathan Regenstein, Director of Financial Services at RStudio. Having spent several years at J.P. Morgan where he worked alongside quantitative analysts and researchers, Jonathan turned from Excel to R for more robust reporting, visualizations, and reproducibility of financial models. After joining RStudio, he continued to develop his R programming skills and eventually authored &amp;ldquo;Reproducible Finance with R - Code Flows and Shiny Apps for Portfolio Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Building a Website with Blogdown</title>
+      <link>/blog/2019-11-18-blogdown/</link>
+      <pubDate>Mon, 18 Nov 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-11-18-blogdown/</guid>
+      <description>Pablo Barajas, a friend and recent graduate with me at UC Irvine, led a presentation on how to build a website using R, RStudio, and Blogdown. For anyone wanting to fairly easily build an online portfolio or blog that looks professional, I highly recommend Blogdown. I used this process to build this website, as did Pablo for his personal website, and I can help if you have any questions. Here&amp;rsquo;s the process in short: RStudio site build with Blogdown -&amp;gt; Commit to GitHub -&amp;gt; Apply Hugo theme -&amp;gt; Netlify for CI/CD</description>
+    </item>
+    
+    <item>
+      <title>15 Tips on Making Better Use of R</title>
+      <link>/blog/2019-11-11-r-markown/</link>
+      <pubDate>Mon, 11 Nov 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-11-11-r-markown/</guid>
+      <description>If you use R but aren&amp;rsquo;t using R Markdown, you should be. It&amp;rsquo;s such a great way to make reports come to life. I&amp;rsquo;ve been using it more in the last month than I have in the last year and can&amp;rsquo;t believe how much more interactive I&amp;rsquo;ve made my deliverables (and even my own data exploration). Really excited to see what new tricks I can learn from RStudio&amp;rsquo;s webinar on Friday, November 15!</description>
+    </item>
     
     <item>
       <title>Episode 25 w/ Business Science</title>
@@ -19,6 +46,15 @@
       <guid>/scatterpodcast/episode-025/</guid>
       <description>On Episode 025 of Scatter Podcast, I interviewed guest Matt Dancho, CEO and lead Data Science instructor at Business Science University. I&amp;rsquo;m currently enrolled in Matt&amp;rsquo;s R Shiny 102 course and have really enjoyed his training style full with sample code and video explanations on every module.
 If you&amp;rsquo;re interested in developing your analytics and data science chops with the R programming language, Matt is offering a special 15% discount for his 4-course R machine learning bundle whe you enter discount code SCATTERPODCAST.</description>
+    </item>
+    
+    <item>
+      <title>Shiny Developer Expert Course</title>
+      <link>/blog/2019-11-05-r-shiny-expert-course/</link>
+      <pubDate>Tue, 05 Nov 2019 03:18:53 -0500</pubDate>
+      
+      <guid>/blog/2019-11-05-r-shiny-expert-course/</guid>
+      <description>I am super excited about Matt Dancho&amp;rsquo;s new R Shiny Developer course, especially since he&amp;rsquo;s the next guest on Scatter Podcast. He&amp;rsquo;s one of the best data science educators that I&amp;rsquo;ve learned from and the deeper that I dive into my data science career, the more and more value I find from his Business Science courses, Learning Labs, his online tutorials (on the tidyverse, predictive analytics, data science best practices), his R packages&amp;hellip; The guy is a beast!</description>
     </item>
     
     <item>
