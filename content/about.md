@@ -9,9 +9,9 @@ My name is Javier Orraca and I drive business value for corporations and private
 
 ## Background
 
-My career includes over a decade of consulting, data analysis, and fixed asset valuation modeling for Ernst & Young (EY), Pacific Gas & Electric (PG&E), and KPMG. My work supported M&A financial reporting requirements and strategic finance initiatives. I had a vision of providing more value to business organizations than what my M&A and valuation work allowed for, so I began to explore and learn how to apply regressions and machine learning for advanced, data-driven decision making.
+My career includes over a decade of consulting, data analysis, financial modeling, and data science for Ernst & Young (EY), Pacific Gas & Electric (PG&E), KPMG, and Health Net (a Centene Corporation subsidiary). I had a vision of providing more value to business organizations than what my M&A work allowed for, so I began to explore and learn how to apply regressions, advanced analytics, and machine learning for data-driven decision making.
 
-Finding a new passion in analytics and data science, I pursued a Business Analytics graduate degree at the University of California, Irvine, and graduated in 2019. Throughout my graduate program, I leveraged my data and financial modeling experiences to help financial services firms, advertising agencies, and retail businesses. I developed a commercial AI product for financial modelers, and am currently available for consulting opportunities. If you are interested in partnering on a commercial product or want to learn more about my analytics service offerings, please contact me.
+Finding a new passion in analytics and data science, I pursued a Business Analytics graduate degree at the University of California, Irvine, and graduated in 2019. Throughout my graduate program, I leveraged my data and financial modeling experiences to help financial services firms, advertising agencies, and retail businesses. Throughout my masters program, I developed a commercial AI product for financial modelers and since graduating, I have been at Health Net as a Data Scientist III. My core responsibilities include the development of machine learning and AI models for strategic insights.
 
 ## Scatter Podcast
 
