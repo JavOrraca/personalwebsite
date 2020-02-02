@@ -10,10 +10,10 @@ Leveraging over 13 years of analysis, modeling, financial strategy, and project 
 **Centene Corporation (Health Net)**, Sacramento, CA
 <br/>_Data Scientist III, Strategic Insights (Oct 2019 – Present)_
 
-* Supporting Health Net's Commercial Operations division, my team analyzes product performance and derives insights for our internal and external stakeholders
-* As part of the _Strategic Insights_ team, we leverage machine learning, artificial intelligence, and interactive web apps via the R programming language for forecasting, scenario testing, simulations, and web analytics
-* As co-founder of Centene's internal R Users Group ("useR Community"), I host monthly webinars on best practices and data science modeling work flows, and keep Centene's R users apprised of new data analysis, reporting, and visualization techniques
-* Tools: R, RStudio Pro, Python, H2O, Microsoft Excel, JupyterHub, Shiny, RStudio Connect, SAP Business Intelligence, Bitbucket
+* Supporting Health Net's Product Performance team within Commercial Operations, my team derives data-driven insights for our internal and external stakeholders
+* As part of the _Strategic Insights_ team, we leverage machine learning, artificial intelligence, and interactive web apps via the R programming language for forecasting, scenario testing, simulations, and product analytics
+* As co-organizer of Centene's internal R Users Group, I help to coordinate monthly learning sessions on best practices and data science modeling work flows, and keep Centene's R users apprised of new data analysis, reporting, and visualization techniques
+* Tools: R, RStudio Pro, Python, H2O, Microsoft Excel, SQL, JupyterHub, Shiny, RStudio Connect, SAP Business Intelligence, Bitbucket, GitLab
 
 <br/>**Scatter Podcast**, Sacramento, CA
 <br/>_Founder & Podcast Host (Jan 2019 – Present)_
