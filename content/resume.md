@@ -3,7 +3,7 @@ date: "2018-02-13T13:42:49-05:00"
 title: professional resume
 ---
 
-Leveraging over 13 years of analysis, modeling, financial strategy, and project management experiences, I am seeking opportunities that will allow me to apply business analytics and machine learning for predictive modeling, business strategy, and data-driven insights. I am a creative problem solver driving value through advanced analytics and reproducible reporting.
+Leveraging over 14 years of analysis, modeling, financial strategy, and project management experiences, I am seeking opportunities that will allow me to apply business analytics and machine learning for predictive modeling, business strategy, and data-driven insights. I am a creative problem solver driving value through advanced analytics and reproducible reporting.
 
 ## Work Experiences
 
@@ -13,7 +13,7 @@ Leveraging over 13 years of analysis, modeling, financial strategy, and project 
 * Supporting Health Net's Product Performance team within Commercial Operations, my team derives data-driven insights for our internal and external stakeholders
 * As part of the _Strategic Insights_ team, we leverage machine learning, artificial intelligence, and interactive web apps via the R programming language for forecasting, scenario testing, simulations, and product analytics
 * As co-organizer of Centene's internal R Users Group, I help to coordinate monthly learning sessions on best practices and data science modeling work flows, and keep Centene's R users apprised of new data analysis, reporting, and visualization techniques
-* Tools: R, RStudio Pro, Python, H2O, Microsoft Excel, SQL, JupyterHub, Shiny, RStudio Connect, SAP Business Intelligence, Bitbucket, GitLab
+* Tools: R, RStudio Pro, H2O, Microsoft Excel, SQL, GitLab, JupyterHub, Shiny, RStudio Connect, SAP Business Intelligence
 
 <br/>**Scatter Podcast**, Sacramento, CA
 <br/>_Founder & Podcast Host (Jan 2019 – Present)_

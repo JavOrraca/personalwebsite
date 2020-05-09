@@ -9,7 +9,7 @@ My name is Javier Orraca and I drive business value for corporations and private
 
 ## Background
 
-My career includes over a decade of consulting, data analysis, financial modeling, and data science for Ernst & Young (EY), Pacific Gas & Electric (PG&E), KPMG, and Health Net (a Centene Corporation subsidiary). I had a vision of providing more value to business organizations than what my M&A work allowed for, so I began to explore and learn how to apply regressions, advanced analytics, and machine learning for data-driven decision making.
+My career includes over a decade of data analysis, consulting, financial modeling, and data science for Ernst & Young (EY), Pacific Gas & Electric (PG&E), KPMG, and Centene Corporation (Health Net of California). I had a vision of providing more value to business organizations so I began to explore and learn how to apply statistics, advanced analytics, and machine learning for data-driven decision making.
 
 Finding a new passion in analytics and data science, I pursued a Business Analytics graduate degree at the University of California, Irvine, and graduated in 2019. Throughout my graduate program, I leveraged my data and financial modeling experiences to help financial services firms, advertising agencies, and retail businesses. Throughout my masters program, I developed a commercial AI product for financial modelers and since graduating, I have been at Health Net as a Data Scientist III. My core responsibilities include the development of machine learning and AI models for strategic insights.
 
@@ -19,9 +19,8 @@ I’m humbled to be part of the data science community, continuously learning, n
 
 ## Programming & Analytics Skills
 
-* **R**: RStudio, R Markdown, flexdashboards, R Shiny, plyr, dplyr, ggplot2, reshape2, sqldf, blogdown, Plotly, gganimate, lm / glm, Keras, TensorFlow, data.table, ReadR, vroom, broom, officeR, Facebook Prophet, and more R packages
-* **Python**: Pandas, NumPy, scikit-learn, RStudio (via R Markdown + reticulate), voila, PySpark, Google Colab, matplotlib, seaborn, Plotly, PyTorch, and more Python libraries
-* **Other Analytics & Programming Tools**: Tableau, SQL, JupyterLab, Jupyter Notebooks, Microsoft Dynamics / D365, Microsoft PowerBI, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, SAP Analysis for Excel, Adaptive Insights, SAS, Hugo, Netlify
+* **R**: RStudio, R Markdown, Shiny, RStudio Connect, flexdashboards, tidyverse packages, blogdown, plotly, leaflet, data.table, recipes, H2O, caret, tidymodels (parsnip, dials, tune), broom, xaringan, Facebook Prophet, and experience using many more R packages
+* **Other Analytics & Programming Tools**: Tableau, SQL, JupyterHub, Jupyter Notebooks, Microsoft Dynamics / D365, Alteryx, Linux (Ubuntu), NetBase, IBM Watson Cloud Studio, MegaStat, SAP Business Objects, SAP Analysis for Excel, SAS, Hugo, Netlify
 * **Microsoft Excel**: pivot tables, nested IF statements, INDEX / MATCH functions, VLOOKUP / HLOOKUP functions, Solver (for optimization and simulations)
 * **Microsoft Access**: data pipelines, data manipulation, ODBC integration, query design (joins, crosstab, make-table, etc.), reports, forms, macros
 
@@ -39,3 +38,11 @@ I am not a web developer but I created this website using the [R](https://www.r-
 ## Professional Resume
 
 Web Resume: [https://www.javierorraca.com/resume/](https://www.javierorraca.com/resume/)
+
+## Contact Info and Social
+
+Personal Email: [orraca.javier@gmail.com](mailto:orraca.javier@gmail.com)
+<br/>LinkedIn: [https://www.linkedin.com/in/orraca/](https://www.linkedin.com/in/orraca/)
+<br/>Tableau Public: [https://public.tableau.com/profile/javier.orraca](https://public.tableau.com/profile/javier.orraca#!/)
+<br/>Scatter Podcast on SoundCloud: [https://soundcloud.com/scatterpodcast](https://soundcloud.com/scatterpodcast)
+<br/>GitHub: [https://github.com/JavOrraca](https://github.com/JavOrraca)

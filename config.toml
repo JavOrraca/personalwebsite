@@ -33,10 +33,6 @@ googleAnalytics          = "UA-127790709-3"                               # Trac
     text = "resources"
 
 [[params.mainMenu]]
-    link = "/contact"
-    text = "contact"
-
-[[params.mainMenu]]
     link = "/about"
     text = "who is javier?"
 
