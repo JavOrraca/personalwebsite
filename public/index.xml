@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javier Orraca. Data Scientist.</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Javier Orraca. Data Scientist.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2020 01:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 03:42:49 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -73,7 +73,7 @@ If you&amp;rsquo;re interested in developing your analytics and data science cho
       <pubDate>Tue, 05 Nov 2019 03:18:53 -0500</pubDate>
       
       <guid>/blog/2019-11-05-r-shiny-expert-course/</guid>
-      <description>I am super excited about Matt Dancho&amp;rsquo;s new R Shiny Developer course, especially since he&amp;rsquo;s the next guest on Scatter Podcast. He&amp;rsquo;s one of the best data science educators that I&amp;rsquo;ve learned from and the deeper that I dive into my data science career, the more and more value I find from his Business Science courses, Learning Labs, his online tutorials (on the tidyverse, predictive analytics, data science best practices), his R packages&amp;hellip; The guy is a beast!</description>
+      <description>I am super excited about Matt Dancho&amp;lsquo;s new R Shiny Developer course, especially since he&amp;rsquo;s the next guest on Scatter Podcast. He&amp;rsquo;s one of the best data science educators that I&amp;rsquo;ve learned from and the deeper that I dive into my data science career, the more and more value I find from his Business Science courses, Learning Labs, his online tutorials (on the tidyverse, predictive analytics, data science best practices), his R packages&amp;hellip; The guy is a beast!</description>
     </item>
     
     <item>
@@ -82,7 +82,7 @@ If you&amp;rsquo;re interested in developing your analytics and data science cho
       <pubDate>Sun, 27 Oct 2019 03:42:49 -0500</pubDate>
       
       <guid>/resources/</guid>
-      <description>Updated: October 2019 Note: Python online learning recommendations need updating. The Python books are still highly recommended.
+      <description>Updated: October 2019 _Note: Python online learning recommendations need updating. The Python books are still highly recommended._
 Below are data science resources to point you in the right direction for learning more about data analytics, data science, and programming. I&amp;rsquo;ll update the list periodically as I learn of new resources and tools. R, Python, and SQL are programming languages used for data collection, data manipulation, data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence.</description>
     </item>
     
@@ -239,7 +239,7 @@ I&amp;rsquo;m continuously impressed by the stuff that Matt puts out including e
       
       <guid>/blog/2019-08-29-data-science-go/</guid>
       <description>The best data science conference is right around the corner! I attended Data Science GO in 2018 and loved it&amp;hellip; I met industry veterans, business managers, corporate data science leaders, and students wanting to make the most of predictive analytics and data science. Follow the link below to save 43% on DSGO19 today only!
-Kirill Eremenko&amp;rsquo;s Super Data Science podcast was the inspiration for Scatter Podcast, and I wouldn&amp;rsquo;t have pivoted my career into this direction had it not been for his insights.</description>
+Kirill Eremenko&amp;lsquo;s Super Data Science podcast was the inspiration for Scatter Podcast, and I wouldn&amp;rsquo;t have pivoted my career into this direction had it not been for his insights.</description>
     </item>
     
     <item>
@@ -317,7 +317,7 @@ For you Jupyter and Colab fans, rendering Plotly figures to these notebooks (and
       
       <guid>/blog/2019-07-23-linux-tips-learned-the-hard-way/</guid>
       <description>Here are a few tips, learned the hard way, for Linux beginners, data science students, or practitioners wanting to use Linux for machine learning and AI:
-1) If you plan on dual-booting with Windows, there is not a one-size-fits-all solution. Setting up your Windows and BIOS settings to allow for disk partitions and Linux dual-boot can be manufacturer and/or Windows-version specific. I have a Lenovo ThinkPad and I am running pre-installed Windows 10 Professional&amp;hellip; If you have a similar system and looking to dual-boot, I&amp;rsquo;m happy to help with Ubuntu.</description>
+  If you plan on dual-booting with Windows, there is not a one-size-fits-all solution. Setting up your Windows and BIOS settings to allow for disk partitions and Linux dual-boot can be manufacturer and/or Windows-version specific. I have a Lenovo ThinkPad and I am running pre-installed Windows 10 Professional&amp;hellip; If you have a similar system and looking to dual-boot, I&amp;rsquo;m happy to help with Ubuntu.</description>
     </item>
     
     <item>
@@ -385,7 +385,8 @@ These type of AST visuals are all over Hadley Wickham&amp;rsquo;s Advanced R (Se
       <pubDate>Tue, 09 Jul 2019 20:18:53 -0500</pubDate>
       
       <guid>/blog/2019-07-09-ai-for-social-good/</guid>
-      <description>This is a great, 22-minute presentation by Neil Sahota at an AI conference. I met Sahota through UC Irvine, he recently taught my Technology &amp;amp; Analytics Consulting graduate course. In this video, Sahota discusses how AI can be used for social good and biodiversity. Professor Sahota is a beast&amp;hellip; In addition to recently publishing his first book on AI for business, he&amp;rsquo;s extremely active in the data science community and contributes through mentorship and consulting, he&amp;rsquo;s an IBM Master Inventor, he&amp;rsquo;s the United Nations AI subject matter expert, and co-founder of the AI for Good initiative.</description>
+      <description>Sources:
+ Sahota&amp;rsquo;s presentation on AI for Biodiversity: YouTube video Sahota&amp;rsquo;s new book (Amazon): Own the A.I. Revolution: Unlock Your Artificial Intelligence Strategy to Disrupt Your Competition Sahota&amp;rsquo;s AI homepage: Neil Sahota - Inspiring Innovation Sahota on Forbes: Beyond AI: The Need For Solutionists In Creating A Sustainable World  </description>
     </item>
     
     <item>
@@ -412,7 +413,7 @@ These type of AST visuals are all over Hadley Wickham&amp;rsquo;s Advanced R (Se
       <pubDate>Wed, 03 Jul 2019 20:18:53 -0500</pubDate>
       
       <guid>/blog/2019-07-03-advanced-r/</guid>
-      <description>I&amp;rsquo;m done with school but excited to continue learning! I picked up a copy of Jonathan Regenstein&amp;rsquo;s &amp;ldquo;Reproducible Finance with R&amp;rdquo; and Hadley Wickham&amp;rsquo;s &amp;ldquo;Advanced R&amp;rdquo; (2nd Edition, recently released). For my old co-workers in valuation, financial modeling, and corporate finance, I urge all of you to learn the R programming language. I assure you that you&amp;rsquo;ll still use Excel (often), but from a reproducibility perspective for your complex recurring analyses and forecasts, R is a better solution for you.</description>
+      <description>I&amp;rsquo;m done with school but excited to continue learning! I picked up a copy of Jonathan Regenstein&amp;lsquo;s &amp;ldquo;Reproducible Finance with R&amp;rdquo; and Hadley Wickham&amp;lsquo;s &amp;ldquo;Advanced R&amp;rdquo; (2nd Edition, recently released). For my old co-workers in valuation, financial modeling, and corporate finance, I urge all of you to learn the R programming language. I assure you that you&amp;rsquo;ll still use Excel (often), but from a reproducibility perspective for your complex recurring analyses and forecasts, R is a better solution for you.</description>
     </item>
     
     <item>
@@ -481,7 +482,7 @@ The last year has flown by and I&amp;rsquo;m graduating with a MS in Business An
       <pubDate>Wed, 05 Jun 2019 20:18:53 -0500</pubDate>
       
       <guid>/blog/2019-06-05-building-a-deep-learning-server/</guid>
-      <description>Amazon Web Services (AWS) and Google Cloud Platform (GCP) can be phenomenal for processing deep learning models in the cloud, but there&amp;rsquo;s a catch - especially if you&amp;rsquo;re a student or enthusiast with no corporate account access - These cloud tools get expensive! For $1-3 per hour, you can cloud compute using AWS or GCP&amp;hellip; Not bad! But if you want extended access to your cloud instances, or 24&amp;frasl;7 access as I&amp;rsquo;d like to have, cloud solutions become cost prohibitive.</description>
+      <description>Amazon Web Services (AWS) and Google Cloud Platform (GCP) can be phenomenal for processing deep learning models in the cloud, but there&amp;rsquo;s a catch - especially if you&amp;rsquo;re a student or enthusiast with no corporate account access - These cloud tools get expensive! For $1-3 per hour, you can cloud compute using AWS or GCP&amp;hellip; Not bad! But if you want extended access to your cloud instances, or 24/7 access as I&amp;rsquo;d like to have, cloud solutions become cost prohibitive.</description>
     </item>
     
     <item>
@@ -555,7 +556,8 @@ I found the microbenchmark package and started exploring faster file read method
       <pubDate>Fri, 17 May 2019 20:18:53 -0500</pubDate>
       
       <guid>/blog/2019-05-17-artificial-intelligence-with-ray-kurzweil/</guid>
-      <description>The YouTube link below is of Ray Kurzweil speaking at an MIT deep learning course (MIT Professor Lex Fridman&amp;rsquo;s artificial general intelligence course). Kurzwiel is a futurist and Google Director of Engineering. The way in which Kurzweil explains how humans learn and think (e.g., sequences of sequences in the neocortex), and how his brain research provided hints at how to build better and &amp;ldquo;deeper&amp;rdquo; neural networks&amp;hellip; Grab yourself a bag of popcorn and watch this 50 minute video, just amazing stuff here!</description>
+      <description>Bonus for those of you familiar with Markov chains: Kurzweil suspects that we learn via hidden Markov chains in neocortex module hierarchies. If this sounds like jibberish (which it did for me until I watched these videos), Kurzweil explains it easily and eloquently.
+Source: YouTube: Ray Kurzweil&amp;rsquo;s MIT lecture on Future Intelligence Ray Kurzweil on Wikipedia Markov Chains Explained</description>
     </item>
     
     <item>
@@ -750,7 +752,7 @@ Source: Telestron</description>
       <pubDate>Thu, 21 Feb 2019 20:18:53 -0500</pubDate>
       
       <guid>/blog/2019-02-21-ask-data-by-tableau/</guid>
-      <description>Tableau&amp;rsquo;s latest upgrade has a native natural language processing capability called Ask Data - Ask it a question in plain English (&amp;ldquo;What is the profit over time, by business line?&amp;rdquo;) and Tableau &amp;ldquo;determines the most appropriate visualization to satisfy the user’s intent.&amp;rdquo; Super neat, and I&amp;rsquo;m excited to give the upgrade a spin!
+      <description>Tableau&amp;rsquo;s latest upgrade has a native natural language processing capability called Ask Data - Ask it a question in plain English (&amp;ldquo;What is the profit over time, by business line?&amp;quot;) and Tableau &amp;ldquo;determines the most appropriate visualization to satisfy the user’s intent.&amp;rdquo; Super neat, and I&amp;rsquo;m excited to give the upgrade a spin!
 On the surface, Ask Data seems gimmicky&amp;hellip; But as a starting point for visualizations, or for near-instant data investigation during a meeting, this is an awesome feature.</description>
     </item>
     
@@ -800,7 +802,8 @@ This event is open to all (students and non-students), is free for MSA members, 
       
       <guid>/blog/2018-12-28-new-book-recommendations-for-analytics-data-science/</guid>
       <description>Back to school, back to reading! Looking forward to these reads&amp;hellip; I’m finding Naomi Ceder’s The Quick Python Book really helpful for learning Python 3&amp;hellip; definitely a learn-by-doing style that I like. Links to these books below:
-Amazon Book Links: * The Quick Python Book * Superforecasting: The Art and Science of Prediction * Feature Engineering for Machine Learning * AMPL: A Modeling Language for Mathematical Programming * The Signal and The Noise * Python for Data Analysis * Applied Predictive Analytics * Learning Tableau 10 * Data Smart: Using Data Science to Transform Information into Insight</description>
+Amazon Book Links:
+ The Quick Python Book Superforecasting: The Art and Science of Prediction Feature Engineering for Machine Learning AMPL: A Modeling Language for Mathematical Programming The Signal and The Noise Python for Data Analysis Applied Predictive Analytics Learning Tableau 10 Data Smart: Using Data Science to Transform Information into Insight  </description>
     </item>
     
     <item>
@@ -974,8 +977,8 @@ Social Media LinkedIn: https://www.linkedin.com/in/orraca/ Tableau Public: https
       
       <guid>/resume/</guid>
       <description>Leveraging over 14 years of analysis, modeling, financial strategy, and project management experiences, I am seeking opportunities that will allow me to apply business analytics and machine learning for predictive modeling, business strategy, and data-driven insights. I am a creative problem solver driving value through advanced analytics and reproducible reporting.
-Work Experiences Centene Corporation (Health Net), Sacramento, CA Data Scientist III, Strategic Insights (Oct 2019 – Present)
- Supporting Health Net&amp;rsquo;s Product Performance team within Commercial Operations, my team derives data-driven insights for our internal and external stakeholders As part of the Strategic Insights team, we leverage machine learning, artificial intelligence, and interactive web apps via the R programming language for forecasting, scenario testing, simulations, and product analytics As co-organizer of Centene&amp;rsquo;s internal R Users Group, I help to coordinate monthly learning sessions on best practices and data science modeling work flows, and keep Centene&amp;rsquo;s R users apprised of new data analysis, reporting, and visualization techniques Tools: R, RStudio Pro, H2O, Microsoft Excel, SQL, GitLab, JupyterHub, Shiny, RStudio Connect, SAP Business Intelligence  Scatter Podcast, Sacramento, CA Founder &amp;amp; Podcast Host (Jan 2019 – Present)</description>
+Work Experiences Centene Corporation (Health Net), Sacramento, CA _Data Scientist III, Strategic Insights (Oct 2019 – Present)_
+ Supporting Health Net&amp;rsquo;s Product Performance team within Commercial Operations, my team derives data-driven insights for our internal and external stakeholders As part of the Strategic Insights team, we leverage machine learning, artificial intelligence, and interactive web apps via the R programming language for forecasting, scenario testing, simulations, and product analytics As co-organizer of Centene&amp;rsquo;s internal R Users Group, I help to coordinate monthly learning sessions on best practices and data science modeling work flows, and keep Centene&amp;rsquo;s R users apprised of new data analysis, reporting, and visualization techniques Tools: R, RStudio Pro, H2O, Microsoft Excel, SQL, GitLab, JupyterHub, Shiny, RStudio Connect, SAP Business Intelligence  Scatter Podcast, Sacramento, CA _Founder &amp;amp; Podcast Host (Jan 2019 – Present)_</description>
     </item>
     
     <item>

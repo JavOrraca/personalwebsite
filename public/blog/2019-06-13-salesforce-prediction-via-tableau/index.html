@@ -9,12 +9,11 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer">
+
 <meta name="description" content="Javier Orraca&#39;s personal site for sharing analytics and data science resources through his blog and Scatter Podcast.">
 <title>
-Salesforce Stock Price Prediction via R &#43; Tableau - Javier Orraca. Data Scientist.
+    Salesforce Stock Price Prediction via R &#43; Tableau - Javier Orraca. Data Scientist.
 </title>
-
-
 
 
 <link rel="shortcut icon" href="/sam.ico">
@@ -26,11 +25,11 @@ Salesforce Stock Price Prediction via R &#43; Tableau - Javier Orraca. Data Scie
 
 
 
-<link rel="stylesheet" href="/css/main.min.81bbafc4df93b11c1c3e2449464373c384aa4903731b4fc7a77dfcdd979e184f.css" integrity="sha256-gbuvxN&#43;TsRwcPiRJRkNzw4SqSQNzG0/Hp3383ZeeGE8=" crossorigin="anonymous" media="screen">
+<link rel="stylesheet" href="/css/main.min.3c9fa6b3264a9f8be4f27730f1d5f0ded496304d03812ed49d97703ffb28122a.css" integrity="sha256-PJ&#43;msyZKn4vk8ncw8dXw3tSWME0DgS7UnZdwP/soEio=" crossorigin="anonymous" media="screen">
 
 
 
- 
+
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
 
@@ -46,8 +45,7 @@ Independent Variables: U.S. consumer sentiment index (published by the Universit
 Independent Variables: U.S. consumer sentiment index (published by the University of Michigan) GDP CRM historical stock prices Other tech stocks (IBM, Oracle, SAP) Month (as categorical, for seasonality)" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/blog/2019-06-13-salesforce-prediction-via-tableau/" />
-
-<meta property="og:image" content="/tn.png" />
+<meta property="og:image" content="/tn.png"/>
 <meta property="article:published_time" content="2019-06-13T20:18:53-05:00" />
 <meta property="article:modified_time" content="2019-06-13T20:18:53-05:00" /><meta property="og:site_name" content="Javier Orraca. Data Scientist." />
 
@@ -76,34 +74,38 @@ if (!doNotTrack) {
 </head>
 
 <body>
-    <div class="wrap">
-        <div class="section" id="title">Salesforce Stock Price Prediction via R &#43; Tableau</div>
-
-        <div class="section" id="content"><p><img src="https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/Salesforce.jpg" alt="" /></p>
-
+    
+    
+    <header class="wrap flex-container">
+        <h1>Salesforce Stock Price Prediction via R + Tableau</h1>
+    </header>
+    
+    <main class="wrap">
+        
+        <article role="article" class="flex-container"><p><img src="https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/Salesforce.jpg" alt=""></p>
 <p>Where will Salesforce stock (CRM) be at the end of 2019? $178.40! I used R to produce a multi-variate time series model and Tableau to visualize historical CRM stock prices (grey line) vs my model (blue line), including my Dec 2019 prediction (red dot). The model was built in February using historical stock price data from 2004 to 2018. Play around with the Tableau viz (link below)!</p>
-
 <p>Independent Variables:
-<br/>U.S. consumer sentiment index (published by the University of Michigan)
-<br/>GDP
-<br/>CRM historical stock prices
-<br/>Other tech stocks (IBM, Oracle, SAP)
-<br/>Month (as categorical, for seasonality)</p>
-
+<!-- raw HTML omitted -->U.S. consumer sentiment index (published by the University of Michigan)
+<!-- raw HTML omitted -->GDP
+<!-- raw HTML omitted -->CRM historical stock prices
+<!-- raw HTML omitted -->Other tech stocks (IBM, Oracle, SAP)
+<!-- raw HTML omitted -->Month (as categorical, for seasonality)</p>
 <p>High-level model process:
-<br/>Linear regression model created for log-transformed historical data
-<br/>Uni-variate ARIMA time series models produced for each independent variable (excluding month)
-<br/>ARIMA model output used to predict monthly 2019 data points and these data points were then log-transformed
-<br/>Log-transformed ARIMA data points joined into one data set and processed as input to the original linear regression model created above
-<br/>Linear regression score outputs were exponentiated
-<br/>The model coefficients were incorporated into Tableau for a &ldquo;what-if&rdquo; style interactive visualization</p>
-
+<!-- raw HTML omitted -->Linear regression model created for log-transformed historical data
+<!-- raw HTML omitted -->Uni-variate ARIMA time series models produced for each independent variable (excluding month)
+<!-- raw HTML omitted -->ARIMA model output used to predict monthly 2019 data points and these data points were then log-transformed
+<!-- raw HTML omitted -->Log-transformed ARIMA data points joined into one data set and processed as input to the original linear regression model created above
+<!-- raw HTML omitted -->Linear regression score outputs were exponentiated
+<!-- raw HTML omitted -->The model coefficients were incorporated into Tableau for a &ldquo;what-if&rdquo; style interactive visualization</p>
 <p>Source:
-<br/><a href="https://public.tableau.com/profile/javier.orraca#!/vizhome/SalesforceStockPrediction/StockPrediction">Javier&rsquo;s Salesforce Stock Prediction on Tableau Public</a></p>
-</div>
+<!-- raw HTML omitted --><a href="https://public.tableau.com/profile/javier.orraca#!/vizhome/SalesforceStockPrediction/StockPrediction">Javier&rsquo;s Salesforce Stock Prediction on Tableau Public</a></p>
+</article>
+        
 
         
-        <div class="section bottom-menu">
+        
+        <nav role="navigation" class="flex-container bottom-menu">
+            
 <hr />
 <p>
 
@@ -112,27 +114,19 @@ if (!doNotTrack) {
 
     
         
-            <a href="/blog">
-                blog
-            </a>
+            <a href="/blog">blog</a>
         
     
     
         
             &#183; 
-            <a href="/scatterpodcast">
-                scatter podcast
-            </a>
+            <a href="/scatterpodcast">scatter podcast</a>
         
             &#183; 
-            <a href="/resources">
-                resources
-            </a>
+            <a href="/resources">resources</a>
         
             &#183; 
-            <a href="/about">
-                who is javier?
-            </a>
+            <a href="/about">who is javier?</a>
         
     
     &#183; 
@@ -140,11 +134,15 @@ if (!doNotTrack) {
         main
     </a>
 
-</p></div>
+</p>
+        </nav>
         
-
-        <div class="section footer">Javier Orraca. Data Scientist.</div>
-    </div>
+        
+    </main>
+    
+    <footer class="flex-container footer">Javier Orraca. Data Scientist.</footer>
+    
+    
 </body>
 
 </html>

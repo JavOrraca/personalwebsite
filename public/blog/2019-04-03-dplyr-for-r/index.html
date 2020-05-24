@@ -9,12 +9,11 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer">
+
 <meta name="description" content="Javier Orraca&#39;s personal site for sharing analytics and data science resources through his blog and Scatter Podcast.">
 <title>
-dplyr&#39;s if_else vs base R&#39;s ifelse - Javier Orraca. Data Scientist.
+    dplyr&rsquo;s if_else vs base R&rsquo;s ifelse - Javier Orraca. Data Scientist.
 </title>
-
-
 
 
 <link rel="shortcut icon" href="/sam.ico">
@@ -26,11 +25,11 @@ dplyr&#39;s if_else vs base R&#39;s ifelse - Javier Orraca. Data Scientist.
 
 
 
-<link rel="stylesheet" href="/css/main.min.81bbafc4df93b11c1c3e2449464373c384aa4903731b4fc7a77dfcdd979e184f.css" integrity="sha256-gbuvxN&#43;TsRwcPiRJRkNzw4SqSQNzG0/Hp3383ZeeGE8=" crossorigin="anonymous" media="screen">
+<link rel="stylesheet" href="/css/main.min.3c9fa6b3264a9f8be4f27730f1d5f0ded496304d03812ed49d97703ffb28122a.css" integrity="sha256-PJ&#43;msyZKn4vk8ncw8dXw3tSWME0DgS7UnZdwP/soEio=" crossorigin="anonymous" media="screen">
 
 
 
- 
+
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
 
@@ -44,8 +43,7 @@ dplyr&#39;s if_else vs base R&#39;s ifelse - Javier Orraca. Data Scientist.
 <meta property="og:description" content="When working with data sets of significant size, I&rsquo;m always on the lookout for more efficient code (not necessarily fewer lines of code, but code that processes data faster and more effectively). Recently, I was getting antsy waiting for a simple if/else statement to run via R (I was working with a large GB-sized file on my personal computer). While waiting, I researched alternative approaches for performance improvement and found that dplyr, part of R&rsquo;s Tidyverse and one of my favorite packages for data manipulation, has a vectorized if function perfect for the occasion." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/blog/2019-04-03-dplyr-for-r/" />
-
-<meta property="og:image" content="/tn.png" />
+<meta property="og:image" content="/tn.png"/>
 <meta property="article:published_time" content="2019-04-03T20:18:53-05:00" />
 <meta property="article:modified_time" content="2019-04-03T20:18:53-05:00" /><meta property="og:site_name" content="Javier Orraca. Data Scientist." />
 
@@ -68,28 +66,33 @@ if (!doNotTrack) {
     
     <title>
         
-        dplyr&#39;s if_else vs base R&#39;s ifelse
+        dplyr&rsquo;s if_else vs base R&rsquo;s ifelse
         
     </title>
 </head>
 
 <body>
-    <div class="wrap">
-        <div class="section" id="title">dplyr&#39;s if_else vs base R&#39;s ifelse</div>
-
-        <div class="section" id="content"><p><img src="https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/dplyr.jpg" alt="" /></p>
-
+    
+    
+    <header class="wrap flex-container">
+        <h1>dplyr&rsquo;s if_else vs base R&rsquo;s ifelse</h1>
+    </header>
+    
+    <main class="wrap">
+        
+        <article role="article" class="flex-container"><p><img src="https://raw.githubusercontent.com/JavOrraca/Home/gh-pages/assets/img/dplyr.jpg" alt=""></p>
 <p>When working with data sets of significant size, I&rsquo;m always on the lookout for more efficient code (not necessarily fewer lines of code, but code that processes data faster and more effectively). Recently, I was getting antsy waiting for a simple if/else statement to run via R (I was working with a large GB-sized file on my personal computer). While waiting, I researched alternative approaches for performance improvement and found that <a href="https://dplyr.tidyverse.org/">dplyr</a>, part of R&rsquo;s Tidyverse and one of my favorite packages for data manipulation, has a vectorized if function perfect for the occasion.</p>
-
 <p>I was quite surprised to find that base R&rsquo;s ifelse function ran over 70% slower than dplyr&rsquo;s if_else on my data set. This is due to dplyr&rsquo;s if_else function being a vectorized interpretation of base R&rsquo;s ifelse, meaning that dplyr&rsquo;s if_else function works not just on a single value at a time but on the whole vector of values simultaneously. Sometimes, your problem can&rsquo;t utilize vectorized functions, but for if/else cases on massive data sets, this function is a gem!</p>
-
 <p>Sources:
-<br/><a href="https://dplyr.tidyverse.org/reference/if_else.html">dplyr: Vectorised if</a>
-<br/><a href="https://www.tidyverse.org/">Tidyverse: A Collection of R Packages</a></p>
-</div>
+<!-- raw HTML omitted --><a href="https://dplyr.tidyverse.org/reference/if_else.html">dplyr: Vectorised if</a>
+<!-- raw HTML omitted --><a href="https://www.tidyverse.org/">Tidyverse: A Collection of R Packages</a></p>
+</article>
+        
 
         
-        <div class="section bottom-menu">
+        
+        <nav role="navigation" class="flex-container bottom-menu">
+            
 <hr />
 <p>
 
@@ -98,27 +101,19 @@ if (!doNotTrack) {
 
     
         
-            <a href="/blog">
-                blog
-            </a>
+            <a href="/blog">blog</a>
         
     
     
         
             &#183; 
-            <a href="/scatterpodcast">
-                scatter podcast
-            </a>
+            <a href="/scatterpodcast">scatter podcast</a>
         
             &#183; 
-            <a href="/resources">
-                resources
-            </a>
+            <a href="/resources">resources</a>
         
             &#183; 
-            <a href="/about">
-                who is javier?
-            </a>
+            <a href="/about">who is javier?</a>
         
     
     &#183; 
@@ -126,11 +121,15 @@ if (!doNotTrack) {
         main
     </a>
 
-</p></div>
+</p>
+        </nav>
         
-
-        <div class="section footer">Javier Orraca. Data Scientist.</div>
-    </div>
+        
+    </main>
+    
+    <footer class="flex-container footer">Javier Orraca. Data Scientist.</footer>
+    
+    
 </body>
 
 </html>

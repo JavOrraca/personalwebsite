@@ -37,7 +37,7 @@ I am not a web developer but I created this website using the [R](https://www.r-
 
 ## Professional Resume
 
-Web Resume: [https://www.javierorraca.com/resume/](https://www.javierorraca.com/resume/)
+Web Resume: [https://www.javierorraca.com/resume/](https://amazing-brown-fc6134.netlify.app/)
 
 ## Contact Info and Social
 
