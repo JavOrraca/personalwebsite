@@ -21,19 +21,19 @@ googleAnalytics          = "UA-127790709-3"                               # Trac
     title                = "Javier Orraca. Data Scientist."
 
 [[params.mainMenu]]
-    link = "/blog"
+    link = "blog"
     text = "blog"
 
 [[params.mainMenu]]
-    link = "/scatterpodcast"
+    link = "scatterpodcast"
     text = "scatter podcast"
 
 [[params.mainMenu]]
-    link = "/resources"
+    link = "resources"
     text = "resources"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "about"
     text = "who is javier?"
 
 [imaging]
