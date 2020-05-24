@@ -1,0 +1,18 @@
+[build]
+command = "hugo"
+publish = "public"
+
+[context.production.environment]
+HUGO_VERSION = "0.69.2"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+command = "hugo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.69.2"
+HUGO_ENV = "production"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.69.2"
