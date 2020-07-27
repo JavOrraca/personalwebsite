@@ -41,8 +41,8 @@ Web Resume: [https://www.javierorraca.com/resume/](https://amazing-brown-fc6134.
 
 ## Contact Info and Social
 
-Personal Email: [orraca.javier@gmail.com](mailto:orraca.javier@gmail.com)
-<br/>LinkedIn: [https://www.linkedin.com/in/orraca/](https://www.linkedin.com/in/orraca/)
-<br/>Tableau Public: [https://public.tableau.com/profile/javier.orraca](https://public.tableau.com/profile/javier.orraca#!/)
-<br/>Scatter Podcast on SoundCloud: [https://soundcloud.com/scatterpodcast](https://soundcloud.com/scatterpodcast)
-<br/>GitHub: [https://github.com/JavOrraca](https://github.com/JavOrraca)
+* Personal Email: [orraca.javier@gmail.com](mailto:orraca.javier@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/orraca/](https://www.linkedin.com/in/orraca/)
+* Tableau Public: [https://public.tableau.com/profile/javier.orraca](https://public.tableau.com/profile/javier.orraca#!/)
+* Scatter Podcast on SoundCloud: [https://soundcloud.com/scatterpodcast](https://soundcloud.com/scatterpodcast)
+* GitHub: [https://github.com/JavOrraca](https://github.com/JavOrraca)
